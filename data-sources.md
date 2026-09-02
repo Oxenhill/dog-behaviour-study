@@ -22,10 +22,16 @@
 | Australia | AIHW — Injury in Australia: Contact with living things | https://www.aihw.gov.au/reports/injury/contact-with-living-things | 2000–2024 | ✅ | A | Current; 36.1/100,000 in 2023/24 |
 | Australia | AIHW — Dog-related injuries fact sheet | https://www.aihw.gov.au/reports/injury/dog-related-injuries-briefing/ | 2000–2014 | ✅ | A | Historical baseline |
 | Japan | Japan Ministry of Environment | https://japantoday.com/category/features/kuchikomi/dog-bite-incidents-in-japan-number-in-the-thousands-every-year | 2015 | ⚠️ | A | Only serious incidents reported; 2015 data only |
-| Canada | — | — | — | 🔍 | — | Canadian Vet Journal referenced; Phase 2 |
+| Canada | CHIRPP (Canadian Hospitals Injury Reporting and Prevention Program) injury brief | dogbitelaw.com-hosted reproduction | 1990-2003 | ✅ | B (reproduction of a government surveillance program; primary not independently located) | Hospitalisation rate 1.57/100,000 (2002-03) -- pre-dates study window |
+| Canada | Canadian Journal of Emergency Medicine, dog bites in the ED (Halifax, NS region) | Cambridge Core | 2013-2015 | ✅ | A (peer-reviewed) | n=475 adult ED cases, 3 hospitalised, pit-bull-type 27% of implicated breeds |
+| Canada | Raghavan, Martens et al., Manitoba BSL-effectiveness study | PMID 22753529 | ~2012-2013 publication | 🔍 | A (peer-reviewed, indexed) | Identified but full text blocked (reCAPTCHA/403) this session across PubMed/PMC/Cureus/SafetyLit -- named priority for next session |
 | Germany | — | — | — | 🔍 | — | Destatis / Robert Koch Institut; Phase 2 |
 | Scandinavia | Patient registries (NPR, Swedish PR, Danish NPR) | — | — | 🔍 | — | Phase 2 required |
-| New Zealand | Mair et al. 2019, NZMJ | doi cited in Aus study; NZMJ 132(1494):8-14 | 2019 | 🔍 | A | Phase 2 |
+| New Zealand | Mair et al. 2019, NZMJ | doi cited in Aus study; NZMJ 132(1494):8-14 | 2019 | 🔍 | A | Re-confirmed via PubMed (PMID 31048820) this session; full text still NOT extracted -- top priority next session |
+| New Zealand | "Epidemiology of dog-related injuries within New Zealand" (2022 follow-up) | nzmj.org.nz, vol 135 no 1554 (direct PDF URL captured) | 2022 | 🔍 | A | Newly identified this session; not extracted |
+| New Zealand | "An audit of dog-related injury notification practices in a New Zealand public hospital" | PMID 35728209 | 2022 | 🔍 | A | Newly identified this session; not extracted |
+| France | Sarenbo & Svensson 2021 (Eurostat W54, fatalities) | see Europe row above | 1995-2016 | ✅ | A | 79 fatalities -- 3rd highest of 13 European countries in that dataset |
+| France | INVS/Sante publique France(?) ED severity study (filename `invs-morsure-chien.pdf`, hosted at recomedicales.fr) | recomedicales.fr | unknown | 🔍 | unconfirmed -- likely A if primary govt source confirmed | Identified this session; NOT extracted -- top France priority next session |
 
 ---
 
@@ -45,6 +51,10 @@
 | Australia | RSPCA SA 2018 review | https://www.rspcasa.org.au/pet-surrenders-2018/ | 2018 | ✅ | B | 12.2% behaviour surrender; single state |
 | Netherlands | Hermsen 2012 / Utrecht University thesis | Utrecht University studenttheses database | 2012 | ⚠️ | B | Limited; Dutch-language primary source |
 | Japan | Japan Ministry of Environment statistics | Statista (paywalled) | 2014–2023 | 🔍 | A | Phase 2 — requires access or direct contact |
+| Canada | Humane Canada, 2021 Canadian Animal Shelter Statistics Report | aka-humane-canada-prod.s3 (direct PDF) | 2021 (with 2019-2020 comparison) | ✅ | A | Dog intake 20,974 (92 shelters); euthanasia rate 10%; behaviour NOT isolated as a surrender-reason category (economic/vet-cost factors foregrounded instead) -- definitional gap flagged |
+| New Zealand | SPCA New Zealand Annual Reports (2018-19, 2019-20) | spca.nz (direct PDF URLs captured) | 2018-2020 | 🔍 | B | Identified, not extracted |
+| New Zealand | "Post-Adoption Problem Behaviours in Adolescent and Adult Dogs Rehomed through a New Zealand Animal Shelter" | Animals (MDPI), doi:10.3390/ani8060093 | — | 🔍 | A (peer-reviewed) | Directly relevant to household-integration-success outcomes specifically; identified, not extracted |
+| France | SPA (Societe Protectrice des Animaux), national abandonment study | la-spa.fr (direct PDF: SPA_Abandon_Etude_FR_Web.pdf) | 2025 report | 🔍 | B/A (national animal welfare authority) | Identified this session -- second France priority next session; NOT extracted |
 
 ---
 
@@ -76,6 +86,74 @@
 | UK Dogs Trust Annual Report 2024 | Dogs Trust | https://www.dogstrust.org.uk/about-us/media-centre/annual-report-2024 | B |
 | Japan dog owner education (municipal) | PMC12897032 | Same as above | A |
 | Systematic review — surrender reasons | Lambert et al. 2015, ScienceDirect | https://www.sciencedirect.com/science/article/abs/pii/S0167587714003766 | A |
+| Population density (all countries) | Worldometer / UN Population Division | https://www.worldometers.info/world-population/population-by-country/ | B |
+| Dog population/ownership % — Europe (12 countries) | FEDIAF Facts & Figures 2022 (PDF) | https://europeanpetfood.org/wp-content/uploads/2024/06/FEDIAF-Facts-Figures-2022_Online100.pdf | A |
+| Dog population — Germany | ZZF/IVH, Skopos survey | Cited via GlobalPETS (globalpetindustry.com) | B |
+| Dog population — Netherlands trend | Dibevo/NVG survey | Cited via GlobalPETS | B |
+| Dog population — Japan trend 2015-2025 | Japan Pet Food Association, National Survey on Dog and Cat Ownership | Cited via PetfoodIndustry | A |
+| Dog population — Canada | Canadian Animal Health Institute (CAHI) 2022 Pet Population Survey, Kynetec | Cited via GlobeNewswire/CAHI press release | B |
+| Dog population — New Zealand | Companion Animals NZ (CANZ), 2024 NZ Pet Data Report, Insights HQ | companionanimals.nz | B |
+| Breeding regulation — UK licensing 2018 | Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 | https://www.legislation.gov.uk/ukdsi/2018/9780111165485 | A |
+| Breeding regulation — UK Lucy's Law | UK Government DEFRA media blog, 6 Apr 2020 | https://deframedia.blog.gov.uk/2020/04/06/lucys-law-comes-into-force/ | A |
+| Breeding regulation — USA USDA | ASPCA, "Federal Licensing & USDA Standards" | https://www.aspca.org/barred-from-love/laws-rules/federal-licensing-usda-standards | B |
+| Breeding regulation — Germany Qualzucht | Deutscher Tierschutzbund press releases | https://www.tierschutzbund.de/en/animals-topics/pets/torture-breeding/ and the 4 Apr 2024 specification press release | A (with dating caveats — see variables/breeding-regulation-and-ethics.md) |
+| Breeding regulation — Netherlands short-muzzle rule | FECAVA | https://www.fecava.org/news-and-events/news/dutch-prohibition-of-the-breeding-of-dogs-with-too-short-muzzles/ | B |
+| Breeding regulation — Australia (Victoria) | Oscar's Law | https://www.oscarslaw.org/blog/victorian-legislation-summary-and-faq | B |
+| Breeding regulation — EU-wide proposal | FOUR PAWS International, summarising European Commission COM(2023) 769 | https://www.four-paws.org/campaigns-topics/topics/companion-animals/new-rules-for-the-welfare-of-cats-and-dogs-in-the-eu | A/B |
+| Breeding regulation — EU-wide 2026 rules (unconfirmed) | European Parliament press room | https://www.europarl.europa.eu/news/en/press-room/20260423IPR41833/first-eu-rules-to-protect-cats-and-dogs-from-abuses | Unconfirmed — robots-blocked, title/date only |
+| BSL — UK XL Bully | GOV.UK official guidance | https://www.gov.uk/guidance/ban-on-xl-bully-dogs | A |
+| BSL — Denmark | VisitSonderjylland | https://www.visitsonderjylland.com/tourist/information/danish-act-dogs | B |
+| BSL — Norway (current list) | Mattilsynet (Norwegian Food Safety Authority) | https://www.mattilsynet.no/en/animals/banned-dogs | A |
+
+---
+
+## Population Scope Audit
+> Per the study's original scope rule — captive dogs living with humans only, not strays/free-roaming/community dogs.
+> Every source below is tagged: **[household-only]** confirmed by source construction or verified national context | **[mixed/unclear]** source does not separate populations | **[includes-strays]** confirmed to mix in non-household dogs.
+> Full rationale for each is in the relevant data/by-country/*.md file's Population Scope Note. This table is the registry-level summary.
+
+### Bite incident sources
+| Source | Scope tag | Basis |
+|--------|-----------|-------|
+| USA — CDC WISQARS / MMWR | mixed/unclear | National fatality data not ownership-restricted; US has non-trivial free-roaming/community dog population in some regions |
+| USA — HCUP NEDS | mixed/unclear | ICD-10 W54 coding does not record ownership status |
+| USA — Insurance Information Institute | household-only | Liability claims require an identified policyholder's dog |
+| USA — USPS carrier bite data | household-only | Logged at private residences, virtually always an owned dog |
+| UK — NHS HES / Tulloch et al. 2021 / British Brief | mixed/unclear, low practical risk | ICD-10 W54 not ownership-restricted, but UK stray population is near-zero |
+| Europe — Sarenbo & Svensson 2021 (Eurostat W54) | mixed/unclear (varies by country in dataset) | Fatality coding not ownership-restricted; risk is low for NL/Nordic/UK subset used here, unverified for other countries in the wider dataset |
+| Netherlands — Cornelissen & Hopster 2010 | household-only (inferred) | Survey methodology itself doesn't restrict to owned dogs, but NL's verified zero-stray policy context makes the sampled population functionally household-only |
+| Australia — AIHW (both reports) | mixed/unclear | ICD-10 W54 not ownership-restricted; free-roaming dogs documented in some remote/Indigenous communities |
+| Japan — Ministry of Environment | mixed/unclear | 'Serious incident' reporting doesn't specify ownership; small non-zero free-roaming population historically |
+| Canada / Germany / Scandinavia / New Zealand | not yet assessed | No data extracted yet — scope must be checked at point of extraction, not assumed |
+
+### Shelter surrender / relinquishment sources
+| Source | Scope tag | Basis |
+|--------|-----------|-------|
+| USA — Shelter Animals Count, 'owner surrender' category | household-only | By definition |
+| USA — SAC 'stray' intake category | mixed/unclear | Nationally, 'stray' intake is not separated from lost-but-owned pets |
+| USA — Kisley 2024 / Salman 2000 / ASPCA behaviour-reason studies | household-only | All study owner-initiated surrenders specifically |
+| UK — Dogs Trust Annual Report 2024 | household-only | Owner-initiated contact/relinquishment |
+| UK — Diesel et al. / PMC8532592 rescue-centre data | mixed/unclear | UK rescue centres take both owner surrenders and stray/abandoned dogs, not separated in published figures |
+| Australia — RSPCA Australia overall intake/euthanasia | mixed/unclear | Surrenders, strays and seized dogs combined nationally |
+| Australia — RSPCA SA 2018 (12.2% behaviour) | household-only | Describes the surrender subset specifically |
+| Netherlands — shelter/relinquishment data | household-only | NL's no-stray policy architecture means shelter data is owner-relinquished dogs only, by system design |
+| Japan — hokensho intake data | mixed/unclear, temporal dimension | Historically combined owner-surrender and captured-stray dogs; likely shifting toward owner-surrender-dominant as NL-style stray decline continues, but unconfirmed by any published breakdown |
+
+### Behaviour referral / professional sources
+| Source | Scope tag | Basis |
+|--------|-----------|-------|
+| USA — PMC8909650 (VetBehavioral clinic) | household-only | Veterinary referral clinic caseload = client-owned dogs |
+| Ireland/UK — Duggan et al. 2018 | household-only | Veterinary practice referral survey = client-owned dogs |
+| Australia — PMC7918417 (VetCompass AU) | household-only | Primary-care veterinary practice data = client-owned dogs |
+
+### Session 2 additions (Canada, New Zealand, France)
+| Source | Scope tag | Basis |
+|--------|-----------|-------|
+| Canada — CHIRPP, CJEM Halifax ED study | mixed/unclear | Not ownership-restricted; Canada has documented free-roaming dog populations in some remote/northern communities |
+| Canada — Humane Canada 2021 shelter report | mixed/unclear | Stray and owner-surrender intake not separated in the content extracted |
+| New Zealand, France — all bite/shelter sources identified this session | not yet assessed | Not extracted yet — scope must be checked at extraction, per the standing rule below |
+
+**Standing rule going forward:** every new source added to this registry (Phase 2 gap-filling or Phase 4 variables) must get a scope tag at the point of extraction, in the same pass as the source is logged — not retrofitted later.
 
 ---
 
@@ -89,14 +167,15 @@
 
 ---
 
-## Key Institutions to Search in Phase 2
-- Statistics Netherlands (CBS) — Dutch government health data
-- Robert Koch Institut (Germany) — German health statistics
-- Destatis (German Federal Statistical Office)
-- Tasso e.V. / PETA Germany — German shelter data
-- Statistics Canada / Canadian Institute for Health Information
-- NZMJ (New Zealand Medical Journal) — 2019 hospitalisation study
-- Eurostat full dataset (ICD-10 W54, full country list)
-- FEDIAF — European pet industry ownership data
-- PDSA PAW Report full data tables
-- French government statistics (INSEE) / SPA (Société Protectrice des Animaux)
+## Key Institutions to Search in Phase 2 (Session 2 status update)
+- Statistics Netherlands (CBS) — Dutch government health data — still not located
+- Robert Koch Institut (Germany) — German health statistics — still not located
+- Destatis (German Federal Statistical Office) — still not located
+- Tasso e.V. / PETA Germany — German shelter data — still not located
+- Statistics Canada / Canadian Institute for Health Information (CIHI) — NOT located directly this session; CHIRPP (a different Canadian program) and Humane Canada were found and extracted instead — CIHI itself remains a specific next-session target
+- NZMJ (New Zealand Medical Journal) — 2019 Mair et al. study RE-IDENTIFIED (PMID 31048820) plus a 2022 follow-up study newly found — full-text extraction blocked by a tool limit this session, TOP PRIORITY next session
+- Eurostat full dataset (ICD-10 W54, full country list) — partially used (Sarenbo & Svensson 2021 secondary analysis); full Eurostat dataset itself not directly queried
+- FEDIAF — ✅ DONE this session (Facts & Figures 2022 PDF located and extracted)
+- PDSA PAW Report full data tables — UK headline figures used (prior session); full data tables not deep-dived
+- French government statistics (INSEE) / SPA (Société Protectrice des Animaux) — SPA national abandonment study (2025) and a likely-INVS bite-severity PDF both newly IDENTIFIED this session but NOT extracted (tool limit) — both are named next-session priorities
+- NEW this session: Companion Animals New Zealand (CANZ) — NZ ownership data extracted; Canadian Animal Health Institute (CAHI) — Canada ownership data extracted; Japan Pet Food Association — Japan ownership trend extracted; European Parliament — 23 Apr 2026 EU cat/dog welfare rules identified but blocked (robots.txt) for full-text, worth a direct retry next session

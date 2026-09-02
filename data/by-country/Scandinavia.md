@@ -15,6 +15,8 @@
 
 **Data gap flagged:** Hospital admission rates for Scandinavia not located in Phase 1 English-language search. Scandinavian health registers (NPR — Norwegian Patient Registry; Swedish Patient Register; Danish National Patient Registry) publish this data but was not retrieved in Phase 1.
 
+**Population scope note (bite data):** Eurostat/Sarenbo & Svensson fatality data (ICD-10 W54) is not restricted by ownership status. All four Nordic countries have effectively zero free-roaming dog populations (similar to the Netherlands), so this is expected to be functionally household-only in practice, but — as with the Netherlands — this is an inference from national context, not something the source itself confirms. Tagged **[Scope: household-only, inferred from low-stray national context]**.
+
 ## Shelter / Relinquishment Data
 
 **Data gap flagged:** Scandinavian shelter data not located in Phase 1.

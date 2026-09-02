@@ -28,6 +28,8 @@ The Netherlands' 830 per 100,000 figure (all bites) appears high, but the hospit
 - Hungary highest in Europe (94 deaths 1995–2016); France 79; UK 56; Poland 49
 - Source: *Bitten or struck by dog: A rising number of fatalities in Europe, 1995–2016*, Forensic Science International 2020
 
+**Population scope note (bite data):** Cornelissen & Hopster 2010 is an internet survey and does not itself restrict responses to household-owned dogs (a bite from a neighbour's or stranger's dog would still be reported). However, the Netherlands has an independently verified, government-policy-driven zero (or near-zero) free-roaming dog population, so the underlying dog population being sampled from is functionally household-only. Tagged **[Scope: household-only, verified by national policy context rather than by the source's own methodology]**.
+
 ## Shelter / Stray Dog Data
 
 **Source: Multiple — A grade for zero stray dog status (government policy, independently verified)**
@@ -36,7 +38,7 @@ The Netherlands' 830 per 100,000 figure (all bites) appears high, but the hospit
 |--------|--------|--------|
 | Stray dog population | Zero (effectively) | Multiple verified sources; Dutch government policy |
 | Shelter policy | No-kill mandatory | Dutch law |
-| Dog population | ~1 million (90% of Dutch people reportedly own a dog — likely overstated; ~1M dogs more probable) | Various |
+| Dog population | ~1.7-1.8 million (FEDIAF 2022: 1.83M/18% households; Dibevo/NVG survey: 1.8M in 2021 declining to 1.7M by 2025) | FEDIAF Facts & Figures 2022; Dibevo/NVG survey via GlobalPETS — supersedes prior session's rough ~1M estimate, see variables/population-density-and-ownership.md |
 | Dog ownership rate | One of highest in EU | FEDIAF |
 | Dog microchipping | Mandatory | Dutch law |
 | Municipal registration | Mandatory | Dutch law |
@@ -51,6 +53,8 @@ The Netherlands has eliminated the stray dog problem entirely through a multi-de
 - A Utrecht University thesis (Hermsen 2012 research programme) investigated behaviour problems in shelter dogs — Dutch shelters DO receive behaviour-problem dogs but breakdown not accessible as published aggregate data
 - Hondenbescherming (Dutch animal protection) runs this research — contact institution for current data
 
+**Population scope confirmation (shelter data):** **[Scope: household-only]** — confirmed above; the Netherlands' no-stray policy architecture means shelter/relinquishment data by construction describes owner-relinquished household dogs only.
+
 ## Breed Specific Legislation
 
 **Notable:** Netherlands repealed BSL (Pit Bull ban) in **2009**, following evidence that it had not reduced bite incidence.
@@ -62,7 +66,7 @@ The Netherlands has eliminated the stray dog problem entirely through a multi-de
 
 | Variable | Detail | Source |
 |----------|--------|--------|
-| Dog population | ~1 million | Estimate |
+| Dog population | ~1.7-1.8 million | FEDIAF 2022 / Dibevo-NVG survey (see variables/population-density-and-ownership.md) |
 | Population density | 523/km² (highest in EU excluding city-states) | World Bank |
 | Dog trainer regulation | No mandatory licensing nationally | perPETual article |
 | BSL | Repealed 2009 | Dutch government |

@@ -27,6 +27,8 @@
 - Cost per claim increased 209.2% from 2016–2025 (Insurance Information Institute)
 - Source: Insurance Information Institute, annual Spotlight on Dog Bite Liability
 
+**Population scope note (bite data):** CDC WISQARS/MMWR fatality data and HCUP ER/hospitalisation data are NOT restricted by ownership status — they record all reported dog bites/attacks regardless of whether the dog was owned, stray, feral, or a working/security dog. The US has a modest but real free-roaming and community-dog population (parts of the rural South, some tribal lands), so this data is tagged **[Scope: mixed/unclear]**, not assumed household-only. By contrast, USPS carrier-bite data and Insurance Information Institute liability claims ARE **[Scope: household-only]** by construction — a liability claim requires an identified policyholder's dog, and carrier bites are logged at private residences.
+
 ## Shelter Surrender / Relinquishment Data
 
 **Source: Shelter Animals Count (SAC) national database — A grade**
@@ -58,12 +60,16 @@
 - 10% of owner surrenders linked to financial reasons (HASS 2025 Human Commonalities Project)
 - Housing restrictions (no-pet clauses) are the #1 stated single reason for dog surrender
 
+**Population scope note (shelter data):** Shelter Animals Count distinguishes intake type. The 'owner surrender' category is **[Scope: household-only]** by definition. The 59% 'stray' intake category is NOT necessarily non-household — a substantial but unquantified share of 'stray' intakes nationally are lost/escaped owned pets rather than truly ownerless dogs, and SAC's national aggregate does not separate the two, so it is tagged **[Scope: mixed/unclear]**. The behaviour-as-surrender-reason statistics above (Kisley 2024, Salman 2000/NCPPSP, ASPCA) all specifically study owner-initiated surrenders and are **[Scope: household-only]**.
+
 ## Behaviour Referral / Professional Data
 
 **Source availability: LOW for national rates**
 - Case distribution at one university veterinary behaviour referral service: 1,923 cases over 20 years (1997–2017), 72.2% aggression, 20.1% anxiety/fears — *Source: PMC8909650*
 - No published national rate of referral to behaviour professionals per dog population
 - **Gap flagged:** No US national statistic on behaviour case rate as % of dog-owning households
+
+**Population scope note (referral data):** **[Scope: household-only]** — behaviour referral, by definition, applies to client-owned dogs presented to a veterinary or behaviour-referral service.
 
 ## Variables — Key Facts
 

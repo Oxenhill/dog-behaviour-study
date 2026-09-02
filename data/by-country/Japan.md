@@ -15,6 +15,8 @@
 
 **Data gap flagged:** No equivalent of NHS HES or AIHW data for Japan. Hospital admission data for dog bites in Japan is not published in accessible English-language sources.
 
+**Population scope note (bite data):** Japan MoE 'serious incident' reporting does not specify ownership status. Japan has a very small but non-zero free-roaming dog/cat population in some rural areas historically. Tagged **[Scope: mixed/unclear]**.
+
 ## Shelter / Euthanasia Data
 
 **Primary source: Japan Ministry of Environment — A grade**
@@ -37,6 +39,8 @@
 - PMC comparative analysis notes Japan included in international dog owner education studies
 - Municipally-led dog owner education programmes emphasise "public responsibility" and "community coexistence"
 - Source: *A Comparative Analysis of International Dog Owner Education Programmes*, PMC12897032
+
+**Population scope note (shelter data):** **[Scope: mixed/unclear, with a temporal dimension]** — the hokensho (public health centre) system historically combined owner-surrendered dogs and captured stray/found dogs without separating the two nationally. Because stray capture has declined significantly since the 2010s as Japan's free-roaming population fell, the mix is likely shifting toward owner-surrender-dominant in more recent years — but no published breakdown confirms this, so it must be treated as a stated gap, not assumed.
 
 ## Variables — Key Facts
 

@@ -28,6 +28,8 @@
 - Rural rates significantly higher than urban rates
 - Dog bites = 53% of all pet-related hospitalisations (dogs and cats combined most of 'living things' injury category)
 
+**Population scope note (bite data):** AIHW hospital admission data (ICD-10 W54) is not restricted by ownership status. This is a live consideration for Australia specifically — free-roaming dog populations are documented in some remote and Indigenous communities, so national hospitalisation figures cannot be assumed purely household-sourced. Tagged **[Scope: mixed/unclear]**.
+
 ## Shelter Surrender / Relinquishment Data
 
 **Primary source: RSPCA Australia Annual Statistics — A grade**
@@ -48,12 +50,16 @@
 - The RSPCA Australia 2024-25 report directly links euthanasia to inability to treat behaviour issues through modification programs and safety risk — this is a quality metric for integration failure
 - 17.46% of dogs euthanased overall — comparable to Canadian and US figures but exact behaviour-specific euthanasia rate not isolated in national data
 
+**Population scope note (shelter data):** RSPCA Australia's overall intake/euthanasia figures (e.g. the 17.46% euthanasia rate) are **[Scope: mixed/unclear]** — RSPCA shelters take in owner surrenders, strays, and seized dogs together without a national published breakdown. The RSPCA SA 12.2% 'behaviour' surrender figure specifically describes the surrender subset and is **[Scope: household-only]**.
+
 ## Behaviour Referral / Professional Data
 
 **Source availability: MODERATE**
 - In Australian primary care practices: attending vet referred behaviour cases to behaviourist or trainer in 11.0% of all undesirable behaviour (UB) cases; pharmacological therapy attempted in 5.9% — *Source: PMC7918417, mortality study in dogs ≤3 years, primary-care VetCompass Australia data*
 - 40% of Australian households own dogs (one of world's highest rates) — same source
 - The above referral rate (11%) is one of the only published figures for behaviour referral practice from any country in this study
+
+**Population scope note (referral data):** **[Scope: household-only]** — PMC7918417 draws on VetCompass Australia primary-care practice data, i.e. client-owned dogs under regular veterinary care.
 
 ## Variables — Key Facts
 

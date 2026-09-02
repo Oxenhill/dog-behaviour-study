@@ -34,6 +34,8 @@
 
 **Definition used:** "Bitten or struck by a dog" — ICD-10 external cause code W54, NHS HES Finished Consultant Episodes (FCEs). This is hospital admission only; does not include GP visits or minor injuries. Comparable to Australian AIHW hospitalization coding.
 
+**Population scope note (bite data):** NHS HES admissions and the Tulloch et al. 2021 analysis are coded by ICD-10 W54 ('bitten or struck by dog') and are not restricted by ownership status. The UK has a near-zero free-roaming/stray dog population, so contamination from non-household dogs is expected to be small in practice — but this is an inference, not something the source itself verifies. Tagged **[Scope: mixed/unclear, low practical risk]**.
+
 ## Shelter Surrender / Relinquishment Data
 
 **Primary sources: Dogs Trust Annual Report 2024 (A grade); peer-reviewed studies (B grade)**
@@ -60,6 +62,8 @@
 - Correlation reported between aversive training and behaviour concerns — PDSA PAW Report 2024
 - UK dog population: 10.6 million (2024) — PDSA/YouGov nationally representative survey
 
+**Population scope note (shelter data):** Dogs Trust's 2024 figures (people contacting Dogs Trust, surrender reasons) are **[Scope: household-only]** — they describe owner-initiated relinquishment. Diesel et al. and the rescue-centre data cited in PMC8532592 are **[Scope: mixed/unclear]** — UK rescue centres typically take in both owner-surrendered dogs and stray/abandoned dogs found by the public or local authorities, and the published figures do not separate the two populations.
+
 ## Behaviour Referral / Professional Data
 
 **Source availability: MODERATE — survey data, no national case rate**
@@ -67,6 +71,8 @@
 - Referral pathways in UK: ABTC (Animal Behaviour and Training Council) register, APBC (Association of Pet Behaviour Counsellors), CCAB (Certified Clinical Animal Behaviourist)
 - No regulation of dog trainers in UK (voluntary registration only)
 - **Gap flagged:** No published national rate of behaviour case referrals per dog population in UK
+
+**Population scope note (referral data):** **[Scope: household-only]** — the Duggan et al. 2018 survey and referral pathway data (ABTC/APBC/CCAB) describe referrals from veterinary practices, which by definition treat client-owned dogs.
 
 ## Variables — Key Facts
 

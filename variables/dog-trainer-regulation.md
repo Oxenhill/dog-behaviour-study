@@ -2,6 +2,7 @@
 
 > Source: PMC12897032 (comparative analysis); IACP tracker; perPETual article; country-specific sources
 > All data sourced and cited below
+> **Temporal-linkage note (Session 2):** this file already carries effective dates for most entries (Lower Saxony 2013, Vienna 2019, Wales e-collar 2010, Netherlands e-collar 2018/2022, Austria national 2026) -- treat those dates as load-bearing when matching to metric data from the same period, per the project's temporal-linkage methodology in _PROJECT_STATE.md. Population density/ownership trends now live in variables/population-density-and-ownership.md, breeding regulation in variables/breeding-regulation-and-ethics.md, and BSL history in variables/breed-legislation-timeline.md -- this file's scope is trainer licensing and owner-education/competency requirements plus aversive-equipment (e-collar/prong) bans specifically, to avoid duplicating those three.
 
 ---
 
@@ -93,8 +94,8 @@
 | Australia | None | None | Multiple states | Multiple states | State-based |
 | Japan | None | None | No | No | Limited |
 | Sweden/Finland | None | None | Yes | Yes | No |
-| Denmark | None | None | Yes | ? | Yes (multiple breeds) |
-| Norway | None | None | Yes | ? | Yes (Pit Bull) |
+| Denmark | None | None | Yes | ? | Yes (13 breeds, since 1 Jul 2010 -- see breed-legislation-timeline.md) |
+| Norway | None | None | Yes | ? | Yes (6 breeds/types per Mattilsynet -- corrected from prior session's "Pit Bull" only; see breed-legislation-timeline.md) |
 
 ---
 

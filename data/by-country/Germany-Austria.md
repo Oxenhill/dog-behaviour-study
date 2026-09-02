@@ -23,6 +23,8 @@
 
 **Proxy indicator:** Germany plans stricter breeder controls limiting to 3 bitches with puppies at a time — indicates legislative awareness of welfare/relinquishment link.
 
+**Population scope note:** No bite or shelter data has been extracted for Germany or Austria yet (both flagged as Phase 2 gaps below). When Destatis, Robert Koch Institut, or German/Austrian shelter federation data is located, it must be scope-checked and tagged **[household-only / mixed-unclear / includes-strays]** before use in cross-country comparison — do not assume household-only by default.
+
 ## Variables — Key Facts (Germany)
 
 | Variable | Detail | Source |
