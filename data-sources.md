@@ -253,6 +253,13 @@
 
 **Not yet located this session:** a direct French-language behaviour-problem-prevalence owner survey -- search surfaced only shelter-abandonment statistics and general advice content, not a prevalence figure. Now treated as a genuine gap alongside Netherlands and Germany.
 
+## Broader Behavioural-Problem Prevalence Sources -- Session 11 autonomous-continuation finds
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Australia, direct owner-survey C-BARQ study (RSPCA Queensland, 107 dogs) | PMC7600298, 2020 | https://pmc.ncbi.nlm.nih.gov/articles/PMC7600298/ | A -- resolves the Session-9-named "Australia direct owner-survey" gap, with caveats (shelter-visit-bound sample, not general population) |
+
+**Also attempted:** Japan Pet Food Association's national ownership survey (petfood.or.jp) -- fetch failed (robots.txt timeout), not retried. Japan's core behavioural-prevalence gap remains blocked as previously logged.
+
 ## Broader Behavioural-Problem Prevalence Sources -- Session 11 additional finds (later in the same continued session)
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|

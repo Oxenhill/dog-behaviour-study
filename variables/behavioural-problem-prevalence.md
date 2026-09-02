@@ -139,6 +139,26 @@ Before any cross-country reading of the numbers below, this must be understood: 
 
 **Significance and correction:** the 11%-referred figure itself was ALREADY logged in an earlier session (as PMC7918417 in data/by-country/Australia.md) -- it is the same VetCompass Australia study, reached this session via its MDPI mirror. What this session adds is the surrounding context that was NOT previously extracted: the 82.8%-no-documented-treatment figure, the 29.7%-of-deaths headline, and the road-traffic-accident/dog-attack cause breakdown. Australia.md has been corrected to reflect this rather than presenting the referral rate itself as a new find. It remains genuinely one of the thinnest, most valuable data points in the whole study (referral rate is "Gap" or near-Gap for almost every other country).
 
+**Session 11 (autonomous continuation) addition -- a genuine DIRECT owner-survey C-BARQ study for Australia (distinct from VetCompass's vet-clinic data above), resolving the "Australia OWNER-survey" gap named as a target since Session 9 -- [quality: A, peer-reviewed] -- [Scope: household-only, owner-completed C-BARQ prior to a shelter visit]**
+
+**Source: RSPCA Queensland-affiliated study, via PMC7600298, "Comparison of Canine Behaviour Scored Using a Shelter Behaviour Assessment and an Owner Completed Questionnaire, C-BARQ," 2020**
+
+| Detail | Figure |
+|--------|--------|
+| Sample size | 107 companion dogs |
+| Method | Full C-BARQ completed by owners 1-2 weeks before a shelter visit, compared against a standardised shelter behavioural assessment of the SAME dogs |
+
+| Behaviour category (owner-reported) | Prevalence |
+|--------------------------------------|------------|
+| Fear (across sub-categories) | 32-56% reporting some level |
+| Owner-directed aggression | 5% |
+| Stranger-directed aggression | 28% |
+| Dog-directed aggression | 60% |
+| Touch sensitivity | 44% reporting some occurrence |
+| Attention-seeking/attachment | 69% reporting some occurrence |
+
+**Important caveat -- this study's actual design is NOT a population-prevalence survey:** its primary purpose was to compare owner-reported home behaviour against a standardised shelter assessment of the SAME dogs (testing whether shelter-context behaviour predicts home-context behaviour), not to estimate general Australian dog-population prevalence. The dogs sampled were also specifically ones being brought to an RSPCA Queensland shelter (for boarding, rehoming, or another reason not specified in the extraction), which may not be representative of the general Australian pet-owning population. The percentages above are read from the owner-reported (home) C-BARQ responses. Despite these caveats, this is still the first genuinely DIRECT Australian owner-survey using the priority C-BARQ instrument found in this study (as opposed to VetCompass's vet-clinic administrative data), and the dog-directed-aggression figure (60%) is notably the highest of any aggression sub-type logged for Australia anywhere in this study.
+
 ## United Kingdom
 
 **Source: PDSA PAW Report 2024 -- [quality: A, established annual national survey] -- [Scope: household-only]**
@@ -240,7 +260,7 @@ Two online-survey studies of British Columbia dog owners, using the C-BARQ instr
 
 ## Not yet researched at all (Session 11+ targets)
 - C-BARQ-specific published country comparisons beyond what Session 9's bibliography check found (South Korea, Mexico, Brazil, Argentina, Slovakia, Iran, and an in-review France paper -- Besegher et al. 2025 -- none in this study's core scope except the pending France paper).
-- A dedicated pass specifically for Australia's OWNER-survey prevalence data (the VetCompass entry above is vet-clinic/mortality data, not a direct owner survey like the USA/Finland/Denmark entries) -- would make Australia more directly comparable to those three.
+- ~~A dedicated pass specifically for Australia's OWNER-survey prevalence data~~ **RESOLVED Session 11 (autonomous continuation)** -- see the new RSPCA Queensland/PMC7600298 C-BARQ subsection in the Australia section above, though with the caveat that its sample was shelter-visit-bound dogs, not a general-population survey.
 
 ## Data Gaps (Session 10 status -- updated)
 - No standardised single-instrument (e.g. pure C-BARQ) comparison exists yet across more than one or two of this study's countries -- the entries above come from several different survey instruments/thresholds, which is precisely the comparability problem flagged at the top of this file.
@@ -265,6 +285,7 @@ Two online-survey studies of British Columbia dog owners, using the C-BARQ instr
 - VetCompass Australia, via Craig et al., MDPI Animals 2021 -- [quality: A]
 - von Rentzell et al. 2022, PLOS ONE (British Columbia C-BARQ comparative study) -- [quality: A] (Session 11)
 - PLOS ONE 2018 (owner personality/psychological status study, 1,564 US owners, mini-C-BARQ) -- [quality: A] (Session 11)
+- RSPCA Queensland-affiliated C-BARQ study, via PMC7600298, 2020 (Australia direct owner-survey) -- [quality: A] (Session 11)
 - Besegher et al., "C-BARQ in France" -- IDENTIFIED, blocked on both HAL (403) and SSRN (429) routes this session -- named target, not yet extracted (Session 11)
 - PDSA PAW Report 2024 -- [quality: A]
 - Post-Adoption Problem Behaviours..., MDPI Animals 2018, New Zealand -- [quality: A] (Session 9)
