@@ -326,6 +326,15 @@ variables/urban-vs-rural.md started this session, consolidating already-logged A
 | Italy fatal dog attacks, national registry, 2009-2025 -- EXTRACTED via PMC mirror | MDPI Animals 15(24):3523 (2025), via PMC12729952 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12729952/ (fetched via direct device-side curl) | A |
 | Italy shelter-adoptability pilot (Umbria region) -- identified, not pursued (does not answer the surrender-reason question) | RandAgiamo pilot project, PMC4598705 | https://pmc.ncbi.nlm.nih.gov/articles/PMC4598705/ | Not assessed |
 
+## Italy Management-Culture Sources -- Session 11 (later continuation)
+
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Italy national leash/muzzle ordinance, 6 Aug 2024, breed-list removal | Brocardi.it legal-news report | https://www.brocardi.it/notizie-giuridiche/museruola-guinzaglio-obbligatori-tutti-cani-multe-denunce-penali/4449.html (fetched via direct device-side curl) | B |
+| Italy "patentino" municipal implementation example (Comune di Cremona, 2026 programme) | Comune di Cremona official page | https://www.comune.cremona.it/schede-informative/patentino-per-proprietari-cani (fetched via direct device-side curl) | B |
+| Italy "patentino" system explainer (corroborating source) | my-personaltrainer.it | https://www.my-personaltrainer.it/mypet/patentino-per-cani-quando-scatta-l-obbligo-e-perche-non-riguarda-solo-chi-ha-un-animale-aggressivo.html | C |
+| Ministero della Salute primary pages on patentino/training -- IDENTIFIED, blocked | salute.gov.it (two pages) | https://www.salute.gov.it/new/it/tema/animali-daffezione/formazione-i-proprietari-e-patentino/ and /new/it/faq/faq-formazione-proprietari-di-cani/ -- both blocked by a JavaScript/cookie bot-protection challenge on direct device-side curl | Not assessed, named lead for upgrading Italy's management-culture section to primary-source quality |
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
