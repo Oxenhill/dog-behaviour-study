@@ -63,6 +63,7 @@
 **Population scope note (shelter data):** Shelter Animals Count distinguishes intake type. The 'owner surrender' category is **[Scope: household-only]** by definition. The 59% 'stray' intake category is NOT necessarily non-household — a substantial but unquantified share of 'stray' intakes nationally are lost/escaped owned pets rather than truly ownerless dogs, and SAC's national aggregate does not separate the two, so it is tagged **[Scope: mixed/unclear]**. The behaviour-as-surrender-reason statistics above (Kisley 2024, Salman 2000/NCPPSP, ASPCA) all specifically study owner-initiated surrenders and are **[Scope: household-only]**.
 
 ## Behaviour Referral / Professional Data
+> **Session 8 cross-reference:** the Dog Aging Project (50,000+ dogs) gives the USA's first broader non-bite behaviour-problem prevalence data in this study (separation/attachment behaviours 85.9%, aggression incl. non-bite 55.6%, fear/anxiety 49.9% -- see variables/behavioural-problem-prevalence.md for the full table and an important caveat about how these headline percentages are measured, which makes them NOT directly comparable to other countries' figures at face value).
 
 **Source availability: LOW for national rates**
 - Case distribution at one university veterinary behaviour referral service: 1,923 cases over 20 years (1997–2017), 72.2% aggression, 20.1% anxiety/fears — *Source: PMC8909650*

@@ -209,6 +209,17 @@
 
 **Not yet located/confirmed this session:** an authoritative German national dog-shelter INTAKE count (a ~80,000/year figure circulates on non-authoritative aggregator sites but could not be traced to Tierschutzbund's own published data -- logged as unconfirmed, not citable). Robert Koch Institut, Destatis, and Tasso e.V. were not directly searched this session -- remain open avenues.
 
+## Broader Behavioural-Problem Prevalence Sources -- Session 8 additions (Core Metric 5, see variables/behavioural-problem-prevalence.md)
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| USA, Dog Aging Project behaviour-problem prevalence (50,000+ dogs) | Texas A&M University press release, summarising Beaver et al., Journal of Veterinary Behavior | https://vetmed.tamu.edu/news/press-releases/most-dogs-have-a-behavior-problem | A (secondary summary of peer-reviewed work; primary paper not yet directly extracted) |
+| Finland, canine anxiety prevalence (13,715 dogs) | Salonen, Sulkama et al. 2020, Scientific Reports (Nature) | https://www.nature.com/articles/s41598-020-59837-z | A |
+| Denmark, behaviour-problem prevalence (representative sample) | Meyer et al. 2023, Journal of Veterinary Behavior, via University of Copenhagen | https://animalethics.ku.dk/companion-animals/behavior/behavior-problems-in-dogsan-assessment-of-prevalence-and-risk-factors/ | A |
+| Denmark, same study, secondary summary with alternate sample-size figure | companionanimalpsychology.com | https://www.companionanimalpsychology.com/2023/11/one-third-of-dogs-have-behaviour-issue.html | B (sample-size discrepancy vs. the KU source not resolved) |
+| Australia, VetCompass young-dog mortality/undesirable-behaviour study | Craig et al., MDPI Animals 2021 (same underlying study as the already-logged PMC7918417) | https://www.mdpi.com/2076-2615/11/2/493 | A |
+
+**Not yet located this session:** the primary peer-reviewed USA papers ("The prevalence of behavior problems in dogs in the United States," ScienceDirect, and its 2025 re-assessment) -- attempted via ScienceDirect (robots.txt-blocked) and ResearchGate (429 rate-limited), not retried a third time per the efficiency rule.
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |

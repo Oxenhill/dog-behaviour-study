@@ -65,6 +65,7 @@
 **Population scope note (shelter data):** Dogs Trust's 2024 figures (people contacting Dogs Trust, surrender reasons) are **[Scope: household-only]** — they describe owner-initiated relinquishment. Diesel et al. and the rescue-centre data cited in PMC8532592 are **[Scope: mixed/unclear]** — UK rescue centres typically take in both owner-surrendered dogs and stray/abandoned dogs found by the public or local authorities, and the published figures do not separate the two populations.
 
 ## Behaviour Referral / Professional Data
+> **Session 8 cross-reference:** broader non-bite behaviour-problem prevalence (separation distress, fear, non-bite aggression, livestock chasing, etc.), sourced from this same PDSA PAW Report 2024, is now compiled in variables/behavioural-problem-prevalence.md -- see that file for the full breakdown rather than duplicating it here.
 
 **Source availability: MODERATE — survey data, no national case rate**
 - >50% of companion animal practices in Ireland have referred cases to a behaviour specialist — Duggan et al. 2018, Irish Vet Journal

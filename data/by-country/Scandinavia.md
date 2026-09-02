@@ -18,6 +18,7 @@
 **Population scope note (bite data):** Eurostat/Sarenbo & Svensson fatality data (ICD-10 W54) is not restricted by ownership status. All four Nordic countries have effectively zero free-roaming dog populations (similar to the Netherlands), so this is expected to be functionally household-only in practice, but — as with the Netherlands — this is an inference from national context, not something the source itself confirms. Tagged **[Scope: household-only, inferred from low-stray national context]**.
 
 ## Shelter / Relinquishment Data
+> **Session 8 cross-reference:** Finland gained a major new data point this session -- Salonen/Sulkama et al. 2020 (13,715 dogs) found 72.5% show some anxiety-like trait, with a full breakdown by type (noise sensitivity 32%, fear 29%, aggression 14%, separation-related 5-6%, etc.). Denmark gained Meyer et al. 2023 (34% of owners report a behaviour problem, with training-frequency and off-leash-time findings directly relevant to this study's management-culture variable). Both are compiled in variables/behavioural-problem-prevalence.md rather than duplicated here.
 
 **Data gap flagged:** Scandinavian shelter data not located in Phase 1.
 

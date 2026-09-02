@@ -17,6 +17,14 @@ and determine what structural, legal, cultural, and environmental factors correl
 2. Reported dog bite incident rates (per capita where possible)
 3. Referral rates to behaviour professionals / veterinary behaviourists
 4. Supplementary verifiable metrics (insurance claims, euthanasia-for-behaviour rates)
+5. **Broader behavioural-problem prevalence (Session 8 addition — see SCOPE BROADENING note below)** — separation-related behaviour/anxiety, excessive/problem barking, destructive behaviour, fearfulness and noise sensitivity, resource guarding, compulsive/stereotypic behaviour, house-soiling, and non-bite aggression/reactivity (growling, lunging, snapping without contact) — sourced primarily from standardised academic survey instruments (C-BARQ and equivalents) and national pet-welfare-body surveys, not just incident/administrative data
+
+## SCOPE BROADENING FROM USER (Session 8 — treat as permanent, applies alongside the Session 3 management-culture correction)
+The user explicitly flagged that the study has been over-indexing on BITES specifically (driven by the "severity ladder" built in Session 5's data-dictionary.md and the BSL-effectiveness studies found in Sessions 4/6) and instructed: **"think bigger than just bites."** Bites are the most severe, most administratively-documented endpoint of canine behaviour problems, but they are one narrow subtype. A dog can fail to integrate successfully into a household — and be surrendered, medicated, professionally referred, or have its welfare and its owners' quality of life seriously impacted — through separation anxiety, chronic reactivity/fear, destructive behaviour, house-soiling, compulsive behaviour, or excessive barking, without ever biting anyone. From Session 8 onward:
+- Core Metric 2 ("bite incident rates") is retained as-is (it has real, hard-won, comparable data behind it — do not discard it) but must always be presented and framed as ONE subtype of behaviour problem, not as a proxy for "behaviour problems" generally.
+- Core Metric 5 (broader behavioural-problem prevalence) is added as a genuinely new, actively-researched category, not just a footnote — the same sourcing rigour (quality tiers, population-scope tags, temporal linkage) applies to it.
+- Existing shelter-surrender-reason data already gathered (UK Dogs Trust, USA SAC, Australia RSPCA, Canada Humane Canada, France SPA, Germany Tierschutzbund) already captures a broader "behavioural problems" surrender category in most cases — this should be revisited and, where the underlying source breaks "behaviour" down into subtypes (aggression vs. anxiety vs. destructiveness etc.), that breakdown should be extracted, not just the top-line "behaviour" percentage already logged.
+- Priority academic instrument to search for: **C-BARQ (Canine Behavioral Assessment and Research Questionnaire)**, developed at the University of Pennsylvania and used internationally — it is the closest thing to a standardised, validated, cross-country-comparable measure of broad canine behaviour-problem prevalence (fear, aggression, separation-related behaviour, excitability, attachment, etc.), and studies using it exist for multiple countries in this dataset.
 
 ### Study Parameters
 - Timeframe: last 10 years (~2014–2024); flag sudden shifts and note possible causation
@@ -252,6 +260,25 @@ This is now the PRIMARY open research thread — higher priority than finishing 
 
 ---
 
+## Session 8 Log
+
+- Date: September 2, 2026 (continuation)
+- **User's instruction (treat as permanent, applies alongside the Session 3 management-culture correction):** "think bigger than just bites" -- the study had been over-indexing on bite data specifically (a natural consequence of the detailed severity-ladder work in Sessions 5-7), when a dog can fail to integrate into a household through separation anxiety, chronic fear/reactivity, destructive behaviour, house-soiling, or non-bite aggression without ever biting anyone.
+- **Structural response:** added Core Metric 5 ("Broader behavioural-problem prevalence") to the Study Brief in this file, with a full SCOPE BROADENING note explaining the change and naming C-BARQ as the priority standardised cross-country instrument to pursue.
+- **New file created:** variables/behavioural-problem-prevalence.md -- structured like management-practices-and-culture.md (per-country sections + a cross-country interpretive note) but sitting on the OUTCOME/metric side of the study, not the explanatory-variable side. Populated with genuinely substantial data for four countries in one session:
+  - USA: Dog Aging Project (50,000+ dogs) -- 99.12% "any behaviour response," with category breakdown (separation/attachment 85.9%, aggression incl. non-bite 55.6%, fear/anxiety 49.9%).
+  - Finland: Salonen/Sulkama et al. 2020 (13,715 dogs, peer-reviewed, Scientific Reports) -- 72.5% show some anxiety-like trait, full 7-category breakdown, breed-variance findings.
+  - Denmark: Meyer et al. 2023 (peer-reviewed, representative sample) -- 34% owner-perceived problem rate, category breakdown, AND two findings directly relevant to this study's core management-culture hypothesis (higher training frequency and more off-leash time both correlated with lower behaviour-problem risk).
+  - Australia: VetCompass young-dog mortality study -- corroborates and substantially extends an already-logged referral-rate figure (11% referred, see correction below) with new context (82.8% no treatment at all, 29.7% of deaths linked to undesirable behaviour, cause breakdown).
+  - UK: mined the already-available PDSA PAW Report 2024 for its extensive non-bite behaviour data (separation distress, fear, non-bite aggression, livestock chasing, training-method associations) that this project had the source for but had not yet extracted.
+- **Central methodological finding surfaced (added to methodology/data-dictionary.md as new section 2e):** the four headline "% of dogs with a behaviour problem" figures span 34% to 99% across genuinely comparable Western countries -- this spread is almost certainly a measurement-threshold artifact (what counts as a "problem" varies enormously by instrument), not a real difference in dog behaviour, and must be stated as a caveat every time these figures are used, not smoothed into a single comparable number.
+- **Self-caught correction:** an early draft of the Australia cross-reference incorrectly presented the 11%-referral figure as a brand-new find; it was already logged in an earlier session (PMC7918417) as the same underlying VetCompass study reached via a different mirror (MDPI) this session. Corrected in both data/by-country/Australia.md and the new file before finishing -- what IS genuinely new is the surrounding context (82.8% no-treatment, 29.7%-of-deaths, cause breakdown), not the referral rate itself.
+- **Cross-referenced, not duplicated:** short pointer notes added to UK.md, Australia.md, USA.md, and Scandinavia.md's existing sections rather than copying the new data into every country file.
+- **Not yet researched (Session 9+ targets):** Netherlands (only narrow breed-specific studies found so far), Germany/Austria, Canada, New Zealand, France, Norway, Sweden, Japan -- none attempted this session. A dedicated C-BARQ literature search (the standardised instrument used in 70+ published studies internationally) is flagged as high-value future work, since it could give genuinely single-instrument cross-country comparability that nothing in this file currently has.
+- **Next action:** continue Core Metric 5 research for the remaining countries, prioritising a C-BARQ-specific literature pass; also still open from Session 7: Berlin bite-statistics actual counts, Austrian shelter data.
+
+---
+
 ## Files Written This Session
 
 ### Session 1
@@ -342,6 +369,20 @@ data/by-country/Germany-Austria.md (bite data, shelter data, Hundesteuer variabl
 variables/dog-trainer-regulation.md (Austria section extended with the OKV training-uptake/injury-trend cross-reference)
 data-sources.md (Session 7 additions table)
 _PROJECT_STATE.md (this file — Phase Tracker row 2, Countries-in-Scope Germany/Austria rows, Session 7 log)
+```
+
+### Session 8 (new files)
+```
+variables/behavioural-problem-prevalence.md
+```
+
+### Session 8 (files edited)
+```
+_PROJECT_STATE.md (this file — Core Metrics list + SCOPE BROADENING note, Session 8 log)
+methodology/data-dictionary.md (new section 2e on behavioural-problem-prevalence measurement-threshold comparability)
+variables/README.md (file list updated)
+data-sources.md (Session 8 additions table)
+data/by-country/UK.md, Australia.md, USA.md, Scandinavia.md (cross-reference notes added; Australia.md also corrected re: the referral-rate figure not being new)
 ```
 
 ---
