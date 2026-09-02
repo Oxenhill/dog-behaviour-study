@@ -198,6 +198,17 @@
 
 **Note on the dogsbite.org exception:** this source is listed in Rejected Sources below for its own framing/advocacy content. It was used ONE TIME this session solely as an accessible secondary route to the *numeric findings* of an already-identified, independently peer-reviewed study (Raghavan et al., PMID 22753529) whose primary text has been blocked across five different domains over two sessions. The figures extracted are flagged [quality: C] for this specific route and marked for re-verification against the primary text or a neutral secondary source (ResearchGate/Academia.edu copies identified, not fetched) in a future session -- this is NOT a general reversal of the rejection below, which still applies to DogsBite.org's own statistics/framing.
 
+## Germany & Austria Sources -- Session 7 additions
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Germany, Berlin official dog-bite open-data (2016-2024, CSV, not yet extracted to raw counts) | Berlin Senate Administration for Justice and Consumer Protection, via daten.berlin.de open-data portal | https://daten.berlin.de/datensaetze/hundebiss-statistik-berlin-1559673 | A (city-level, not national) |
+| Germany, national shelter-capacity survey | Deutscher Tierschutzbund (national animal-welfare federation) + Fressnapf, May 2024 trend survey of 218 shelters | https://www.tierschutzbund.de/ueber-uns/aktuelles/presse/meldung/tierheime-sind-ueberfuellt-nur-18-prozent-haben-noch-kapazitaeten/ | A |
+| Germany, national dog-tax (Hundesteuer) revenue | Deutscher Tierschutzbund press release | https://www.tierschutzbund.de/ueber-uns/aktuelles/presse/meldung/rekordeinnahmen-bei-hundesteuer/ | A (revenue data, not a behaviour/welfare metric itself) |
+| Austria, Graz University Hospital pediatric dog-bite study (2014-2018) | grosse-schuetzen-kleine.at (child-safety initiative), hosting the hospital research centre's own PDF report | https://grosse-schuetzen-kleine.at/wp-content/uploads/2019/10/Forschungszentrum-Hundebisse-Fokusreport-2019.pdf | A (single-hospital-catchment, not national) |
+| Austria, historical injury-trend + OKV training-uptake data (1980-2003) | hundewelt.at, citing Osterreichisches Statistisches Zentralamt via OKV | https://hundewelt.at/magazin/mensch-hund-verhaeltnis/Beiss-Unfaelle-Hunde/Zahl-Hundebisse.html | B (secondary, kennel-club-affiliated; not dog-exclusive injury data) |
+
+**Not yet located/confirmed this session:** an authoritative German national dog-shelter INTAKE count (a ~80,000/year figure circulates on non-authoritative aggregator sites but could not be traced to Tierschutzbund's own published data -- logged as unconfirmed, not citable). Robert Koch Institut, Destatis, and Tasso e.V. were not directly searched this session -- remain open avenues.
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |

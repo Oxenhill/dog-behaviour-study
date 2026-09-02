@@ -44,6 +44,7 @@
 - E-collars: Banned (Tierschutzgesetz)
 - Prong collars: Banned
 - Source: Tierschutzbund press release June 2026; Global Pet Sitter guide; luxury-vienna.com
+- **Session 7 addition — historical training-uptake/injury-trend data point (see data/by-country/Germany-Austria.md for full table and caveats):** Österreichisches Statistisches Zentralamt data cited via ÖKV (Austrian Cynological Association) shows ÖKV-certified dog-training exam completions rising from 8,764 (1990) to 33,617 (2003) — a +284% increase — over the same period animal-related injury incidents fell ~54% (6,572 in 1980 to 3,005 in 2002) despite the dog population growing ~38%. **[quality: B — secondary, kennel-club-affiliated source; not dog-specific injury data (~80% of animal injuries assumed to involve dogs, per the source); correlational only, not a controlled before/after comparison, and pre-dates this study's 2014–2024 primary window]**. Flagged as a suggestive, low-confidence data point supporting (but not proving) the owner-education/competency hypothesis that motivates this entire variable file — worth naming in the final report's discussion section with its caveats intact, not as a headline finding.
 
 ### Netherlands
 - No mandatory dog trainer licensing nationally

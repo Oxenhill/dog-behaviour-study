@@ -33,7 +33,7 @@ and determine what structural, legal, cultural, and environmental factors correl
 |-------|------|--------|
 | 0 | Setup & structure | ✅ Complete |
 | 1 | Source discovery — per metric, per country | ✅ Complete (partial — see gaps) |
-| 2 | Data extraction — per-country files | ✅ Complete for: USA, UK, Australia, Netherlands, Germany/Austria, Japan, Scandinavia, France (Session 6). 🟡 Partial for Canada (bite/shelter data extracted incl. Manitoba BSL study, Session 6) and New Zealand (management-culture done, Session 6; Mair et al. bite study still blocked after 2 attempts) |
+| 2 | Data extraction — per-country files | ✅ Complete for: USA, UK, Australia, Netherlands, Japan, Scandinavia, France (Session 6). 🟡 Partial for Canada (bite/shelter data extracted incl. Manitoba BSL study, Session 6), New Zealand (management-culture done, Session 6; Mair et al. bite study still blocked after 2 attempts), and Germany/Austria (Session 7 — Berlin bite dataset identified not yet pulled, Tierschutzbund national shelter-capacity data extracted, Austria Graz hospital study extracted; still no true national German bite rate or any Austrian shelter data) |
 | 3 | Cross-country compilation table | ✅ Drafted (cross-country.md populated — methodology note critical) |
 | 4 | Variable collection (laws, density, breeding, culture) | 🟡 Session 6: management-practices-and-culture.md's remaining leash-law gaps closed (Australia/Randwick, New Zealand/s54A, Denmark seasonal correction) -- typology now has 4 countries confirmed in the designated-off-leash-zone bucket and Denmark reclassified into the hybrid bucket; breed-legislation-timeline.md gained a new Canada/Manitoba BSL-effectiveness section. Session 3: management-practices-and-culture.md added -- PRIMARY variable per the user's clarification (see SCOPE CORRECTION above), consolidates cultural-attitudes/public-space-access/leash-laws. Still missing: veterinary-access.md, urban-vs-rural.md. Session 2 built: population-density-and-ownership.md, breeding-regulation-and-ethics.md, breed-legislation-timeline.md; dog-trainer-regulation.md updated/corrected |
 | 5 | Analysis & correlation | ⬜ Not started |
@@ -51,8 +51,8 @@ and determine what structural, legal, cultural, and environmental factors correl
 | UK (England) | ✅ Strong | ✅ Good | ❌ Gap | ✅ | In scope |
 | Australia | ✅ Strong | ✅ Partial | ✅ Partial (11%) | ✅ | In scope |
 | Netherlands | ⚠️ Old (2010) | ❌ Incomparable system | ❌ Gap | ✅ | In scope (qualitative) |
-| Germany | ❌ Gap | ❌ Gap | ❌ Gap | ✅ | Phase 2 required |
-| Austria | ❌ Gap | ❌ Gap | ❌ Gap | ✅ | Phase 2 required |
+| Germany | ⚠️ Berlin-only, official CSV identified, counts not yet pulled (Session 7) | ⚠️ National capacity data (Tierschutzbund), no hard intake count (Session 7) | ❌ Gap | ✅ | Partial — see Germany-Austria.md |
+| Austria | ⚠️ Single-hospital study, Graz 2014-18 (Session 7) | ❌ Gap | ❌ Gap | ✅ | Partial — see Germany-Austria.md |
 | Japan | ⚠️ Serious only | ❌ Gap | ❌ Gap | ⚠️ | Qualitative only |
 | Scandinavia | ⚠️ Fatality only | ❌ Gap | ❌ Gap | ⚠️ | Phase 2 required |
 | Canada | ⚠️ Old (2002-03) + small 2013-15 study + Manitoba BSL-effectiveness study extracted (Session 6, secondary-source caveat) | ✅ Extracted (2021, Humane Canada) | ❌ Gap | ✅ Density/ownership + management-culture (Calgary leash model) + BSL study | Qualitative/partial — see Canada.md |
@@ -236,6 +236,22 @@ This is now the PRIMARY open research thread — higher priority than finishing 
 
 ---
 
+## Session 7 Log
+
+- Date: September 2, 2026 (continuation)
+- **Focus:** Germany/Austria bite-incident and shelter-surrender data — named at the end of Session 6 as the single largest remaining metric gap among the core countries.
+- **Germany, EXTRACTED (both partial, checkpointed immediately to data/by-country/Germany-Austria.md):**
+  - An official, government-published, open-data dog-bite dataset for Berlin (2016-2024, annual CSV, Senate Administration for Justice and Consumer Protection) was identified and confirmed via its open-data portal record. The actual per-year incident counts were NOT pulled this session — the specific report page returned a 429 rate-limit error on the one attempt made, not retried per the efficiency rule. This is a concrete, low-difficulty target for next time (or the user could pull the CSVs directly, since it's open data with no access barrier once rate-limiting clears).
+  - Deutscher Tierschutzbund (the national animal-welfare federation) published a May 2024 national shelter-capacity survey of 218 member shelters — extracted in full. It measures occupancy pressure and qualitative surrender drivers, not a hard national intake count, so it complements rather than fully closes the shelter-data gap.
+  - A national dog-tax (Hundesteuer) revenue figure (>€400M in 2021) was also picked up from the same Tierschutzbund source and logged as a variable, not a behaviour metric.
+- **Austria, EXTRACTED:**
+  - A Graz University Hospital pediatric dog-bite study (2014-2018, 296 children treated, 212 confirmed bites, 9% requiring surgical admission) — single-hospital-catchment but genuinely quantitative and hospital-sourced.
+  - A historical (1980-2003) Austrian injury-trend + OKV dog-training-uptake series, cross-referenced into variables/dog-trainer-regulation.md since it directly speaks to the owner-education hypothesis this whole variable file exists to test — logged with explicit caveats (not dog-exclusive, correlational, kennel-club-affiliated secondary source).
+- **Still unresolved:** Austria has NO shelter/surrender data of any kind after four sessions of searching — this is now the most complete remaining gap in the country-file set. Germany still has no true NATIONAL bite rate (Berlin is city-level only) and no hard national shelter INTAKE count (only capacity/occupancy data). Robert Koch Institut, Destatis, and Tasso e.V. — all named as far back as Session 2 — were still not directly searched this session; the German-language search instead surfaced the Berlin/Tierschutzbund/Graz sources, which proved more accessible and directly relevant.
+- **Next action:** two clear, concrete threads remain open for a future session: (1) retry the Berlin bite-statistics report page once rate-limiting has cleared, to convert the identified dataset into actual counts; (2) a dedicated pass on Austrian shelter data specifically (Vier Pfoten, Tierschutz Austria, or individual Land-level shelter federations, none tried yet). After that, per the Session 6 plan, the two remaining unstarted variable files (veterinary-access.md, urban-vs-rural.md) and then Phase 5 (analysis/correlation) can reasonably begin.
+
+---
+
 ## Files Written This Session
 
 ### Session 1
@@ -318,6 +334,14 @@ variables/management-practices-and-culture.md (Australia, New Zealand, Denmark s
 variables/breed-legislation-timeline.md (new Canada/Manitoba section added; cross-country snapshot table, Data Gaps, and Sources Log updated)
 data-sources.md (Session 6 additions table; Rejected Sources note on the one-time dogsbite.org exception)
 _PROJECT_STATE.md (this file — Phase Tracker rows 2/4, Countries-in-Scope table, Session 6 log, duplicated "Files Written" headers fixed)
+```
+
+### Session 7 (files edited, no new files)
+```
+data/by-country/Germany-Austria.md (bite data, shelter data, Hundesteuer variable, and Data Gaps sections all updated)
+variables/dog-trainer-regulation.md (Austria section extended with the OKV training-uptake/injury-trend cross-reference)
+data-sources.md (Session 7 additions table)
+_PROJECT_STATE.md (this file — Phase Tracker row 2, Countries-in-Scope Germany/Austria rows, Session 7 log)
 ```
 
 ---
