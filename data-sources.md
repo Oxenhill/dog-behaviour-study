@@ -185,11 +185,24 @@
 | **Denmark BSL effectiveness (major find)** | PLOS ONE, peer-reviewed time-series intervention study, doi:10.1371/journal.pone.0208393 | https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0208393 | A -- peer-reviewed. Found NO statistically significant bite-reduction effect from Denmark's 2010 BSL (ARIMA-modelled; naive before/after 15% reduction was NOT significant once trend-corrected) |
 | New Zealand leash statute (heading only) | legislation.govt.nz, Dog Control Act 1996 s54A | https://www.legislation.govt.nz/act/public/1996/0013/latest/DLM374410.html | A (partial extraction only) |
 
+## Management Practices & Culture / Bite / Shelter Sources -- Session 6 additions
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Denmark seasonal beach leash exception + dog-forest network | legaldesk.dk | https://www.legaldesk.dk/privat/diverse/reglerne-i-hundeloven | B |
+| Australia (Randwick, NSW) off-leash area model, detailed | Randwick City Council official page | https://www.randwick.nsw.gov.au/services/animals-and-pets/off-leash-dog-areas | A |
+| New Zealand s54A operative meaning + council-delegation model | communitylaw.org.nz | https://communitylaw.org.nz/community-law-manual/test/dogs-and-other-animals/dogs-care-and-control-of-your-dog/ | B |
+| France bite-severity survey figures (InVS/Sante publique France study, secondary summary) | santevet.com | https://www.santevet.com/articles/morsures-de-chiens-en-france-une-enquete-fait-le-point | B |
+| France bite-severity survey, official confirmation of existence/design (no figures) | santepubliquefrance.fr | https://www.santepubliquefrance.fr/maladies-et-traumatismes/traumatismes/articles/enquete-sur-les-facteurs-de-gravite-des-morsures-de-chien | A (confirms study only; primary PDF at recomedicales.fr remains robots.txt-blocked) |
+| France national abandonment/shelter study | SPA (Societe Protectrice des Animaux), official PDF | https://www.la-spa.fr/app/uploads/2025/09/SPA_Abandon_Etude_FR_Web.pdf | A |
+| Canada (Manitoba) BSL-effectiveness study, secondary summary of figures | dogsbite.org | https://www.dogsbite.org/dog-bite-statistics-study-effectiveness-breed-specific-laws-decreasing-hospitalizations.php | C for this extraction route -- see note below |
+
+**Note on the dogsbite.org exception:** this source is listed in Rejected Sources below for its own framing/advocacy content. It was used ONE TIME this session solely as an accessible secondary route to the *numeric findings* of an already-identified, independently peer-reviewed study (Raghavan et al., PMID 22753529) whose primary text has been blocked across five different domains over two sessions. The figures extracted are flagged [quality: C] for this specific route and marked for re-verification against the primary text or a neutral secondary source (ResearchGate/Academia.edu copies identified, not fetched) in a future session -- this is NOT a general reversal of the rejection below, which still applies to DogsBite.org's own statistics/framing.
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
 |--------|----------------------|
-| DogsBite.org statistics pages | Breed-advocacy organisation with documented selective use of data; raw numbers may be accurate but framing is biased; use CDC primary data instead |
+| DogsBite.org statistics pages | Breed-advocacy organisation with documented selective use of data; raw numbers may be accurate but framing is biased; use CDC primary data instead. **Exception logged Session 6:** used once as a bridge to a peer-reviewed study's own findings, not as a primary source itself -- see note above. |
 | worldmetrics.org / petpedia.co | Secondary aggregator; cannot verify primary methodology; not peer-reviewed |
 | worldanimalfoundation.org | Secondary aggregator; useful for signposting but not citable as primary |
 

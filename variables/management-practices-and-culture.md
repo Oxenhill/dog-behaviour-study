@@ -163,18 +163,12 @@ This confirms Australia belongs firmly in the same "on-leash-default + designate
 ### New Zealand
 | Finding | Detail | Source |
 |---------|--------|--------|
-| Primary statute identified | Dog Control Act 1996, Section 54A: "Owner must use or carry leash in public" | legislation.govt.nz (official NZ government legislation site) -- [quality: A, but only the section HEADING was retrieved this session, not the full operative text -- specific exemptions/off-leash-area provisions NOT yet extracted] |
+| Primary statute identified | Dog Control Act 1996, Section 54A: "Owner must use or carry leash in public" | legislation.govt.nz (official NZ government legislation site) -- [quality: A, but this session's direct fetch of legislation.govt.nz and nzlii.org both returned 403 errors (one attempt each) -- full statutory text still not directly extracted] |
 | Related sections identified, not extracted | s52 "Control of dogs generally," s52A "Control of dog on owner's property," s57A "Dogs rushing at persons, animals, or vehicles" | Same source |
+| **Operative meaning RESOLVED Session 6 (via secondary source)** | s54A requires the dog to be ON a leash, OR the owner to be CARRYING a leash -- not a strict always-leashed rule. Working dogs are exempted. Assistance/disability dogs have separate public-access rights, not solely a leash exemption | communitylaw.org.nz, a legal-aid community-law reference guide -- [quality: B, secondary legal-reference summary] |
+| **Off-leash-area designation confirmed as council-delegated** | The Act sets the national floor (carry/use a leash, working-dog exempt); individual territorial councils then designate specific off-leash exercise areas via their own bylaws (e.g. Whakatane, Hutt City, Auckland "Dog Control Bylaw 2024," identified but not individually detailed) | Community Law + council-level search results |
 
-**Flagged as incomplete, not as a confirmed "leash always required" rule equivalent to Japan's** -- NZ city/district councils are known (from council-level search results, e.g. Whakatane, Hutt City, Auckland "Dog Control Bylaw 2024") to designate off-leash exercise areas locally, similar to the Australia/Canada/Netherlands model, but this session did not confirm how s54A's public-leash default interacts with those local exercise areas. Next-session target.
-
----
-
-## Interpretive Note for Phase 5 (Analysis)
-
----
-
-## Interpretive Note for Phase 5 (Analysis)
+**Resolved:** New Zealand's structure is now confirmed as the same "national floor + local-council-designated exception zones" pattern as Australia and Canada, rather than a Japan-style leash-always model. It sits in typology bucket 2 below (on-leash-default, off-leash-by-designated-zone), now confirmed rather than "arguably."
 
 ---
 
@@ -183,26 +177,28 @@ This file surfaces a candidate explanatory axis that cuts across the density/own
 
 **Dimension 1 -- home confinement culture:** "confine-and-control at home, restrict access to shared public space" (USA pattern: crate-normalised, patchy/loose leash law, but restrictive shared-space access) vs. "restrict home confinement, formalise but broaden public off-leash access" (Sweden/Germany/Netherlands pattern: crate time-limited or banned at home, but designated off-leash zones and more shared-space inclusion). Germany adds a third, distinct element neither the US nor Sweden has: a quantified MINIMUM daily exercise/contact mandate.
 
-**Dimension 2 -- public-leash regulatory model (Session 4 addition), now with THREE distinct types evidenced:**
+**Dimension 2 -- public-leash regulatory model (Session 4 addition, revised Session 6), now with FOUR distinct types evidenced and CONFIRMED (not "arguably") country assignments:**
 1. **Leash-always, no off-leash exception** -- Japan. The most restrictive model in the dataset.
-2. **On-leash-by-default, off-leash-by-designated-zone** -- Netherlands, Canada (Calgary), Australia (partial), and arguably New Zealand (unconfirmed detail). A formalised, signposted, municipally-administered exception system.
+2. **On-leash-by-default, off-leash-by-designated-zone** -- Netherlands, Canada (Calgary), Australia (Randwick, confirmed Session 6), and New Zealand (confirmed Session 6, council-delegated). Four countries now firmly evidenced in this bucket -- a formalised, signposted, municipally-administered exception system appears to be the MODAL pattern across the English-speaking/Commonwealth + Netherlands countries in this dataset.
 3. **Off-leash-by-default (or control-based, not leash-based), leash-by-exception** -- Norway (seasonal only), and France's "divagation"/100m-voice-control standard, which is control-based rather than leash-based even outside the seasonal rural rule. The loose end of the US "running at large" standard sits closer to this model than to model 2.
-4. **Hybrid/two-tier** -- France and Finland both layer a PERMANENT urban/dangerous-dog leash rule on top of a SEASONAL rural wildlife-protection rule; this is a distinct convergent pattern across at least 3 Northern/Western European countries (France, Norway, Finland) not seen in the US, Canada, Japan, or Australia sources reviewed.
+4. **Hybrid/two-tier or hybrid/multi-mechanism** -- France and Finland layer a PERMANENT urban/dangerous-dog leash rule on top of a SEASONAL rural wildlife-protection rule. **Denmark (revised Session 6) also belongs in this bucket**, via a different mechanism: a permanent on-leash default in ordinary public spaces, PLUS a seasonal beach exception (winter off-leash/summer on-leash) PLUS a large network of 200+ permanently-designated off-leash forests. This makes hybrid/multi-mechanism models the pattern found in at least 4 of the 6 Northern/Western European countries reviewed (France, Norway, Finland, Denmark) -- only Japan (leash-always) and, partially, Sweden/UK (thin sourcing, not yet resolved either way) sit clearly outside it.
 
-Whether any of these management-philosophy or leash-model clusters correlates with the bite/surrender/referral metrics already collected is a Phase 5 question -- this file only establishes the variables themselves, dated and sourced; it does not draw the correlation. One immediately suggestive (but NOT yet statistically tested) pairing: Denmark's peer-reviewed null result on BSL effectiveness (variables/breed-legislation-timeline.md) sits alongside Denmark having one of the STRICTEST, least-exception-having leash regimes in this file (no seasonal exception found, no off-leash default anywhere) -- if breed law doesn't explain Danish outcomes and Denmark's leash regime is already near-maximal, that narrows (not proves) where the explanatory weight might sit for Phase 5 to look next.
+Whether any of these management-philosophy or leash-model clusters correlates with the bite/surrender/referral metrics already collected is a Phase 5 question -- this file only establishes the variables themselves, dated and sourced; it does not draw the correlation. **The Session 4 "Denmark near-maximal strictness" pairing note is RETRACTED as of Session 6** -- with the seasonal beach exception and dog-forest network now documented, Denmark's leash regime is no longer an outlier at the strict end; it converges with Norway/Finland/France's hybrid pattern instead. This means Denmark's PLOS ONE breed-legislation null result can no longer be tentatively explained away by "leash law is already doing the work instead" -- Denmark's leash regime is now evidenced as comparably permissive (in a zoned/seasonal sense) to its Nordic neighbours, several of which have NOT been tested for a comparable BSL effect. This is a genuine open question for Phase 5, not a resolved one: **why did Denmark's 2010 BSL show no effect, given a management-culture profile that is not obviously more or less restrictive than comparator countries?** Candidate directions for Phase 5 to pursue: enforcement-intensity differences (not yet measured anywhere in this dataset -- see Data Gaps), breed-population-composition changes independent of the ban, or the specific 13-breed list's poor overlap with the dogs actually implicated in bites (a mechanism suggested, but not confirmed, by the France finding above that breed was NOT a significant severity risk factor in that country's own bite-severity survey).
 
-## Data Gaps
+**A second cross-file link worth flagging for Phase 5:** Canada's Manitoba BSL study (data/by-country/Canada.md, extracted Session 6) found a suggestive-but-not-statistically-significant-on-simple-pre/post-test population-level association between BSL and reduced hospitalisations, strongest in children under 20. This sits between Denmark's clean null result and a hypothetical clear positive result -- with only two BSL-effectiveness studies in the dataset so far, both nuanced rather than clean-cut, the honest Phase 5 framing is "the peer-reviewed evidence on BSL effectiveness is genuinely mixed/weak across the two jurisdictions studied," not a one-line verdict either way.
+
+## Data Gaps (Session 6 status -- updated)
 - Finland: no primary government source located (Sweden's Lansstyrelsen-equivalent not found)
 - Germany: exact ORIGINAL enactment year of the Tierschutz-Hundeverordnung (as opposed to the current Jan 2022 version) not confirmed; primary legal text at gesetze-im-internet.de identified but not extracted
 - UK, Sweden off-leash culture: currently sourced only to one behaviorist's observational travel account (McConnell), not a primary legal/systematic source -- lower confidence, flagged accordingly
-- Australia: off-leash zone structure confirmed to exist but not detailed
+- ~~Australia: off-leash zone structure confirmed to exist but not detailed~~ **RESOLVED Session 6** (Randwick City Council example)
 - USA: no systematic count of what fraction of the population lives under a de facto strict-leash local ordinance vs. a loose "running at large" one -- the ALHC table shows the framework but not a national statistic
-- Australia off-leash zone structure confirmed to exist (council-designated, similar to NL/Canada model) but not detailed with a specific example the way Calgary was for Canada
-- New Zealand: only the leash-requirement section HEADING confirmed (s54A) -- full operative text, exemptions, and interaction with council-level off-leash areas not yet extracted
-- Denmark: no seasonal wildlife-leash rule found (unlike its Nordic neighbours) -- may be a genuine difference or may reflect incomplete search; not resolved
+- ~~New Zealand: only the leash-requirement section HEADING confirmed~~ **RESOLVED Session 6** (operative meaning + council-delegation model, via secondary source; primary statutory text of s54A itself still not directly fetched -- legislation.govt.nz and nzlii.org both 403'd)
+- ~~Denmark: no seasonal wildlife-leash rule found~~ **RESOLVED Session 6** (seasonal beach exception + 200+ dog-forest network found; see revised Denmark section and Interpretive Note above)
 - Finland's home-crate-ban claim (Session 3 entry) remains unconfirmed against a primary source, even though its leash law is now well-confirmed
 - Germany's ORIGINAL Tierschutz-Hundeverordnung enactment year (pre-2022 version) still not confirmed
-- No country in this file yet has a THIRD-PARTY verified comparison of enforcement intensity (i.e. laws exist on paper everywhere -- how strictly are they actually enforced/policed day to day) -- everything here is the legal/formal standard, not enforcement reality
+- No country in this file yet has a THIRD-PARTY verified comparison of enforcement intensity (i.e. laws exist on paper everywhere -- how strictly are they actually enforced/policed day to day) -- everything here is the legal/formal standard, not enforcement reality. **This remains the single largest unresolved gap in the management-culture variable as of Session 6** and is a strong candidate item for the future questionnaire (see methodology/future-deliverables.md) -- it may simply not be answerable from published secondary sources at all.
+- Sweden and UK's designated-off-leash-zone status (bucket 2 vs bucket 3) is not yet confirmed either way -- only McConnell's low-confidence observational account exists for either country's public-leash model.
 
 ## Sources Log (to be mirrored into data-sources.md)
 - VDH (Verband fur das Deutsche Hundewesen) -- German Animal Welfare Dog Ordinance summary -- [quality: A/B]
@@ -214,5 +210,8 @@ Whether any of these management-philosophy or leash-model clusters correlates wi
 - Patricia McConnell (certified applied animal behaviorist) -- cross-country dog-culture observational piece -- [quality: B, expert but observational/anecdotal, not a legal survey]
 - nlcompass.com -- Netherlands leash law expat guide -- [quality: B/C]
 - Melbourne Playgrounds / Townsville City Council -- Australian off-leash area structure -- [quality: B/A respectively, identified not detailed]
+- Randwick City Council (NSW) official site -- detailed Australian off-leash area model -- [quality: A, local government primary source] (Session 6)
+- legaldesk.dk -- Danish seasonal beach leash exception and dog-forest network -- [quality: B, legal-explainer site] (Session 6)
+- communitylaw.org.nz -- NZ Dog Control Act s54A operative meaning and council-delegation model -- [quality: B, legal-aid community-law reference] (Session 6)
 
 **Population scope note:** all entries in this file concern owned/household dogs by construction (home confinement rules, owner leash obligations) -- **[Scope: household-only]** for the entire file.

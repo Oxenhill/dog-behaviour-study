@@ -33,9 +33,9 @@ and determine what structural, legal, cultural, and environmental factors correl
 |-------|------|--------|
 | 0 | Setup & structure | ✅ Complete |
 | 1 | Source discovery — per metric, per country | ✅ Complete (partial — see gaps) |
-| 2 | Data extraction — per-country files | ✅ Complete for: USA, UK, Australia, Netherlands, Germany/Austria, Japan, Scandinavia. 🟡 Partial for Canada (bite+shelter partially extracted); sources identified but NOT extracted for New Zealand and France (tool-limit blocked, see Session 2 log) |
+| 2 | Data extraction — per-country files | ✅ Complete for: USA, UK, Australia, Netherlands, Germany/Austria, Japan, Scandinavia, France (Session 6). 🟡 Partial for Canada (bite/shelter data extracted incl. Manitoba BSL study, Session 6) and New Zealand (management-culture done, Session 6; Mair et al. bite study still blocked after 2 attempts) |
 | 3 | Cross-country compilation table | ✅ Drafted (cross-country.md populated — methodology note critical) |
-| 4 | Variable collection (laws, density, breeding, culture) | 🟡 Session 3: management-practices-and-culture.md added -- this is the PRIMARY variable per the user's clarification of the study's actual goal (see SCOPE CORRECTION section above). Consolidates/replaces cultural-attitudes, public-space-access, leash-laws as one file. Still missing: veterinary-access.md, urban-vs-rural.md. Session 2 built: population-density-and-ownership.md, breeding-regulation-and-ethics.md, breed-legislation-timeline.md; dog-trainer-regulation.md updated/corrected |
+| 4 | Variable collection (laws, density, breeding, culture) | 🟡 Session 6: management-practices-and-culture.md's remaining leash-law gaps closed (Australia/Randwick, New Zealand/s54A, Denmark seasonal correction) -- typology now has 4 countries confirmed in the designated-off-leash-zone bucket and Denmark reclassified into the hybrid bucket; breed-legislation-timeline.md gained a new Canada/Manitoba BSL-effectiveness section. Session 3: management-practices-and-culture.md added -- PRIMARY variable per the user's clarification (see SCOPE CORRECTION above), consolidates cultural-attitudes/public-space-access/leash-laws. Still missing: veterinary-access.md, urban-vs-rural.md. Session 2 built: population-density-and-ownership.md, breeding-regulation-and-ethics.md, breed-legislation-timeline.md; dog-trainer-regulation.md updated/corrected |
 | 5 | Analysis & correlation | ⬜ Not started |
 | 6 | Draft report sections | ⬜ Not started |
 | 7 | Validation pass | ⬜ Not started |
@@ -55,9 +55,9 @@ and determine what structural, legal, cultural, and environmental factors correl
 | Austria | ❌ Gap | ❌ Gap | ❌ Gap | ✅ | Phase 2 required |
 | Japan | ⚠️ Serious only | ❌ Gap | ❌ Gap | ⚠️ | Qualitative only |
 | Scandinavia | ⚠️ Fatality only | ❌ Gap | ❌ Gap | ⚠️ | Phase 2 required |
-| Canada | ⚠️ Old (2002-03) + small 2013-15 study | ✅ Extracted (2021, Humane Canada) | ❌ Gap | ⚠️ Density/ownership only | Qualitative/partial — see Canada.md |
-| New Zealand | 🔍 Sources identified, NOT extracted (tool limit) | 🔍 Sources identified, NOT extracted | ❌ Gap | ⚠️ Density/ownership only | High priority next session — see New-Zealand.md |
-| France | ✅ Fatality only (Eurostat, 79 deaths 1995-2016) + 🔍 ED severity study identified, NOT extracted | 🔍 SPA national study identified, NOT extracted | ❌ Gap | ⚠️ Density/ownership only | High priority next session — see France.md |
+| Canada | ⚠️ Old (2002-03) + small 2013-15 study + Manitoba BSL-effectiveness study extracted (Session 6, secondary-source caveat) | ✅ Extracted (2021, Humane Canada) | ❌ Gap | ✅ Density/ownership + management-culture (Calgary leash model) + BSL study | Qualitative/partial — see Canada.md |
+| New Zealand | 🔍 Mair et al. 2019 STILL blocked (2nd attempt failed, Session 6) | 🔍 Sources identified, NOT extracted | ❌ Gap | ✅ Density/ownership + management-culture (s54A leash model, Session 6) | Bite/shelter still high priority — see New-Zealand.md |
+| France | ✅ Fatality (Eurostat, 79 deaths 1995-2016) + ED severity survey EXTRACTED (Session 6, secondary-source caveat) | ✅ SPA national study EXTRACTED (Session 6) | ❌ Gap | ✅ Density/ownership + management-culture (leash/divagation model) | Bite/shelter metrics now populated — see France.md |
 
 ---
 
@@ -217,11 +217,24 @@ This is now the PRIMARY open research thread — higher priority than finishing 
 
 ---
 
-## Files Written This Session
+## Session 6 Log
 
-## Files Written This Session
+- Date: September 2, 2026 (continuation)
+- **Focus:** resume the substantive research backlog named at the end of Session 5 (management-culture gaps for Australia/NZ/Denmark, then the Manitoba/NZ/France one-shot retrieval attempts), applying the incremental-checkpointing lesson throughout — each finding below was written to its file immediately after being extracted, not batched to end of session.
+- **Management-culture gaps closed (variables/management-practices-and-culture.md):**
+  - Australia: concrete designated-off-leash-zone example extracted (Randwick City Council, NSW) — confirms Australia in the same typology bucket as Netherlands/Canada.
+  - New Zealand: s54A's operative meaning resolved (carry-or-use-leash + working-dog exemption, off-leash zones delegated to council bylaws) via a secondary legal-reference source, since legislation.govt.nz and nzlii.org both 403'd on direct fetch.
+  - Denmark: a seasonal beach leash exception (winter off-leash/summer on-leash) and a 200+ site designated dog-forest network were found, correcting Session 4's "no seasonal exception identified" flag. This also required RETRACTING the Session 4 "Denmark near-maximal leash strictness" pairing note against its BSL null result — Denmark's leash regime is now evidenced as a hybrid/zoned model like Norway/Finland/France, not an outlier. The Interpretive Note section was rewritten accordingly, and a duplicated section heading left over from a Session 4 edit was cleaned up.
+- **One-shot retrieval attempts on previously blocked headline sources (per the efficiency rule — one attempt per source per session):**
+  - Manitoba BSL-effectiveness study (Raghavan et al., PMID 22753529): primary text still blocked (not retried at the same URLs); EXTRACTED instead via a secondary summary (dogsbite.org), flagged [quality: C for this route] and logged as needing re-verification against the primary text or a neutral mirror in a future session. Findings cross-referenced into data/by-country/Canada.md and variables/breed-legislation-timeline.md (new Canada section).
+  - Mair et al. 2019 NZMJ dog-bite-hospitalisation study: STILL BLOCKED (reCAPTCHA on pubmed.ncbi.nlm.nih.gov, second failed attempt across two sessions). Recommendation logged in New-Zealand.md to try the nzmj.org.nz direct PDF or a mirror next time rather than PubMed again.
+  - French bite-severity study (recomedicales.fr PDF): blocked by robots.txt (new failure mode, not previously tried). EXTRACTED instead via a secondary summary (santevet.com) plus official confirmation of the study's existence/design (santepubliquefrance.fr). Full results now in data/by-country/France.md.
+  - SPA France national abandonment study (la-spa.fr PDF): this one was NOT blocked — fetched directly and successfully. Full results now in data/by-country/France.md, closing what had been a total shelter-data gap for France.
+- **Net effect:** France moved from "identified, not extracted" to a well-populated country file across both bite and shelter data; Canada gained its first BSL-effectiveness evidence; New Zealand and Australia's management-culture entries are now resolved rather than flagged incomplete. The Countries-in-Scope table and Phase Tracker rows 2 and 4 were updated to reflect this.
+- **Important interpretive note surfaced for Phase 5:** with both Denmark (null result) and Manitoba (mixed/weak, nuanced) now in the dataset, the peer-reviewed evidence on BSL effectiveness across the two jurisdictions actually studied is genuinely mixed, not a clean verdict either way — this should be stated plainly in the eventual report rather than resolved into a single headline finding.
+- **Next action:** Germany/Austria bite-incident and shelter-surrender data remain a total gap (Destatis, Robert Koch Institut, Tasso e.V./PETA Germany never located across any session) — recommend this as the next session's opening target, since it's the largest remaining metric gap among the core countries. After that: veterinary-access.md and urban-vs-rural.md (still unstarted variable files), then Phase 5 (analysis/correlation) can reasonably begin even with some gaps remaining, per the user's stated priority on explanatory variables over exhaustive metric coverage.
 
-## Files Written This Session
+---
 
 ## Files Written This Session
 
@@ -294,6 +307,17 @@ _PROJECT_STATE.md (this file — top-of-file note, Session Protocol, session log
 ```
 Removed: {data/ (stray empty junk directory from a Session 1 typo)
 Removed: .git/index.lock (stale lock file)
+```
+
+### Session 6 (files edited, no new files)
+```
+data/by-country/France.md (bite-severity and shelter/abandonment data extracted; data gaps and verdict updated)
+data/by-country/Canada.md (Manitoba BSL study extracted; data gaps updated)
+data/by-country/New-Zealand.md (leash-law/management-culture resolved; Mair et al. re-attempt logged as still blocked; data gaps updated)
+variables/management-practices-and-culture.md (Australia, New Zealand, Denmark sections updated; Interpretive Note rewritten with corrected Denmark framing and new typology confirmations; duplicated section heading fixed; Data Gaps and Sources Log updated)
+variables/breed-legislation-timeline.md (new Canada/Manitoba section added; cross-country snapshot table, Data Gaps, and Sources Log updated)
+data-sources.md (Session 6 additions table; Rejected Sources note on the one-time dogsbite.org exception)
+_PROJECT_STATE.md (this file — Phase Tracker rows 2/4, Countries-in-Scope table, Session 6 log, duplicated "Files Written" headers fixed)
 ```
 
 ---

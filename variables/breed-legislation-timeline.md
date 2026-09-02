@@ -59,6 +59,11 @@ State-level, Category 1 dogs prohibited nationally via import restriction (Pit B
 ## Austria
 State-level, listed breeds (Pitbull, Rottweiler, Dogo Argentino cited in Germany-Austria.md) -- varies by federal state. No new dating research done this session; effective dates per state not yet researched.
 
+## Canada (Manitoba) -- NEW Session 6
+Provincial/municipal, not federal -- BSL exists in some Manitoban jurisdictions (pit-bull-type bans), varying by municipality; a province-wide dated timeline was not built, but a major peer-reviewed EFFECTIVENESS study was extracted this session (see data/by-country/Canada.md for the full table):
+
+**Raghavan, Martens et al. (PMID 22753529)** -- a 23-year (1984-2006) population-level study across 16 Manitoba jurisdictions with pit-bull-type bans. Findings (via secondary summary, primary text still inaccessible -- see Canada.md for the quality caveat): provincial dog-bite-hospitalisation rate fell from 3.47 to 2.84 per 100,000 person-years; adjusted models show larger reductions in BSL-adopting jurisdictions (-21.5% overall, -27.4% for under-20s) than non-adopting ones (-18.1% province-wide baseline), but the SIMPLE pre/post comparison was NOT statistically significant. This is the second major BSL-effectiveness time-series study in the dataset (alongside Denmark below) and the two point in different directions -- see the Interpretive Note in variables/management-practices-and-culture.md for the combined Phase 5 framing (the honest read is "genuinely mixed/weak evidence," not a clean verdict either way).
+
 ## Australia
 State-based, varies significantly (ACT, NSW, QLD, VIC and others have BSL per Australia.md, prior session). No consolidated dated timeline built this session -- flagged as a gap; would need state-by-state legislative research similar to the Victoria breeding-law timeline in variables/breeding-regulation-and-ethics.md.
 
@@ -80,8 +85,9 @@ No federal BSL; state/local variation, individual municipal ordinances number in
 | Sweden/Finland | No BSL | No BSL | No BSL |
 | Australia | State-based, varies | State-based, varies | State-based, varies (no national consolidation) |
 | USA | No federal BSL; local variation | Same | Same |
+| Canada (Manitoba) | Municipal pit-bull-type bans in force in some jurisdictions (Winnipeg etc.) | Same | Same (no province-wide consolidation found; effectiveness study covers 1984-2006 only) |
 
-## Data Gaps
+## Data Gaps (Session 6 status -- updated)
 - UK 1991 Act's staggered addition dates for Japanese Tosa/Dogo Argentino/Fila Brasileiro not independently re-verified this session
 - Danish Act on Dogs text not cross-checked against a primary Danish government source (only a regional tourism-guide source used)
 - Norway's Hundeloven/banned-dogs regulation enactment year not confirmed
@@ -89,10 +95,13 @@ No federal BSL; state/local variation, individual municipal ordinances number in
 - Germany/Austria state-by-state BSL effective dates
 - Australia state-by-state BSL dated timeline
 - Pre-2009 Netherlands bite-rate baseline (would complete the before/after BSL-repeal comparison)
+- Manitoba/Canada BSL-effectiveness study (Raghavan et al.) extracted only via a secondary, advocacy-adjacent source (dogsbite.org) -- primary text (PubMed/PMC/Cureus/SafetyLit) remains blocked after attempts across two sessions; figures should be re-verified against the primary text or a neutral secondary source (ResearchGate/Academia.edu copies identified, not yet fetched) before being used without caveat in the final report
+- No province-wide (as opposed to single-study) Manitoba or other Canadian BSL dated timeline built
 
 ## Sources Log (to be mirrored into data-sources.md)
 - GOV.UK -- XL Bully ban guidance and dates -- [quality: A]
 - VisitSonderjylland -- Danish Act on Dogs -- [quality: B]
 - Mattilsynet (Norwegian Food Safety Authority) -- current banned breed list -- [quality: A]
+- dogsbite.org -- secondary summary of Raghavan et al. Manitoba BSL-effectiveness study -- [quality: C for this extraction route -- advocacy-organisation summary of an A-grade peer-reviewed study; primary text still inaccessible] (Session 6)
 
 **Population scope note:** BSL applies to owned/household dogs by definition (it restricts ownership/breeding/importation) -- **[Scope: household-only]** for the entire file.
