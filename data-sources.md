@@ -323,7 +323,7 @@ variables/urban-vs-rural.md started this session, consolidating already-logged A
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|
 | Italy (Sicily, regional) dog-bite-injury-hospitalisation rate, 2012-2021 | Alberghina et al. 2023, Frontiers in Veterinary Science | https://pmc.ncbi.nlm.nih.gov/articles/PMC9988904/ (fetched via direct device-side curl after WebFetch hit a session usage limit) | A |
-| Italy fatal dog attacks, national registry, 2009-2025 -- IDENTIFIED, NOT extracted | MDPI Animals 15(24):3523 (2025) | https://www.mdpi.com/2076-2615/15/24/3523 -- blocked (WebFetch session-limit + 403 to direct curl); named priority lead for next session | Unknown, not yet assessed |
+| Italy fatal dog attacks, national registry, 2009-2025 -- EXTRACTED via PMC mirror | MDPI Animals 15(24):3523 (2025), via PMC12729952 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12729952/ (fetched via direct device-side curl) | A |
 | Italy shelter-adoptability pilot (Umbria region) -- identified, not pursued (does not answer the surrender-reason question) | RandAgiamo pilot project, PMC4598705 | https://pmc.ncbi.nlm.nih.gov/articles/PMC4598705/ | Not assessed |
 
 ## Rejected Sources (with reason)

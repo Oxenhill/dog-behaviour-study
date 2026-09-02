@@ -20,7 +20,26 @@ Regional study covering Sicily, Italy's largest administrative region, 2012-2021
 
 **Population context (from the same source's introduction):** Italy's owned dog population was reported as ~8.3 million in 2020, an increase of ~18% over the prior year -- Italy's dog population grew steadily 2014-2020 after a stable period, per the source's own citation (not independently re-verified this session).
 
-**Named lead, identified but NOT extracted this session (WebFetch tool hit a session-level usage limit mid-attempt, and MDPI's site returned a 403 to a direct device-side curl fetch):** "Fatal Dog Attacks in Italy (2009-2025): The Urgent Need for a National Risk Registry," MDPI Animals 15(24):3523 (2025) -- appears to be a genuinely national (not regional) Italian fatality dataset spanning a 16-year period, which would be a significantly higher-value source than the Sicily-only hospitalisation study above if extracted. This is the single highest-priority named Italy lead for a future session -- try MDPI directly with a different fetch tool/route, or search for a PMC/ResearchGate mirror (a PMC ID was NOT located this session).
+**RESOLVED, same session (later continuation) -- a PMC mirror was found and extracted via direct device-side curl after MDPI's own site returned a 403.**
+
+**Source: "Fatal Dog Attacks in Italy (2009-2025): The Urgent Need for a National Risk Registry," MDPI Animals 15(24):3523 (2025), via PMC12729952 -- [quality: A, peer-reviewed] -- [Scope: household-only for 92.6% of cases -- see below, a genuinely strong scope match for this study]**
+
+A genuinely NATIONAL Italian dataset (unlike the Sicily-only hospitalisation study above), built from cross-verified national/regional media reporting (not administrative hospital records) over a 17-year period.
+
+| Metric | Figure | Period |
+|--------|--------|--------|
+| Total fatal dog attacks recorded | 54 | 2009-2025 |
+| Annual incidence range | 1-5 cases/year, peaks in 2012, 2024, 2025 (5 deaths each); minimum 2014 (1 death) | Same period |
+| Statistical trend (Poisson regression) | NOT statistically significant (IRR 1.03, 95% CI 0.98-1.08, p=0.24) -- "relative temporal stability" despite visible peaks | Same period |
+| Most-affected victim groups | Elderly (>=65) and preschool-aged children (<=4) | Same period |
+| Breed involvement | Molosser and bull-type breeds implicated in 69% of cases | Same period |
+| Dog ownership status | 92.6% of attacks involved OWNED dogs -- more than half belonging to the victim's own household | Same period |
+| Attack setting | 66.7% occurred in private settings (victim's home/garden) | Same period |
+| Two-era regulatory comparison (the study's own framing) | 1984-2009 (breed-specific legislation era): 1.28 fatalities/year average. 2009-2025 (owner-accountability/behavioural-assessment era, after Italy's national BSL repeal): 3.18 fatalities/year average | Both eras compared directly by the source |
+
+**This is a significant, genuinely complicating data point for this study's management-culture-over-breed-legislation thesis, and it must be logged honestly rather than smoothed into the existing pattern.** Two things pull in different directions within this single source: (1) breed involvement in FATAL attacks specifically is high (69% molosser/bull-type) -- a different picture from the breed-neutral findings this study has assembled for bite SEVERITY/frequency more broadly (France, Austria, Berlin, Canada, Sweden, the Nordic qualitative study); (2) the raw fatality RATE nonetheless rose after Italy moved FROM breed-specific legislation TO an owner-accountability model (1.28/yr -> 3.18/yr), which -- taken at face value -- would cut AGAINST this study's accumulated evidence that management-culture/owner-behaviour factors matter more than breed-focused legislation. **Critical confounders the source itself names and this study must carry forward:** Italy's owned-dog population reportedly more than doubled over the past decade (per the source's own citation of Italy's National Canine Registry, not independently verified this session) -- a rising raw fatality count alongside a rising dog population is NOT the same as a rising per-capita risk, and this study should not treat the 1.28->3.18/yr figures as a controlled before/after comparison without that population-growth context. This is exactly the kind of nuance this study's temporal-linkage methodology (methodology/data-dictionary.md) exists to surface rather than paper over -- flagged prominently here and cross-referenced into variables/breed-legislation-timeline.md rather than being left to sit quietly in a country file where it might not inform the final report's discussion of breed-legislation effectiveness.
+
+**Also worth noting for scope-tagging purposes:** at 92.6% owned-dog involvement, this is one of the strongest household-scope matches of any bite/fatality dataset in this entire study -- most other countries' hospitalisation-based bite data cannot distinguish owned from stray dogs as the biting animal (see this file's population-scope note below), but this Italian fatality study explicitly reports ownership status.
 
 **Also identified, not pursued (narrower/older, lower priority than the two above):**
 - "Incidence of injuries caused by dogs and cats treated in emergency departments in a major Italian city" (ResearchGate) -- older, single-city ED study, city not confirmed this session.
@@ -43,11 +62,11 @@ Regional study covering Sicily, Italy's largest administrative region, 2012-2021
 - Shelter/surrender data with an isolated "behaviour" category: not located, one search attempt made.
 - Behavioural-problem prevalence / C-BARQ data: not yet searched.
 - Management-culture/legislative history (leash laws, breed legislation history, training requirements): not yet searched, though a plausible unsourced lead (2009 national BSL repeal) is noted above for future verification.
-- The "Fatal Dog Attacks in Italy 2009-2025" national registry paper (MDPI) is identified but not extracted -- see above, the single highest-priority Italy lead for next session.
+- ~~The "Fatal Dog Attacks in Italy 2009-2025" national registry paper (MDPI) is identified but not extracted~~ **RESOLVED same session** -- see the full extraction above. A genuinely national dataset, though media-sourced rather than administrative/hospital-record-based (a different, less-verified data-collection method than this study's other bite/fatality sources, worth remembering when weighing its findings).
 
 ## Sources Log (to be mirrored into data-sources.md)
 - Alberghina et al. 2023, Frontiers in Veterinary Science, via PMC (fetched by direct device-side curl after the WebFetch tool hit a session usage limit) -- [quality: A]
-- "Fatal Dog Attacks in Italy (2009-2025)," MDPI Animals 2025 -- IDENTIFIED, not extracted (WebFetch limit + MDPI 403 to direct curl) -- named priority lead for next session
+- "Fatal Dog Attacks in Italy (2009-2025)," MDPI Animals 2025, EXTRACTED via PMC12729952 mirror (direct device-side curl, same session) -- [quality: A]
 - RandAgiamo Umbria shelter-adoptability pilot, PMC4598705 -- identified, not extracted (does not answer the surrender-reason question this study needs)
 
 **Population scope note:** the Sicily DBIH data is **[Scope: mixed/unclear]** -- Italian hospital-discharge coding for dog-bite injuries does not distinguish whether the biting dog was owned/household or stray, unlike this study's household-only survey-based sources elsewhere.
