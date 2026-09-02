@@ -318,6 +318,14 @@ variables/urban-vs-rural.md started this session, consolidating already-logged A
 
 **Not pursued further this session (named leads found via the C-BARQ list but not extracted, logged for a future session):** Sorbie, Cooke & Ventura 2025 (Applied Animal Behaviour Science, "mixed-methods investigation of northern Canadian community dog behavior") -- a genuinely new Canada lead distinct from the already-extracted von Rentzell et al. 2022 study; Hielscher-Zdzieblik et al. 2022 (Animals, Germany, dog age/breed and owner physical activity) -- likely tangential to this study's core prevalence/aggression focus but not yet checked; Van den Berg et al. 2006/2008 (Netherlands, golden retriever aggression genetics) -- narrow breed-specific genetics study, likely too narrow for this study's population-level scope but not yet formally assessed.
 
+## Italy Sources -- Session 11 (new country file)
+
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Italy (Sicily, regional) dog-bite-injury-hospitalisation rate, 2012-2021 | Alberghina et al. 2023, Frontiers in Veterinary Science | https://pmc.ncbi.nlm.nih.gov/articles/PMC9988904/ (fetched via direct device-side curl after WebFetch hit a session usage limit) | A |
+| Italy fatal dog attacks, national registry, 2009-2025 -- IDENTIFIED, NOT extracted | MDPI Animals 15(24):3523 (2025) | https://www.mdpi.com/2076-2615/15/24/3523 -- blocked (WebFetch session-limit + 403 to direct curl); named priority lead for next session | Unknown, not yet assessed |
+| Italy shelter-adoptability pilot (Umbria region) -- identified, not pursued (does not answer the surrender-reason question) | RandAgiamo pilot project, PMC4598705 | https://pmc.ncbi.nlm.nih.gov/articles/PMC4598705/ | Not assessed |
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
