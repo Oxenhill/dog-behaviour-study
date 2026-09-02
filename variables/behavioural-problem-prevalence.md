@@ -265,6 +265,8 @@ Two online-survey studies of British Columbia dog owners, using the C-BARQ instr
 
 **Population scope:** convenience sample of BC dog owners recruited via online survey -- explicitly NOT representative of the general Canadian dog population (same sampling-method caveat flagged for other convenience-sample entries in this file, per the Session 10 three-axis comparability note).
 
+**New named lead, not yet extracted (Session 11, later continuation):** Sorbie, D.A., Cooke, A.S. and Ventura, B.A. (2025), Applied Animal Behaviour Science, "Understanding the behaviour of adopted northern Canadian community dogs through a mixed-methods approach" (ScienceDirect PII S0168159125000954) -- found via the C-BARQ published-articles list, this is a genuinely DIFFERENT Canadian dataset from the von Rentzell et al. BC study above (a distinct population: adopted "community dogs" from northern/remote Canadian communities, a population with its own distinct welfare and management context). Extraction not completed this session -- the page tool used for full-text extraction hit a session-level usage limit (resets 11:40pm UTC) partway through this attempt, and a companion summary page (tgdbehaviour.ca) proved to be a JavaScript-rendered site not readable via a plain fetch. This is a genuinely new, promising, exactly-on-target lead for a future session, not a repeat of an already-blocked source -- should be a priority target next session.
+
 ## Japan
 
 **Source: Nagasawa, Tsujimura, Tateishi, Mogi et al. (7 authors total), Journal of Veterinary Medical Science, February 2011 -- [quality: A, peer-reviewed] -- [Scope: household-only, owner-completed questionnaire, convenience sample]**
