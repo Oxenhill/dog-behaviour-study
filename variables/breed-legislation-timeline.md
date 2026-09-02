@@ -30,6 +30,19 @@
 | 1 Jul 2010 | Danish Act on Dogs -- 13-breed ban introduced | Pit Bull Terrier, Tosa Inu, American Staffordshire Terrier, Fila Brasileiro, Dogo Argentino, American Bulldog, Boerboel, Kangal, Central Asian Shepherd Dog, Caucasian Shepherd Dog, South Russian Shepherd Dog, Tornjak, Sarplaninac | VisitSonderjylland (regional tourism/government-adjacent guide) -- [quality: B, not cross-checked against the primary Danish statute text this session] |
 | 17 Mar 2010 | Cutoff date for dogs acquired before the ban | Dogs owned before this date permitted entry/retention under leash+muzzle conditions, EXCEPT Pit Bull Terrier and Tosa Inu (no grandfathering for these two) | Same source -- [quality: B] |
 
+**MAJOR UPDATE (Session 4):** a peer-reviewed time-series intervention study directly evaluated this law's effect on bite rates in Odense, Denmark:
+
+| Detail | Finding | Source |
+|--------|---------|--------|
+| Study period | 1 Jan 2002 - 31 Jun 2015 (13.5 years, spanning the 2010 law) | Nilson et al. (or similar authorship -- exact author names not extracted this session), PLOS ONE, doi:10.1371/journal.pone.0208393 -- [quality: A, peer-reviewed] |
+| Method | ARIMA time-series modelling (controls for secular/pre-existing trends), not a naive before/after comparison | Same source |
+| Raw counts | 2,622 total hospital-treated dog bites (1,748 private-space, 874 public-space) over the study period | Same source |
+| Naive before/after comparison | Suggested a 15% reduction -- but this is explicitly the WRONG number to use, per the study's own methodology | Same source |
+| Rigorous (ARIMA) result | NO statistically significant effect. Private spaces: -7.53% (95% UI: -49.18 to +55.64, i.e. consistent with no effect or even a large increase). Public spaces: +21.63% (95% UI: -36.46 to +105.12) | Same source |
+| Conclusion | "Breed-specific legislation seems to have no effect on dog bite injuries" -- the authors recommend non-breed-specific interventions instead | Same source |
+
+**This is one of the single most important findings in the entire dataset for Phase 5.** It is a rigorous, peer-reviewed, methodologically explicit (ARIMA vs. naive before/after) null result for BSL effectiveness, from a country with a clean single-event 2010 law change and a long, symmetric pre/post data window -- exactly the kind of natural experiment this study has otherwise struggled to find. It should be read alongside the Netherlands 2009 BSL-repeal entry above (repeal did not worsen bite stats) as convergent evidence, and the Manitoba BSL study (still not extracted as of Session 3) as a comparison point once that is retrieved. **Flag prominently for the Methods/Findings section of the final report.**
+
 ## Norway
 | Date | Change | Detail | Source |
 |------|--------|--------|--------|

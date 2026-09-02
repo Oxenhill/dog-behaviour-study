@@ -2,6 +2,7 @@
 > READ THIS FIRST at the start of every session.
 > REWRITE the Status, Session Log and Next Action before finishing.
 > Never assume memory from a prior session — this file IS the memory.
+> **This is a LIVING document, designed to be reviewed and refreshed at least once a year (see methodology/annual-update-protocol.md) — not a one-off report.** It is also intended to eventually seed a questionnaire/study-criteria instrument for the scientific and dog-professional community (see methodology/future-deliverables.md) — keep that downstream use in mind when logging gaps and definitional caveats, since they are the raw material for that future survey.
 
 ---
 
@@ -34,7 +35,7 @@ and determine what structural, legal, cultural, and environmental factors correl
 | 1 | Source discovery — per metric, per country | ✅ Complete (partial — see gaps) |
 | 2 | Data extraction — per-country files | ✅ Complete for: USA, UK, Australia, Netherlands, Germany/Austria, Japan, Scandinavia. 🟡 Partial for Canada (bite+shelter partially extracted); sources identified but NOT extracted for New Zealand and France (tool-limit blocked, see Session 2 log) |
 | 3 | Cross-country compilation table | ✅ Drafted (cross-country.md populated — methodology note critical) |
-| 4 | Variable collection (laws, density, breeding, culture) | 🟡 Substantial progress Session 2: population-density-and-ownership.md, breeding-regulation-and-ethics.md, breed-legislation-timeline.md all built in dated-timeline format; dog-trainer-regulation.md updated/corrected. Still missing: cultural-attitudes, public-space-access, veterinary-access, leash-laws, urban-vs-rural (see variables/README.md original list) |
+| 4 | Variable collection (laws, density, breeding, culture) | 🟡 Session 3: management-practices-and-culture.md added -- this is the PRIMARY variable per the user's clarification of the study's actual goal (see SCOPE CORRECTION section above). Consolidates/replaces cultural-attitudes, public-space-access, leash-laws as one file. Still missing: veterinary-access.md, urban-vs-rural.md. Session 2 built: population-density-and-ownership.md, breeding-regulation-and-ethics.md, breed-legislation-timeline.md; dog-trainer-regulation.md updated/corrected |
 | 5 | Analysis & correlation | ⬜ Not started |
 | 6 | Draft report sections | ⬜ Not started |
 | 7 | Validation pass | ⬜ Not started |
@@ -90,6 +91,20 @@ and determine what structural, legal, cultural, and environmental factors correl
 
 ---
 
+## SCOPE CORRECTION FROM USER (Session 3 — treat as permanent, highest-priority framing)
+
+The user re-stated the original brief directly and corrected course: this study is NOT primarily about which dog breeds are banned (BSL is one minor input, already covered). The actual analytical target is **dog management/husbandry culture** — the day-to-day practices and norms around how dogs are kept and handled — and how THOSE practices correlate with behavioural outcomes. Explicit example the user gave: "America has lots of leash laws and favours crates, while some European countries banned crates." This is a distinct, previously-uncovered variable category. It maps onto (and now supersedes as the active target) the placeholder files variables/leash-laws.md, variables/public-space-access.md, and variables/cultural-attitudes.md from the original variables/README.md list.
+
+**New variable category to build out (in dated-timeline format, per the existing temporal-linkage rule): "Management practices & culture"** — covers at minimum:
+- Crate training: prevalence/cultural norm vs. legal status (e.g. crating banned or restricted in some European countries on welfare grounds) vs. USA/UK norm of routine crate use
+- Leash laws: not just existence but STRICTNESS and enforcement culture — off-leash norms and access (off-leash hours in parks, free-roam culture in some countries vs. leash-at-all-times culture in others)
+- Related: socialisation-class prevalence, dog-walking/exercise norms, indoor-vs-outdoor dog lifestyle norms, crate-adjacent practices (e.g. dog left alone hours per day)
+This is now the PRIMARY open research thread — higher priority than finishing Canada/NZ/France metric gaps or Germany/Austria bite data.
+
+**Efficiency lesson learned (Session 2 → 3):** Session 2 burned meaningful tool budget re-attempting the same blocked WebFetch URLs (PMC/PubMed recaptcha, robots.txt blocks) up to 4 times each with no data recovered. Going forward: attempt a blocked source ONCE per session; if it fails, log it as blocked and move to the next-best source or a different domain entirely, rather than retrying the identical URL. Do not repeat a failing tool call expecting a different result.
+
+---
+
 ## Session 2 Methodological Decisions (locked in — apply going forward)
 
 **1. Priority reordering:** Variables (Phase 4) now take priority over further country bite/surrender/referral gap-filling. Rationale: the study's actual goal (per original brief) is explaining WHY some countries integrate dogs into households more successfully — the metrics are the dependent variable, the Phase 4 variables (population density, dog ownership rate, breeding regulation/ethics, breed distribution, owner-education law) are the independent variables the whole analysis depends on. Build these out for the countries we already have metrics for (USA, UK, Australia, Netherlands, Germany/Austria, Japan, Scandinavia) before chasing more country-level metric gaps.
@@ -142,6 +157,72 @@ and determine what structural, legal, cultural, and environmental factors correl
 
 ---
 
+## Session 3 Log
+
+- Date: September 2, 2026 (same day, second continuation)
+- **Critical user correction (see SCOPE CORRECTION section near the top of this file for the full statement):** the study's real analytical target is dog MANAGEMENT/HUSBANDRY CULTURE (crate norms, leash-law strictness, off-leash access structure, exercise mandates) and how it correlates with behavioural outcomes -- not primarily which breeds are banned. User's own example: "America has lots of leash laws and favours crates, while some European countries banned crates."
+- User also flagged that Session 2 wasted tool budget repeatedly re-fetching the same blocked URLs (Manitoba study, NZMJ, France PDFs) for zero data recovered. Efficiency rule adopted: attempt a blocked source once per session, then move on.
+- **Completed:** variables/management-practices-and-culture.md built (dated timeline format) covering:
+  - Germany: Tierschutz-Hundeverordnung -- max 2hrs/day crate confinement, min 2x2hrs/day owner contact, min floor space by dog size, anti-tethering, quiet hours (in force 1 Jan 2022; original enactment year still unconfirmed)
+  - Sweden: home crating fully banned (zero exceptions) per a primary Lansstyrelsen government PDF, but transport (3hr cap)/hunting (8hr/day, 3-hourly breaks)/events (2-hourly exercise) explicitly permitted -- this corrects the oversimplified "Sweden bans crates" framing found in secondary sources
+  - USA: corrected a popular misconception -- only Michigan and Pennsylvania have STATEWIDE leash mandates; most US jurisdictions use a looser "running at large" standard with voice-control exceptions, entirely local-ordinance-driven. The US's real distinctiveness is restrictive PUBLIC-SPACE-ACCESS culture (dogs excluded from restaurants/transit/retail) plus normalised home crate use, not blanket-strict leash law
+  - Netherlands: on-leash default in built-up areas, formal municipality-designated off-leash zones (losloopgebieden), seasonal beach rules, strong social (not just legal) poop-cleanup enforcement culture
+  - UK, Sweden off-leash norms, Australia off-leash zone structure: identified but at lower confidence (one behaviorist's observational account for UK/Sweden; Australia council-level structure confirmed but not detailed) -- flagged accordingly, not overstated
+  - Finland: flagged as an explicit gap -- repeatedly cited alongside Sweden in secondary sources but no primary Finnish government source found this session
+  - variables/README.md updated to reflect this file replaces 3 originally-planned placeholder files
+  - data-sources.md updated with all new sources
+- **Next action, in priority order (supersedes Session 2's list where they conflict):**
+  1. Extend variables/management-practices-and-culture.md to the remaining countries not yet covered: Japan, Canada, New Zealand, France, Denmark, Norway, Finland, Austria -- this is now the single highest-value open thread
+  2. Confirm Finland's crate rule against a primary source (Sweden's Lansstyrelsen-equivalent)
+  3. Extract the full Tierschutz-Hundeverordnung primary text (gesetze-im-internet.de) for the exact original enactment year
+  4. Get a primary UK local-authority source for off-leash culture (currently McConnell-observational only)
+  5. THEN return to the Session 2 carryover items: Mair et al. 2019 (NZ), the French INVS/SPA PDFs, the Manitoba BSL study, Germany/Austria bite+shelter data -- attempt each ONCE, do not retry a failed URL
+  6. Once management-practices-and-culture.md has reasonable country coverage, this is likely the moment to start thinking about Phase 5 (Analysis & correlation) even before every metric gap is filled, since the user's priority is clearly the explanatory variables over exhaustive metric coverage
+
+---
+
+## Session 4 Log
+
+- Date: September 2, 2026 (continuation)
+- User clarified the real issue with Session 2's inefficiency was running out of session mid-task, not the tool blocks themselves -- lesson: checkpoint/save progress incrementally throughout a session, don't front-load all research and write everything at the very end.
+- **Completed:** extended variables/management-practices-and-culture.md to 8 more countries/regions: Japan, Austria, Canada, France, Norway, Finland, Denmark, New Zealand (partial). Each addition was written to disk immediately after research, not batched.
+- **Major finding, flagged prominently:** a peer-reviewed PLOS ONE time-series study found Denmark's 2010 breed-specific legislation had NO statistically significant effect on hospital-treated dog bites (ARIMA-modelled; the naive 15% reduction figure is explicitly the wrong number to use). Added to variables/breed-legislation-timeline.md's Denmark section as a major update -- this is one of the strongest, most methodologically rigorous findings in the whole dataset and should be prominent in the final report.
+- **New cross-country pattern identified:** three distinct public-leash regulatory models now evidenced -- (1) leash-always/no-off-leash (Japan), (2) on-leash-default with designated off-leash zones (Netherlands, Canada, Australia), (3) off-leash-default or control-based rather than leash-based (Norway seasonally, France's 100m/voice-control "divagation" standard). France, Norway, and Finland additionally share a convergent "permanent urban leash + seasonal rural wildlife-protection leash" two-tier pattern not seen in the US/Canada/Japan/Australia sources reviewed. Interpretive Note section of the management-practices file rewritten to name these explicitly.
+- data-sources.md and variables/breed-legislation-timeline.md both updated with new sources/findings from this session.
+- **Efficiency note:** one WebFetch to Legifrance.gouv.fr (France primary legal text) returned a 403 error; per the Session 3 lesson, this was NOT retried -- a substitute source (village-justice.com legal commentary + service-public.gouv.fr official portal) was used instead, successfully.
+- **Remaining gaps in variables/management-practices-and-culture.md** (see that file's own Data Gaps section for full detail): Australia off-leash structure needs a concrete example (like Calgary provided for Canada); New Zealand's Dog Control Act s54A full text/exemptions not extracted; Denmark's apparent lack of a seasonal leash exception (unlike its Nordic neighbours) not resolved -- could be a real difference or incomplete search; Finland's home-crate-ban claim (Session 3) still unconfirmed against a primary source even though its leash law is now well-confirmed.
+- **Next action, in priority order:**
+  1. Close the remaining management-practices-and-culture.md gaps listed above (Australia detail, NZ full text, Denmark seasonal-exception check)
+  2. Retrieve the Manitoba BSL study (Canada) and Mair et al. 2019 (NZ) and the French INVS/SPA PDFs -- each ONCE, not retried if blocked (carried over from Session 2/3, still not done)
+  3. Germany/Austria bite+shelter metric data -- still a full gap across all sessions so far
+  4. Once management-culture and breed-legislation are both in good shape, Phase 5 (Analysis & correlation) can reasonably begin even with some metric gaps remaining, since the user's priority is the explanatory variables over exhaustive metric coverage
+  5. Remaining Phase 4 files not started: veterinary-access.md, urban-vs-rural.md
+
+---
+
+## Session 5 Log
+
+- Date: September 2, 2026 (continuation)
+- **User's new strategic direction (treat as permanent, applies going forward):**
+  1. This study should be built to be reviewed and refreshed at least once per year, not treated as a one-off report
+  2. It should later be used to design questionnaires and study criteria to put to the scientific community and dog professionals
+  3. An interactive HTML for reviewing findings would be useful eventually, but explicitly NOT now — plan for it, don't build it
+  4. Understanding the dataset fully — provenance and exact meaning of every figure — is imperative to the eventual document
+- **Completed:** created methodology/ folder with three new files:
+  - methodology/data-dictionary.md — canonical reference explaining the three meta-frameworks already in informal use (quality tier, population-scope tag, temporal validity), a "bite-data severity ladder" (fatality < hospitalisation < ED visit < GP visit < self-report, plus Japan's non-comparable "serious incident" administrative category) that makes explicit why most cross-country bite comparisons in this dataset are NOT valid except the UK/Australia hospitalisation pair, a breakdown of what each of the 3 core metrics actually measures and its definitional traps, a table of what each variable file captures and why, and a glossary
+  - methodology/annual-update-protocol.md — an 8-step checklist for future yearly reviews (re-check periodic sources for new editions, re-attempt named blocked items once, check law effective-date changes, re-run scope audit on new sources, update Phase Tracker, check for stale claims if the report is already drafted, log the run) plus an Update Log table to fill in each cycle
+  - methodology/future-deliverables.md — a PLANNED-NOT-BUILT spec for (a) the interactive HTML tool (per-country comparison cards with tags visible, a severity-ladder visual, timeline rendering of the variable files, a live gaps-map, recommendation to structure data as JSON/CSV before building) and (b) the questionnaire/study-criteria design (a table mapping already-logged data gaps directly to candidate survey questions, e.g. national referral-rate gap → ask practising vets/behaviourists directly; enforcement-reality gap in management-practices-and-culture.md → ask owners/trainers about actual crate/leash practice vs. legal text)
+- **Housekeeping:** removed a stray empty junk directory (`{data` / `{data/by-country,variables,analysis,draft,final}`) left over from a Session 1 mkdir brace-expansion typo — pure cleanup, no data affected. Also found and removed a stale `.git/index.lock` file (0 bytes, no process holding it) that would have blocked the user's next `git commit` — required requesting delete permission for the connected folder, now granted for the rest of this session.
+- **Next action:** continue the substantive research backlog (Session 4's Next Action list is unchanged and still applies — management-culture gaps for Australia/NZ/Denmark, then the Manitoba/NZ/France one-shot retrieval attempts, then Germany/Austria metrics) — but from now on, log every new gap with half an eye on whether it belongs in the future questionnaire table in methodology/future-deliverables.md, and keep figures added to periodic-source country files as NEW dated rows rather than overwrites, per the annual-update-protocol's Step 2, even outside of a formal annual cycle — this habit should start now, not wait for the first official yearly run.
+
+---
+
+## Files Written This Session
+
+## Files Written This Session
+
+## Files Written This Session
+
 ## Files Written This Session
 
 ### Session 1
@@ -177,10 +258,50 @@ data/by-country/USA.md, UK.md, Australia.md, Netherlands.md, Germany-Austria.md,
 variables/dog-trainer-regulation.md (cross-reference note + Norway BSL correction)
 ```
 
+### Session 3 (new files)
+```
+variables/management-practices-and-culture.md
+```
+
+### Session 3 (files edited)
+```
+_PROJECT_STATE.md (this file — scope correction + full session log)
+data-sources.md (Management Practices & Culture Sources section added)
+variables/README.md (file list updated to reflect Session 3 additions)
+```
+
+### Session 4 (files edited, no new files)
+```
+variables/management-practices-and-culture.md (extended to Japan, Austria, Canada, France, Norway, Finland, Denmark, New Zealand; Interpretive Note rewritten)
+variables/breed-legislation-timeline.md (Denmark section majorly updated with the PLOS ONE BSL-effectiveness study)
+data-sources.md (Session 4 sources added)
+_PROJECT_STATE.md (this file — session log)
+```
+
+### Session 5 (new files)
+```
+methodology/data-dictionary.md
+methodology/annual-update-protocol.md
+methodology/future-deliverables.md
+```
+
+### Session 5 (files edited)
+```
+_PROJECT_STATE.md (this file — top-of-file note, Session Protocol, session log)
+```
+
+### Session 5 (cleanup, not content)
+```
+Removed: {data/ (stray empty junk directory from a Session 1 typo)
+Removed: .git/index.lock (stale lock file)
+```
+
 ---
 
 ## Session Protocol (follow every time)
 1. Read this file — know exactly where you are
 2. Read data-sources.md — check source status
-3. Work the current phase
-4. Update this file before ending (Session Log, Phase Tracker, Next Action)
+3. Read methodology/data-dictionary.md if this is your first time on the project, or if it's been a while — it defines the quality-tier/scope/temporal-validity tags used throughout and the bite-data "severity ladder," both load-bearing for correctly using any figure in this dataset
+4. If this session is specifically an annual/periodic refresh (rather than new research), follow methodology/annual-update-protocol.md instead of starting from scratch
+5. Work the current phase
+6. Update this file before ending (Session Log, Phase Tracker, Next Action) — checkpoint incrementally throughout the session, not only at the end (a named lesson from Session 3: a session can run out mid-task, and unsaved research is lost research)

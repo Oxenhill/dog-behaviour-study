@@ -11,7 +11,9 @@
 | Follow-up/updated study, 2022 | "Epidemiology of dog-related injuries within New Zealand," NZMJ vol 135 no 1554 (PDF directly located at nzmj.org.nz) | Newly identified this session -- appears to be a more recent update to the Mair et al. dataset. **Not extracted** -- same tool-limit block |
 | Related, 2022 | "An audit of dog-related injury notification practices in a New Zealand public hospital" (PMID 35728209) | Newly identified this session. **Not extracted.** |
 
-**This is a firm, named priority for the next session:** re-fetch the NZMJ PDF (direct URL captured: nzmj.org.nz/media/pages/journal/vol-135-no-1554/epidemiology-of-dog-related-injuries-within-new-zealand/...pdf) and the Mair et al. 2019 PubMed abstract once the WebFetch tool limit resets, before doing any other NZ work.
+**Session 6 update:** re-attempted the Mair et al. 2019 PubMed abstract once this session (per the project's one-attempt-per-session efficiency rule) -- pubmed.ncbi.nlm.nih.gov returned a reCAPTCHA interstitial, same failure mode as before. NOT a WebFetch budget issue this time (budget was available) -- this specific PubMed URL appears to be consistently bot-blocked regardless of session state. **Recommendation for next session: stop retrying the PubMed URL itself; instead try the nzmj.org.nz vol-132-no-1494 issue PDF directly (confirmed to exist and list the article, but full PDF not yet fetched), or a ResearchGate/Academia.edu mirror if one exists.** The nzmj.org.nz vol-135-no-1554 (2022 follow-up) direct PDF URL captured in Session 2 was also not re-attempted this session -- remains a named target.
+
+**Management-culture side (leash law) RESOLVED this session -- see variables/management-practices-and-culture.md for full write-up:** the Dog Control Act 1996 s54A requires owners to have their dog on a leash OR carry a leash in public (not necessarily leash-on at all times), with a working-dog exemption. The specific designation of on-leash vs off-leash areas is delegated to individual territorial councils' bylaws (structurally the same "national floor + local council-designated zones" pattern seen in Australia and Canada), rather than being fixed in the national Act itself. Primary legislation.govt.nz and nzlii.org text both returned 403 errors when fetched directly (one attempt each, both blocked) -- this finding is sourced from communitylaw.org.nz, a legal-aid community-law reference guide, **[quality: B -- secondary legal-reference summary, not the primary statutory text]**.
 
 ## Shelter Surrender / Relinquishment Data
 
@@ -34,10 +36,11 @@
 
 Breeding regulation and BSL for New Zealand not yet researched this session -- flagged as gaps in variables/breeding-regulation-and-ethics.md and variables/breed-legislation-timeline.md.
 
-## Data Gaps (Session 2 status)
-- Mair et al. 2019 findings (the study this project's Next Action explicitly named) -- STILL NOT EXTRACTED, carried forward as the top-priority item for next session
-- 2022 follow-up NZMJ study findings -- not extracted
-- SPCA shelter intake/surrender numbers and behaviour-reason breakdown -- not extracted
-- NZ breeding regulation and BSL -- not researched
+## Data Gaps (Session 6 status -- updated)
+- Mair et al. 2019 findings -- STILL NOT EXTRACTED after a second blocked attempt (Session 6); recommend switching approach (nzmj.org.nz direct PDF or a mirror) rather than retrying PubMed again.
+- 2022 follow-up NZMJ study findings -- not extracted, not re-attempted this session.
+- SPCA shelter intake/surrender numbers and behaviour-reason breakdown -- not extracted, not attempted this session.
+- NZ breeding regulation and BSL -- not researched.
+- ~~Leash-law / management-culture~~ **RESOLVED Session 6** -- see variables/management-practices-and-culture.md.
 
 **Session 2 verdict on scope decision:** New Zealand has multiple strong, directly relevant, government/peer-review-quality sources identified (NZMJ x2, SPCA x2-3, an MDPI post-adoption-behaviour study) -- this is NOT a data-availability problem like Japan or Scandinavia's shelter gap. This is purely a this-session extraction shortfall caused by a tool limit. Recommend treating New Zealand as high-priority (not "drop" or "footnote-only") for the very next research session, ahead of further Canada or France work, since the sources are already in hand.

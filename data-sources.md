@@ -157,6 +157,34 @@
 
 ---
 
+## Management Practices & Culture Sources (Session 3)
+> See variables/management-practices-and-culture.md for full detail. Logged here per the "every source goes in the registry" rule.
+
+| Topic | Source | URL | Quality |
+|-------|--------|-----|---------|
+| Germany crate/exercise/tethering law | VDH (Verband fur das Deutsche Hundewesen) | https://tierschutz.vdh.de/en/animal-welfare-dog-ordinance | A/B |
+| Germany crate/exercise/tethering law (detail) | Ramstein Air Base official fact sheet | https://www.ramstein.af.mil/About/Fact-Sheets/Display/Article/303687/dog-keeping-laws-for-germany/ | B |
+| Germany exercise mandate (draft history) | Animal Legal Defense Fund | https://aldf.org/article/new-german-law-will-mandate-minimum-exercise-requirements-for-dogs/ | B |
+| Germany primary legal text (identified, not extracted) | gesetze-im-internet.de | https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html | A |
+| Sweden crate/cage rules | Lansstyrelsen (Swedish County Administrative Board) | https://www.lansstyrelsen.se/download/18.8cd5a1b19362fb4fc214ba/1732535394058/Hund%20och%20katt%20i%20bur%20%E2%80%93%20s%C3%A5%20s%C3%A4ger%20djurskyddsreglerna.pdf | A |
+| USA state leash law patterns | Animal Legal & Historical Center | https://www.animallaw.info/topic/table-state-dog-leash-laws | A/B |
+| Cross-country dog-culture observation | Patricia McConnell (certified applied animal behaviorist) | https://www.patriciamcconnell.com/theotherendoftheleash/dog-laws-around-the-world/ | B |
+| Netherlands leash law detail | nlcompass.com expat guide | https://www.nlcompass.com/guides/pet-rules-netherlands-expats | B/C |
+
+## Management Practices & Culture Sources -- Session 4 additions
+| Topic | Source | URL | Quality |
+|-------|--------|-----|---------|
+| Japan leash rule (official) | Japan Ministry of the Environment pamphlet, via mhlw.go.jp | https://www.mhlw.go.jp/english/policy/care-welfare/welfare-disabilities/assistance_dogs/rules_manners.html | A |
+| Austria (Upper Austria) leash/muzzle law | Upper Austria state government official PDF | https://ukraine.ooe.gv.at/Mediendateien/Handout_Hundehaltegesetz_Pflichten__der__Hundehalt-1t9F64VXCvFCgQXOAhbgGmq-4PcK8cwtDhQ2EuxbQ7k.pdf | A |
+| Canada (Calgary) leash bylaw | City of Calgary official page | https://www.calgary.ca/pets/dog-leash-guidelines.html | A |
+| France divagation legal standard | village-justice.com (lawyer-authored commentary on Code rural L211-23) | https://www.village-justice.com/articles/divagation-des-animaux-definition-responsabilites,45328.html | B (primary Legifrance text attempted, 403 error, not retried) |
+| France official leash/dangerous-dog rules | service-public.gouv.fr (official French government portal) | https://www.service-public.gouv.fr/particuliers/vosdroits/F35062?lang=en | A |
+| Norway bandtvang (seasonal leash) | lifeinnorway.net | https://www.lifeinnorway.net/dog-park-culture-in-norway/ | B |
+| Finland seasonal + urban leash rules | Helsinki Times, citing Finnish Kennel Club | https://www.helsinkitimes.fi/finland/finland-news/domestic/26213-leash-requirement-for-dogs-begins-across-finland-on-1-march.html | A/B |
+| Denmark leash rule | The Local Denmark | https://www.thelocal.dk/20240213/what-are-the-rules-for-dog-owners-in-denmark | B |
+| **Denmark BSL effectiveness (major find)** | PLOS ONE, peer-reviewed time-series intervention study, doi:10.1371/journal.pone.0208393 | https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0208393 | A -- peer-reviewed. Found NO statistically significant bite-reduction effect from Denmark's 2010 BSL (ARIMA-modelled; naive before/after 15% reduction was NOT significant once trend-corrected) |
+| New Zealand leash statute (heading only) | legislation.govt.nz, Dog Control Act 1996 s54A | https://www.legislation.govt.nz/act/public/1996/0013/latest/DLM374410.html | A (partial extraction only) |
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
