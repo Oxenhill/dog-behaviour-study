@@ -273,6 +273,13 @@ variables/urban-vs-rural.md started this session, consolidating already-logged A
 
 **Note:** the two multi-country blog sources disagree on Sweden's exact figure (80% vs 40%+) -- both logged, discrepancy not resolved, per the data-integrity rule. variables/veterinary-access.md also cross-references (not re-fetches) the already-logged Humane Canada 2021, Deutscher Tierschutzbund 2024, and Pfotenhilfe OO sources for a veterinary-cost-as-relinquishment-driver thread.
 
+## Germany & Austria Sources -- Session 11 autonomous-continuation finds
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Austria, national shelter infrastructure/population study (30 of 46 shelters, national scope, 2010/2011 fieldwork) | Austrian Federal Ministry of Health, via verbrauchergesundheit.gv.at | https://www.verbrauchergesundheit.gv.at/dam/jcr:ecff70e0-81a7-408b-b14f-5c6dc9ca614b/endbericht-tierheim_korr_2012.pdf | A |
+
+**Also checked, ruled out:** Austria's Veterinärjahresbericht series (national veterinary annual reports, 1998-2018) -- confirmed to cover veterinary administration/disease monitoring only, no bite or shelter statistics. Sweden's Bodegård et al. "Demographic Data of a Population of Insured Swedish Dogs" (Acta Veterinaria Scandinavica, open access) -- fetched, confirmed to contain NO behaviour-problem data, health/demographic findings only (461 owners, 1997). Both logged as dead ends, not further gaps to chase.
+
 ## Germany & Austria Sources -- Session 11 additional attempts
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|
