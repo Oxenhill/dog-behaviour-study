@@ -253,6 +253,11 @@
 
 **Not yet located this session:** a direct French-language behaviour-problem-prevalence owner survey -- search surfaced only shelter-abandonment statistics and general advice content, not a prevalence figure. Now treated as a genuine gap alongside Netherlands and Germany.
 
+## Broader Behavioural-Problem Prevalence Sources -- Session 11 second autonomous-continuation find (Japan resolved-partially)
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Japan, C-BARQ factor-structure validation (734 Japanese owners vs 11,410 US owners) | Nagasawa, Tsujimura, Tateishi, Mogi et al., Journal of Veterinary Medical Science, 2011, via ResearchGate | https://www.researchgate.net/publication/49857268_Assessment_of_the_Factorial_Structures_of_the_C-BARQ_in_Japan | A -- Japan's first C-BARQ data point in this project, found via a genuinely new search route distinct from the previously-blocked Konno/Ogata paper |
+
 ## Broader Behavioural-Problem Prevalence Sources -- Session 11 autonomous-continuation finds
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|
