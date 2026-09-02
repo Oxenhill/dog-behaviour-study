@@ -291,6 +291,19 @@ This is now the PRIMARY open research thread — higher priority than finishing 
 
 ---
 
+## Session 10 Log
+
+- Date: September 2, 2026 (continuation)
+- **Focus:** continue Core Metric 5 for the remaining named countries (Austria, France, Norway, Sweden, Canada) per Session 9's next-action list.
+- **Austria resolved (vet-caseload perspective):** a 271-respondent survey of Austrian veterinarians (Hermann 2023, Vetmeduni Vienna diploma thesis) gives behaviour-complaint frequency in practice AND, more importantly, direct professional-opinion evidence for this study's core thesis -- vets rated owner interaction, dog education, and puppyhood socialisation as far more relevant to aggression (4.75-4.80/5) than breed (3.17/5, lowest-rated factor). This is now the THIRD independent strand of evidence for the management-culture-over-breed-legislation hypothesis, alongside France's breed-neutral bite-severity finding (Session 6) and Austria's own historical OKV training-uptake series (Session 7).
+- **Norway/Sweden/Denmark qualitative data added:** a 15-interview professional-perspective study across the three countries surfaced several cross-cutting themes -- most notably "Covid dogs" (pandemic-acquired dogs never left alone during lockdown, now a recognised separation-anxiety risk group) as a specific, previously-uncaptured mechanism tying together the post-pandemic shelter-surrender surges already documented for the UK/Netherlands/France/Germany. Also reinforced the training-quality and breed-secondary-to-environment themes from a fourth independent angle.
+- **A second, distinct comparability problem identified:** beyond the definitional/threshold issue (Session 8) and the same-dataset-different-method issue (Session 9), a secondary discussion of the Danish study explicitly named REPRESENTATIVE vs. CONVENIENCE sampling as a further, independent source of variance across this file's studies -- Denmark is the only representative-sample entry; most others are convenience samples of self-selected respondents. Added to the file's top-of-file comparability note as a third axis to check before comparing any two figures.
+- **Attempted, still not resolved:** Japan (not re-attempted -- no new route found); Netherlands, Germany, Canada, France all searched again or for the first time this session and still show no general-population prevalence figure -- these now read as genuine data gaps rather than under-searched leads.
+- **Cross-referenced:** the Austria vet-survey finding was added to data/by-country/Germany-Austria.md's Austria section.
+- **Next action:** the remaining named gaps for this metric (Japan extraction via a new route, a direct Australian owner-survey to complement the vet-clinic VetCompass data, France/Canada/Norway/Sweden direct owner surveys) are all now second-tier "if a lead appears" targets rather than obviously-findable leads -- Core Metric 5 has reasonable breadth across 7 of this study's ~14 countries at this point (USA, Finland, Denmark, Australia, UK, New Zealand, Austria, partial Norway/Sweden), which may be enough to support a genuine Phase 5 discussion of this metric alongside bites, even with gaps remaining, consistent with the project's standing "explanatory-variable breadth over exhaustive metric coverage" priority. Also still open from Session 7: Berlin bite-statistics actual counts, Austrian shelter/surrender data (still a complete gap after four attempts across sessions).
+
+---
+
 ## Files Written This Session
 
 ### Session 1
@@ -403,6 +416,14 @@ variables/behavioural-problem-prevalence.md (USA section majorly extended with t
 data/by-country/New-Zealand.md (Post-Adoption Problem Behaviours study resolved; Data Gaps updated)
 data-sources.md (Session 9 additions table)
 _PROJECT_STATE.md (this file — Session 9 log)
+```
+
+### Session 10 (files edited, no new files)
+```
+variables/behavioural-problem-prevalence.md (Austria and Norway/Sweden/Denmark-qualitative sections added; sampling-method comparability note added; Attempted/Not-yet-researched/Data Gaps/Sources Log all updated)
+data/by-country/Germany-Austria.md (Austria vet-survey cross-reference added)
+data-sources.md (Session 10 additions table)
+_PROJECT_STATE.md (this file — Session 10 log)
 ```
 
 ---

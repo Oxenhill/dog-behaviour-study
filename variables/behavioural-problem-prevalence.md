@@ -18,6 +18,8 @@ Before any cross-country reading of the numbers below, this must be understood: 
 
 **Session 9 update -- proof of this exact point found WITHIN a single country's data:** the USA section below now contains four different headline prevalence figures derived from the same or overlapping Dog Aging Project population, ranging from a 9% separation-related-behaviour figure (Serpell & Powell's re-analysis) to an 85.9%/86% figure for the same category from the original analysis of the same data -- a roughly 6-10x difference from ONE dataset depending purely on analytical method. This is stronger evidence for the comparability warning above than the four-country comparison itself, since country, sample, and population are all held constant and only the analysis method varies. See the United States section for full detail.
 
+**Session 10 addition -- a second, distinct axis of variance identified: SAMPLING method, not just threshold.** A secondary discussion of the Denmark study (Vox Canis, France) made explicit a point that applies across this whole file: Meyer et al.'s Danish figure (34%) came from a REPRESENTATIVE sample of the population, while most of the other studies in this file (Finland, the USA's DAP-based studies, New Zealand's shelter cohort) are CONVENIENCE samples -- self-selected owners who opted into an online survey or shelter-adoption programme. Convenience samples are widely understood in this literature to skew toward owners who are already experiencing difficulties (motivated to seek out a behaviour survey) or, conversely, toward more engaged/attentive owners (who complete long voluntary questionnaires) -- the direction of bias is not even consistent, which is precisely why representative sampling matters. This is a THIRD, independent source of cross-study variance in this file, alongside (1) the definitional/threshold problem and (2) the DAP internal analytical-method problem -- all three should be checked before comparing any two figures in this file.
+
 ---
 
 ## United States
@@ -161,23 +163,58 @@ This is the study named as a top priority back in Session 2 ("identified, not ex
 
 ---
 
-## Attempted but not resolved this session
-- **Japan:** a specific, promising, peer-reviewed lead was found ("Dogs predisposed to anxiety disorders and related factors in Japan") but could not be extracted -- ScienceDirect robots-blocked (not retried), ResearchGate 429-rate-limited, and a follow-up search for a secondary summary found none. Logged as identified-not-extracted, a concrete named target for a future session rather than a blank gap.
-- **Netherlands, Germany, Canada:** searched this session (both English and native-language queries for Germany), but only narrow/non-general-population sources were found -- a Rottweiler-specific Dutch WUR thesis, scattered German single-breed dissertations and small blog surveys, and a qualitative Canadian "northern community dogs" study. None meets this file's bar for a general-population prevalence figure. These remain genuine gaps, not overlooked leads -- worth one more dedicated attempt each in a future session, but do not appear to have an obvious "big" study waiting to be found the way the four extracted countries did.
+## Austria
 
-## Not yet researched at all (Session 10+ targets)
-- Austria, France, Norway, Sweden, Canada (beyond the qualitative lead above): no search attempted yet for this specific metric.
-- C-BARQ-specific published country comparisons (the instrument itself spans 70+ published studies per its own documentation, including some in Session 9's C-BARQ bibliography search -- South Korea, Mexico, Brazil, Argentina, Slovakia, Iran, and an in-review France paper -- none of which are core countries in this study except France) were searched this session via the instrument's own published-articles bibliography; none of the additional countries found are in this study's scope, but the France paper (Besegher et al. 2025, "under review") is a concrete named target for a future session once/if it publishes.
+**Source: Hermann 2023, diploma thesis, University of Veterinary Medicine Vienna (Vetmeduni), via PHAIDRA repository -- [quality: A, university thesis with a real fieldwork survey, though a modest 6.1% response rate] -- [Scope: household-only, veterinarian-reported client presentations, not a direct owner survey]**
 
-## Data Gaps (Session 9 status -- updated)
+Unlike the owner-survey studies above, this is a VETERINARIAN-perspective survey -- it measures how often vets see behaviour complaints and what they believe causes them, not a direct dog-population prevalence rate. Included here because it is Austria's only located quantitative behaviour-problem source and because its findings are unusually directly relevant to this study's core thesis.
+
+| Metric | Figure | Period | Notes |
+|--------|--------|--------|-------|
+| Sample size | 271 Austrian veterinarians (6.1% response rate of 4,408-4,443 OTK/Austrian Veterinary Chamber members) | Sep-Oct 2022 | Online questionnaire; 86.3% worked in small animal medicine |
+| Vets reporting behaviour-complaint clients "1-2 times monthly" | 30.9% | 2022 | -- |
+| Vets reporting behaviour-complaint clients "less than once monthly" | 34.8% | 2022 | Together, roughly two-thirds of vets see behaviour complaints at most monthly -- suggests behaviour concerns are a routine but not dominant part of Austrian small-animal practice |
+| Most commonly reported behaviour complaints | Noise sensitivity, increased nervousness | 2022 | Consistent in TYPE with Finland's top category (noise sensitivity 32%) and Denmark's "fear of noises" (10%) |
+| Least commonly reported | Aggression toward children (mean 2.23/5) | 2022 | -- |
+| **Vet-rated relevance of "interaction of owner with dog" to aggression causation** | 4.80/5 (highest-rated factor) | 2022 | -- |
+| Vet-rated relevance of "education of the dog" | 4.78/5 | 2022 | -- |
+| Vet-rated relevance of "socialisation in puppyhood" | 4.75/5 | 2022 | -- |
+| **Vet-rated relevance of "breed of dog"** | 3.17/5 (LOWEST-rated factor) | 2022 | -- |
+
+**Directly significant for this study's core thesis:** Austrian veterinarians -- practitioners actually seeing behaviour cases -- rate owner interaction, dog education/training, and puppyhood socialisation as far more relevant to aggression than breed. This is independent, professional-opinion evidence (not owner self-report, not a legislative debate) for exactly the management-culture-over-breed-legislation hypothesis this study has been assembling evidence for since the Session 3 scope correction. It should be cited alongside the France bite-severity survey's breed-neutral finding (data/by-country/France.md) and the Austrian OKV training-uptake/injury-decline historical series (variables/dog-trainer-regulation.md) as a third, independently-sourced strand of evidence pointing the same direction.
+
+## Norway, Sweden, Denmark (qualitative -- professional perspectives)
+
+**Source: a qualitative study of separation-related-behaviour characteristics across three Nordic countries, Scientific Reports (Nature) -- [quality: A, peer-reviewed] -- [Scope: professional/practitioner-reported, not owner-survey or population-level]**
+
+15 semi-structured interviews (5 each) with vets, behaviourists, and trainers in Denmark, Sweden, and Norway, analysed via reflexive thematic analysis. This is NOT a prevalence figure -- it is qualitative professional-perspective data, included because its themes bear directly on this study's variables:
+
+- **Co-occurring problems:** separation-related behaviour rarely occurs alone -- noise sensitivity, specific fears, and stress-related behaviours frequently co-occur, consistent with Finland's comorbidity finding (separation-related dogs 4.1x more likely to also show hyperactivity).
+- **"Covid dogs":** professionals specifically named dogs acquired during pandemic lockdowns -- never left alone during that period -- as a recognisable risk group for separation problems once normal routines resumed. This is a genuinely new, specific, cross-country-relevant finding not previously captured anywhere in this study, and ties directly to the post-pandemic shelter-surrender surges already documented for the UK, Netherlands, France, and Germany (all showing the same 2022-onward surrender increase).
+- **Training method matters:** rushed or aversive separation training was specifically named as WORSENING outcomes -- consistent in direction with the UK PDSA finding (aversive-trained dogs showing higher separation distress, 18% vs 12%) and Denmark's Meyer et al. finding (more training associated with lower risk).
+- **Breed matters less than environment/owner behaviour:** professionals in this qualitative study explicitly said genetics play a role but environmental factors and owner behaviour "significantly influence outcomes regardless of breed" -- a fourth independent strand of evidence (alongside Austria's vet survey, France's bite-severity survey, and the Austrian OKV series) for the management-culture-over-breed thesis.
+- **Owner psychology:** anxious/stressed owners were observed by these professionals to more often have dogs with separation problems -- a owner-side variable not systematically tracked anywhere else in this study, flagged as a possible future addition.
+
+## Attempted but not resolved this session (Session 9 status, carried forward)
+- **Japan:** a specific, promising, peer-reviewed lead was found ("Dogs predisposed to anxiety disorders and related factors in Japan") but could not be extracted -- ScienceDirect robots-blocked (not retried), ResearchGate 429-rate-limited, and a follow-up search for a secondary summary found none. Logged as identified-not-extracted, a concrete named target for a future session rather than a blank gap. Not re-attempted Session 10.
+- **Netherlands, Germany, Canada (bite-adjacent core metric):** searched Session 9 (both English and native-language queries for Germany), only narrow/non-general-population sources found. Canada re-searched Session 10 -- still only a qualitative "northern community dogs" study and a dog-TRAINER-characteristics survey (MDPI 2025, not a prevalence source), no national representative-sample figure. These three remain genuine gaps, not overlooked leads.
+- **France (Session 10):** searched -- found only articles reporting on OTHER countries' studies (Denmark's, misattributed/re-summarised) rather than a French-specific prevalence figure. Vox Canis's summary of the Danish study did surface a genuinely useful methodological point (see the updated comparability note above) but no new French data. France remains a gap for this specific metric, though NOT for bite/shelter data (see data/by-country/France.md, resolved Session 6).
+
+## Not yet researched at all (Session 11+ targets)
+- C-BARQ-specific published country comparisons beyond what Session 9's bibliography check found (South Korea, Mexico, Brazil, Argentina, Slovakia, Iran, and an in-review France paper -- Besegher et al. 2025 -- none in this study's core scope except the pending France paper).
+- A dedicated pass specifically for Australia's OWNER-survey prevalence data (the VetCompass entry above is vet-clinic/mortality data, not a direct owner survey like the USA/Finland/Denmark entries) -- would make Australia more directly comparable to those three.
+
+## Data Gaps (Session 10 status -- updated)
 - No standardised single-instrument (e.g. pure C-BARQ) comparison exists yet across more than one or two of this study's countries -- the entries above come from several different survey instruments/thresholds, which is precisely the comparability problem flagged at the top of this file.
 - ~~USA's primary peer-reviewed papers not yet directly extracted~~ **PARTIALLY RESOLVED Session 9** -- the re-assessment findings were extracted via secondary summary (stevedalepetworld.com); the ORIGINAL ScienceDirect primary texts for both the initial study and the re-assessment remain robots-blocked and were not re-attempted a third/fourth time this session.
 - Denmark's sample-size discrepancy (502 vs 5,001+) not resolved.
 - No time-series/trend data yet for any country in this file (all are single-point studies) -- unlike bite/BSL data, this metric currently has no before/after or year-over-year view anywhere in the dataset.
 - Japan: a specific promising lead identified, not extracted (see Attempted-but-not-resolved section above).
-- Netherlands, Germany, Canada: searched, only narrow/non-general-population sources found -- see Attempted-but-not-resolved section above.
-- Austria, France, Norway, Sweden: no search attempted yet for this metric.
+- Netherlands, Germany, Canada, France: searched (Sessions 9-10), only narrow/non-general-population sources found -- see Attempted-but-not-resolved section above. These four now look like genuine, real data gaps rather than under-searched ones.
+- Norway, Sweden: no DIRECT owner-survey prevalence figure found -- only the qualitative professional-perspective study above, which covers separation-related behaviour specifically, not a general prevalence rate.
+- Austria's entry is vet-reported case frequency, not a direct dog-population prevalence rate -- a genuine Austrian owner-survey prevalence figure remains a distinct, unfilled gap.
 - New Zealand's extracted figure is a shelter-adoption-cohort sample, not general-population -- a general New Zealand household prevalence figure remains a distinct, unfilled gap.
+- **New Session 10 gap identified:** no single study in this file uses a REPRESENTATIVE sample AND a clinically-validated instrument AND covers more than one country -- Denmark is the only representative-sample entry, and it uses its own study-specific instrument, not C-BARQ. This is a real methodological ceiling on what this file can currently support in Phase 5, not just a missing-country problem.
 
 ## Sources Log (to be mirrored into data-sources.md)
 - Beaver et al. / Dog Aging Project, via Texas A&M University press release -- [quality: A]
@@ -188,5 +225,8 @@ This is the study named as a top priority back in Session 2 ("identified, not ex
 - VetCompass Australia, via Craig et al., MDPI Animals 2021 -- [quality: A]
 - PDSA PAW Report 2024 -- [quality: A]
 - Post-Adoption Problem Behaviours..., MDPI Animals 2018, New Zealand -- [quality: A] (Session 9)
+- Hermann 2023 diploma thesis, University of Veterinary Medicine Vienna, via PHAIDRA repository -- [quality: A] (Session 10)
+- Qualitative study of separation-related-behaviour professional perspectives, Denmark/Sweden/Norway, Scientific Reports (Nature) -- [quality: A] (Session 10)
+- Vox Canis (blog.voxcanis.fr) secondary discussion of the Meyer et al. Danish study, surfacing the representative-vs-convenience-sample methodological point -- [quality: B, secondary commentary] (Session 10)
 
 **Population scope note:** every entry in this file is household/owned-dog data by construction (owner-completed surveys or veterinary-clinic-attendee databases) -- **[Scope: household-only]** for the entire file.

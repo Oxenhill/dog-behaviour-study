@@ -229,6 +229,15 @@
 
 **Not yet located this session:** a Japanese peer-reviewed anxiety-prevalence study ("Dogs predisposed to anxiety disorders and related factors in Japan") was identified but not extracted -- ScienceDirect robots-blocked, ResearchGate 429-rate-limited, no accessible secondary summary found. General-population behaviour-prevalence sources for the Netherlands, Germany, and Canada were searched but only narrow/non-general-population studies were found (breed-specific theses, small blog surveys, a qualitative community-dogs study) -- none met this file's sourcing bar.
 
+## Broader Behavioural-Problem Prevalence Sources -- Session 10 additions
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Austria, veterinarian-reported behaviour-complaint survey (271 vets) | Hermann 2023, diploma thesis, Vetmeduni Vienna, via PHAIDRA repository | https://phaidra.vetmeduni.ac.at/detail/o:3139.pdf | A |
+| Denmark/Sweden/Norway, qualitative professional-perspective study on separation-related behaviour | Scientific Reports (Nature) | https://www.nature.com/articles/s41598-026-36791-w | A |
+| Denmark study, secondary discussion surfacing the representative-vs-convenience-sample methodological point | Vox Canis (French dog-behaviour blog) | https://blog.voxcanis.fr/prevalence-des-comportements-problematique-chez-les-chiens | B |
+
+**Not yet located this session:** a direct owner-survey behaviour-prevalence figure for France, Canada, or Norway/Sweden individually (beyond the qualitative Nordic study) -- searched, not found.
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
