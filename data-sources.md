@@ -253,6 +253,9 @@
 
 **Not yet located this session:** a direct French-language behaviour-problem-prevalence owner survey -- search surfaced only shelter-abandonment statistics and general advice content, not a prevalence figure. Now treated as a genuine gap alongside Netherlands and Germany.
 
+## Urban vs. Rural Variable -- Session 11 (new file, consolidation only)
+variables/urban-vs-rural.md started this session, consolidating already-logged AHRQ (USA), AIHW (Australia), NHS Digital (UK) sources plus the new Duncan-Sutherland et al. 2022 (New Zealand) deprivation/regional data. No new sources fetched for this file beyond what is already in this table -- see the file itself for the consolidated view and the cross-country pattern it identifies (rural/deprived areas consistently higher across all 4 countries with a breakdown).
+
 ## Germany & Austria Sources -- Session 11 additional attempts
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|
