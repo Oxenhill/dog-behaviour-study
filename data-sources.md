@@ -27,9 +27,9 @@
 | Canada | Raghavan, Martens et al., Manitoba BSL-effectiveness study | PMID 22753529 | ~2012-2013 publication | 🔍 | A (peer-reviewed, indexed) | Identified but full text blocked (reCAPTCHA/403) this session across PubMed/PMC/Cureus/SafetyLit -- named priority for next session |
 | Germany | — | — | — | 🔍 | — | Destatis / Robert Koch Institut; Phase 2 |
 | Scandinavia | Patient registries (NPR, Swedish PR, Danish NPR) | — | — | 🔍 | — | Phase 2 required |
-| New Zealand | Mair et al. 2019, NZMJ | doi cited in Aus study; NZMJ 132(1494):8-14 | 2019 | 🔍 | A | Re-confirmed via PubMed (PMID 31048820) this session; full text still NOT extracted -- top priority next session |
-| New Zealand | "Epidemiology of dog-related injuries within New Zealand" (2022 follow-up) | nzmj.org.nz, vol 135 no 1554 (direct PDF URL captured) | 2022 | 🔍 | A | Newly identified this session; not extracted |
-| New Zealand | "An audit of dog-related injury notification practices in a New Zealand public hospital" | PMID 35728209 | 2022 | 🔍 | A | Newly identified this session; not extracted |
+| New Zealand | Mair et al. 2019, NZMJ | doi cited in Aus study; NZMJ 132(1494):8-14 | 2019 | 🔍 | A | Still not extracted (PubMed consistently reCAPTCHA-blocked) -- now LOW PRIORITY as of Session 11, superseded in depth by the 2022 paper below |
+| New Zealand | Duncan-Sutherland et al. 2022, "Epidemiology of dog-related injuries within New Zealand" | nzmj.org.nz, vol 135 no 1554, direct PDF | 2022 (data 2014-2019) | ✅ | A | **EXTRACTED Session 11** -- national ACC claims + NMDS hospital-discharge data, ICD-10-AM coded. Bite hospitalisation rate 13.7/100,000/yr; ethnicity, deprivation, and regional gradients. See data/by-country/New-Zealand.md and data/cross-country.md Table 1 |
+| New Zealand | "An audit of dog-related injury notification practices in a New Zealand public hospital" | PMID 35728209 | 2022 | 🔍 | A | Still identified, not extracted -- lower priority given the richer Duncan-Sutherland 2022 paper now in hand |
 | France | Sarenbo & Svensson 2021 (Eurostat W54, fatalities) | see Europe row above | 1995-2016 | ✅ | A | 79 fatalities -- 3rd highest of 13 European countries in that dataset |
 | France | INVS/Sante publique France(?) ED severity study (filename `invs-morsure-chien.pdf`, hosted at recomedicales.fr) | recomedicales.fr | unknown | 🔍 | unconfirmed -- likely A if primary govt source confirmed | Identified this session; NOT extracted -- top France priority next session |
 
@@ -245,6 +245,13 @@
 | Austria, Upper Austria (Pfotenhilfe OO) regional shelter-intake/surrender-request figures | ooe.orf.at regional news, reporting on Pfotenhilfe OO | https://ooe.orf.at/stories/3369565 | C (regional secondary source, not national) |
 
 **Not yet located this session:** Japan behaviour-prevalence paper (Konno/Ogata) re-attempted with a modified search, still fully blocked (ScienceDirect/ResearchGate, no accessible secondary summary). Australian direct general-population owner-survey (Kobelt et al., suburban Australia study) -- CORE.ac.uk PDF lead (fileserver-az.core.ac.uk/download/pdf/83974632.pdf) returned 404; ScienceDirect abstract page already known blocked from an earlier session. Both logged as dead ends for now, not to be retried without a genuinely new lead.
+
+## New Zealand Sources -- Session 11 addition
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| New Zealand, national dog-related-injury epidemiology (ACC claims + hospital discharges, 2014-2019) | Duncan-Sutherland et al. 2022, NZMJ, direct PDF | https://nzmj.org.nz/media/pages/journal/vol-135-no-1554/epidemiology-of-dog-related-injuries-within-new-zealand/2898f1e39d-1696476949/epidemiology-of-dog-related-injuries-within-new-zealand.pdf | A |
+
+**Also attempted this session (Germany national bite-rate gap):** Robert Koch Institut / Destatis search surfaced no direct national bite/injury statistics; a promising-looking Charite (Berlin) dissertation-style PDF at d-nb.info (German National Library) returned a 403 error on the one attempt made -- logged as a further blocked lead, not retried per the efficiency rule. The German national bite-rate gap remains open.
 
 ## Rejected Sources (with reason)
 
