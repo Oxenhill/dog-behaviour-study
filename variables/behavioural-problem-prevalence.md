@@ -16,6 +16,8 @@ Before any cross-country reading of the numbers below, this must be understood: 
 
 **This variance is itself the single most important Phase 5 finding candidate in this file** -- a 3x spread (34% to 99%) across genuinely comparable Western countries almost certainly reflects measurement-threshold differences, not real underlying differences in dog behaviour. Any cross-country claim built on these headline numbers without carrying this caveat forward would be a serious analytical error. Where possible, prefer the SPECIFIC sub-category breakdowns (e.g. "% of dogs with separation-related behaviour") over the headline "any problem" percentage, since narrower categories are somewhat more comparable, though still not on a standardised instrument across all four countries.
 
+**Session 9 update -- proof of this exact point found WITHIN a single country's data:** the USA section below now contains four different headline prevalence figures derived from the same or overlapping Dog Aging Project population, ranging from a 9% separation-related-behaviour figure (Serpell & Powell's re-analysis) to an 85.9%/86% figure for the same category from the original analysis of the same data -- a roughly 6-10x difference from ONE dataset depending purely on analytical method. This is stronger evidence for the comparability warning above than the four-country comparison itself, since country, sample, and population are all held constant and only the analysis method varies. See the United States section for full detail.
+
 ---
 
 ## United States
@@ -30,7 +32,29 @@ Before any cross-country reading of the numbers below, this must be understood: 
 | Aggression (growling, snapping, biting) | 55.6% | Same | Includes non-bite aggression (growling/snapping) as well as biting -- NOT directly comparable to this study's own bite-specific USA figures (APPA-sourced ownership data; no national bite-rate figure exists in this dataset either, see USA.md) |
 | Fear and anxiety behaviours | 49.9% | Same | -- |
 
-**Related, not yet extracted:** the underlying peer-reviewed papers ("The prevalence of behavior problems in dogs in the United States," ScienceDirect; the 2025 "re-assessment" follow-up) were attempted twice this session (ScienceDirect robots-blocked; ResearchGate 429-rate-limited) -- not retried a third time per the efficiency rule. The Texas A&M press release above is a legitimate, quality-A university source but is a secondary summary of the peer-reviewed work, not the primary paper itself -- flagged for a future session to pull the primary text and the 2025 re-assessment's revised figures.
+**Session 9 update -- the "re-assessment" follow-up EXTRACTED, and it is the single best illustration of this file's central comparability warning found anywhere in this dataset:** Serpell and Powell (James Serpell is the original co-creator of the C-BARQ instrument) re-analysed the SAME underlying Dog Aging Project dataset used for the Beaver figures above, using a different statistical/categorisation method, and published dramatically different headline numbers -- via stevedalepetworld.com, a secondary summary (the primary ScienceDirect text remains robots-blocked; not re-attempted a third time this session per the efficiency rule) -- **[quality: B for this specific extraction route -- secondary summary of a peer-reviewed re-analysis by the instrument's own co-creator, primary text not yet directly confirmed]**:
+
+| Metric | Original (Beaver, above) | Serpell & Powell re-analysis | What changed |
+|--------|---------------------------|-------------------------------|----------------|
+| Fear/anxiety-related behaviours | 49.9% (and an even higher "~50% moderate-to-severe" figure attributed to the original framing) | **~14-28%** | Different statistical method and behaviour categorisation applied to the SAME data |
+| Separation-related behaviours | 85.9% (or "86%" in some framings of the original) | **~9%** | Same |
+| Aggression | 55.6% | "Varied based on context" (no single re-analysed headline % extracted this session) | Same |
+
+**Why this matters more than any other single entry in this file:** this is not two different studies on two different samples -- it is the SAME 40,000+-dog dataset, re-analysed by a more senior figure in the field, producing headline prevalence figures that differ by a factor of roughly 6-10x for separation-related behaviour (86% vs 9%) and roughly 2-3x for fear/anxiety (50% vs 14-28%). The reported cause: "how the data were analysed and how certain behaviours were categorised" -- specifically, treating any non-zero severity score as "having a problem" versus applying a more clinically-informed threshold that distinguishes normal, low-level behaviour (a dog barking at a stranger once, mild distress when briefly alone) from an actual clinical concern. This is direct, within-study-lineage proof of the top-of-file comparability warning, and should be cited in the final report as the primary illustrative example of why this whole metric category must always be reported with its measurement threshold attached.
+
+**Session 9 update -- a THIRD analysis of the same DAP-family data, this time fear/anxiety-specific and with sub-category detail EXTRACTED (via link.springer.com, Veterinary Research Communications) -- [quality: A, peer-reviewed]:**
+| Metric | Figure | Sample | Notes |
+|--------|--------|--------|-------|
+| Sample size | 43,517 dogs | Dog Aging Project | 9-question C-BARQ-based fear assessment, 0-4 owner-rated scale (0=no problem, 4=extreme fear) |
+| Any fear rating (level 2+) across all 9 questions | 91.0% | Same | A FOURTH different headline percentage from the same underlying DAP population -- reinforces the comparability warning yet again |
+| Fear excluding grooming-related questions | 84.0% | Same | -- |
+| Fear of unfamiliar dogs | 47.4% | Same | Highest single sub-category |
+| Fear of grooming (nail trims/baths) | 33.0% | Same | -- |
+| Fear of unfamiliar situations/objects/noise | 25.5% | Same | -- |
+| Fear of unfamiliar people | 22.3% | Same | Lowest single sub-category -- notably far below Denmark's "fear of noises" (10%) and "fear-related issues" (18%) rows, though again not a clean comparison given the different instruments |
+| Dogs rated "extreme" on ALL nine questions | Only 3 dogs | Same | Genuinely severe, pervasive fear was rare even in this high-headline-percentage population -- directly consistent with the Serpell/Powell re-analysis's point that headline "any fear" percentages overstate clinical severity |
+
+**Session 9 verdict on the USA entry as a whole:** the USA now has FOUR different headline prevalence figures from analyses touching the same underlying Dog Aging Project population (99.12% any-problem; 86%/9% separation depending on method; 49.9%/14-28% fear depending on method; 91%/84% fear depending on question-set). Rather than picking one, this file preserves all four with their methods stated -- the spread itself is the finding.
 
 ## Finland
 
@@ -110,25 +134,59 @@ Before any cross-country reading of the numbers below, this must be understood: 
 
 **Cross-reference:** UK's existing bite-specific figures remain in data/by-country/UK.md -- this table adds the non-bite behavioural layer PDSA's own report already contained but which this project had not yet mined.
 
+## New Zealand
+
+**Source: Post-Adoption Problem Behaviours in Adolescent and Adult Dogs Rehomed through a New Zealand Animal Shelter -- [quality: A, peer-reviewed, MDPI Animals 2018] -- [Scope: SHELTER-ADOPTED dogs specifically, NOT general household population -- see caveat below]**
+
+This is the study named as a top priority back in Session 2 ("identified, not extracted due to a WebFetch tool limit") -- finally extracted this session.
+
+| Metric | Figure | Period | Notes |
+|--------|--------|--------|-------|
+| Sample size | 61 dogs (of 98 eligible adoptions, 62% response rate) | 1 Nov 2015 - 31 Jul 2016 | Auckland shelter; survey at 1 week/1 month/3 months/6 months post-adoption |
+| Any reported problem behaviour | **70%** (40 of 61) | Same | Comparable in TYPE to the other headline "any problem" figures in this file, though this population (recently adopted shelter dogs) is a higher-risk subset, not a general-population sample -- see caveat below |
+| Poor manners (jumping up, leash pulling) | 46% | Same | -- |
+| Destruction of household items | 30% | Same | -- |
+| Excessively high energy | 28% | Same | -- |
+| Fear/shyness toward strangers | 25% | Same | -- |
+| Aggression toward people | 19% | Same | -- |
+| Aggression toward other dogs | 19% | Same | -- |
+| Did not like strangers | 10% | Same | -- |
+| Possessive aggression over food | 4% | Same | -- |
+| Possessive aggression over objects | 2% | Same | -- |
+| Adopter concern level | 44% not concerned, 43% a little, 7% moderately, 6% very concerned | Same | Most reported problem behaviours were NOT rated as seriously concerning by adopters -- an important nuance: a 70% "any problem" rate coexists with 87% of adopters being unconcerned or only mildly concerned |
+
+**Important population-scope caveat:** unlike the USA/Finland/Denmark general-household-population studies above, this is a SHELTER-ADOPTION cohort specifically -- **[Scope: includes recently-rehomed dogs, NOT a general household-population sample]**. Shelter/rescue dogs are a plausibly higher-behaviour-problem-risk population than the general owned-dog population (adjustment stress, unknown history, etc.), so this 70% figure should NOT be read as directly comparable to Finland's 72.5% or the USA's headline figures without that caveat. It IS, however, directly useful for this study's household-INTEGRATION-success question specifically, since it measures exactly the adoption-integration window the original study brief cares about.
+
+**This also resolves a long-standing New Zealand gap:** data/by-country/New-Zealand.md has carried this study as "identified, not extracted" since Session 2 -- updated accordingly, cross-referenced here.
+
 ---
 
-## Not yet researched this session (flagged as Session 9+ targets)
-- Netherlands: only narrow breed-specific studies located (a Rottweiler-specific WUR thesis on fear/aggression) -- no general-population Dutch behaviour-problem prevalence figure found. A dedicated pass is needed.
-- Germany/Austria: not attempted this session -- given Session 7 already found these countries' core metrics thin, a broader-behaviour-prevalence pass here is a clear next-session target.
-- Canada, New Zealand, France, Norway, Sweden, Japan: not attempted this session.
-- C-BARQ-specific published country comparisons (the instrument itself spans 70+ published studies per its own documentation) were not systematically searched country-by-country beyond the four above -- a dedicated C-BARQ literature pass could directly extend this table to more countries using one standardised instrument, which would meaningfully improve cross-country comparability versus the mixed-instrument picture above. Flagged as high-value future work.
+## Attempted but not resolved this session
+- **Japan:** a specific, promising, peer-reviewed lead was found ("Dogs predisposed to anxiety disorders and related factors in Japan") but could not be extracted -- ScienceDirect robots-blocked (not retried), ResearchGate 429-rate-limited, and a follow-up search for a secondary summary found none. Logged as identified-not-extracted, a concrete named target for a future session rather than a blank gap.
+- **Netherlands, Germany, Canada:** searched this session (both English and native-language queries for Germany), but only narrow/non-general-population sources were found -- a Rottweiler-specific Dutch WUR thesis, scattered German single-breed dissertations and small blog surveys, and a qualitative Canadian "northern community dogs" study. None meets this file's bar for a general-population prevalence figure. These remain genuine gaps, not overlooked leads -- worth one more dedicated attempt each in a future session, but do not appear to have an obvious "big" study waiting to be found the way the four extracted countries did.
 
-## Data Gaps
-- No standardised single-instrument (e.g. pure C-BARQ) comparison exists yet across more than one or two of this study's countries -- the four entries above come from four different survey instruments/thresholds, which is precisely the comparability problem flagged at the top of this file.
-- USA's primary peer-reviewed papers not yet directly extracted (robots-blocked / rate-limited twice this session).
+## Not yet researched at all (Session 10+ targets)
+- Austria, France, Norway, Sweden, Canada (beyond the qualitative lead above): no search attempted yet for this specific metric.
+- C-BARQ-specific published country comparisons (the instrument itself spans 70+ published studies per its own documentation, including some in Session 9's C-BARQ bibliography search -- South Korea, Mexico, Brazil, Argentina, Slovakia, Iran, and an in-review France paper -- none of which are core countries in this study except France) were searched this session via the instrument's own published-articles bibliography; none of the additional countries found are in this study's scope, but the France paper (Besegher et al. 2025, "under review") is a concrete named target for a future session once/if it publishes.
+
+## Data Gaps (Session 9 status -- updated)
+- No standardised single-instrument (e.g. pure C-BARQ) comparison exists yet across more than one or two of this study's countries -- the entries above come from several different survey instruments/thresholds, which is precisely the comparability problem flagged at the top of this file.
+- ~~USA's primary peer-reviewed papers not yet directly extracted~~ **PARTIALLY RESOLVED Session 9** -- the re-assessment findings were extracted via secondary summary (stevedalepetworld.com); the ORIGINAL ScienceDirect primary texts for both the initial study and the re-assessment remain robots-blocked and were not re-attempted a third/fourth time this session.
 - Denmark's sample-size discrepancy (502 vs 5,001+) not resolved.
-- No time-series/trend data yet for any of the four countries above (all are single-point studies) -- unlike bite/BSL data, this metric currently has no before/after or year-over-year view anywhere in the dataset.
+- No time-series/trend data yet for any country in this file (all are single-point studies) -- unlike bite/BSL data, this metric currently has no before/after or year-over-year view anywhere in the dataset.
+- Japan: a specific promising lead identified, not extracted (see Attempted-but-not-resolved section above).
+- Netherlands, Germany, Canada: searched, only narrow/non-general-population sources found -- see Attempted-but-not-resolved section above.
+- Austria, France, Norway, Sweden: no search attempted yet for this metric.
+- New Zealand's extracted figure is a shelter-adoption-cohort sample, not general-population -- a general New Zealand household prevalence figure remains a distinct, unfilled gap.
 
 ## Sources Log (to be mirrored into data-sources.md)
 - Beaver et al. / Dog Aging Project, via Texas A&M University press release -- [quality: A]
+- Serpell & Powell re-assessment of Dog Aging Project data, via stevedalepetworld.com secondary summary -- [quality: B for this route -- primary text not yet directly confirmed] (Session 9)
+- Owner-reported prevalence and severity of fear and anxiety in dogs (43,517-dog DAP sub-study), Veterinary Research Communications, via link.springer.com -- [quality: A] (Session 9)
 - Salonen, Sulkama et al. 2020, Scientific Reports (Nature) -- [quality: A]
 - Meyer et al. 2023, Journal of Veterinary Behavior, via University of Copenhagen (animalethics.ku.dk) and companionanimalpsychology.com secondary summary -- [quality: A primary finding, B for the secondary-summary figures not confirmed against the primary text]
 - VetCompass Australia, via Craig et al., MDPI Animals 2021 -- [quality: A]
 - PDSA PAW Report 2024 -- [quality: A]
+- Post-Adoption Problem Behaviours..., MDPI Animals 2018, New Zealand -- [quality: A] (Session 9)
 
 **Population scope note:** every entry in this file is household/owned-dog data by construction (owner-completed surveys or veterinary-clinic-attendee databases) -- **[Scope: household-only]** for the entire file.

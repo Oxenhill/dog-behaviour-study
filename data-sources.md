@@ -220,6 +220,15 @@
 
 **Not yet located this session:** the primary peer-reviewed USA papers ("The prevalence of behavior problems in dogs in the United States," ScienceDirect, and its 2025 re-assessment) -- attempted via ScienceDirect (robots.txt-blocked) and ResearchGate (429 rate-limited), not retried a third time per the efficiency rule.
 
+## Broader Behavioural-Problem Prevalence Sources -- Session 9 additions
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| USA, Serpell & Powell re-assessment of Dog Aging Project data (dramatically lower prevalence figures than the original analysis of the same dataset) | stevedalepetworld.com secondary summary | https://stevedalepetworld.com/blog/new-analysis-finds-dog-behavior-problems-less-common-than-previously-reported/ | B for this route -- primary ScienceDirect text still robots-blocked |
+| USA, fear/anxiety-specific sub-study of Dog Aging Project data (43,517 dogs) | Veterinary Research Communications, via link.springer.com | https://link.springer.com/article/10.1007/s11259-026-11227-y | A |
+| New Zealand, Post-Adoption Problem Behaviours study (a Session 2 top-priority target, finally extracted) | Animals (MDPI) 2018, doi:10.3390/ani8060093 | https://mdpi.com/2076-2615/8/6/93/htm | A |
+
+**Not yet located this session:** a Japanese peer-reviewed anxiety-prevalence study ("Dogs predisposed to anxiety disorders and related factors in Japan") was identified but not extracted -- ScienceDirect robots-blocked, ResearchGate 429-rate-limited, no accessible secondary summary found. General-population behaviour-prevalence sources for the Netherlands, Germany, and Canada were searched but only narrow/non-general-population studies were found (breed-specific theses, small blog surveys, a qualitative community-dogs study) -- none met this file's sourcing bar.
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |

@@ -279,6 +279,18 @@ This is now the PRIMARY open research thread — higher priority than finishing 
 
 ---
 
+## Session 9 Log
+
+- Date: September 2, 2026 (continuation)
+- **Focus:** continue Core Metric 5 (broader behavioural-problem prevalence) research per Session 8's next-action list -- remaining countries plus a dedicated C-BARQ literature check.
+- **Major finding -- the single strongest illustration yet of this metric's comparability problem:** found that the USA's headline 99.12%/85.9%/49.9% figures (Session 8, Beaver et al.) have been directly challenged by their own field -- James Serpell (C-BARQ's original co-creator) and Powell re-analysed the SAME Dog Aging Project dataset and found separation-related-behaviour prevalence of ~9% (vs 85.9%/86%) and fear/anxiety of ~14-28% (vs 49.9%), attributing the huge gap purely to differing statistical/categorisation methods on IDENTICAL underlying data. A third analysis of overlapping DAP data (a dedicated fear/anxiety sub-study, 43,517 dogs) produced a FOURTH headline figure (91% "any fear rating," 84% excluding grooming questions). All three are now preserved side by side in variables/behavioural-problem-prevalence.md's USA section, with the top-of-file comparability warning updated to cite this as the strongest evidence in the whole file -- same country, same underlying data, four different published headline numbers purely from analytical choices.
+- **New Zealand resolved:** the Post-Adoption Problem Behaviours study, named a top priority for New Zealand all the way back in Session 2 and never successfully extracted since, was finally pulled this session (70% of 61 tracked shelter-adopted dogs had at least one reported problem behaviour, with a detailed breakdown, though 87% of adopters were unconcerned or only mildly concerned). This closes a genuinely long-standing named gap -- data/by-country/New-Zealand.md updated accordingly. Flagged with a population-scope caveat: this is a shelter-ADOPTION cohort, not a general-household sample, so it should not be read as directly comparable to the USA/Finland/Denmark general-population figures without that caveat.
+- **Attempted, not resolved:** Japan (a specific promising peer-reviewed lead identified, both ScienceDirect and ResearchGate routes blocked, no secondary summary found -- named target for next session); Netherlands, Germany, Canada (searched in both English and native languages where applicable, but only narrow/non-general-population sources found -- these look like genuine data gaps, not overlooked leads, though one more dedicated attempt each is still worth it before concluding that).
+- **Not yet attempted at all:** Austria, France, Norway, Sweden for this specific metric. A C-BARQ published-articles bibliography check surfaced studies in South Korea, Mexico, Brazil, Argentina, Slovakia, and Iran (none in this study's scope) plus an in-review France paper (Besegher et al. 2025) -- named as a future target once/if published.
+- **Next action:** Austria/France/Norway/Sweden/Canada for Core Metric 5; a second attempt at Japan via a different route; and separately, the Session 7 threads (Berlin bite-statistics actual counts, Austrian shelter data) remain open and were not touched this session.
+
+---
+
 ## Files Written This Session
 
 ### Session 1
@@ -383,6 +395,14 @@ methodology/data-dictionary.md (new section 2e on behavioural-problem-prevalence
 variables/README.md (file list updated)
 data-sources.md (Session 8 additions table)
 data/by-country/UK.md, Australia.md, USA.md, Scandinavia.md (cross-reference notes added; Australia.md also corrected re: the referral-rate figure not being new)
+```
+
+### Session 9 (files edited, no new files)
+```
+variables/behavioural-problem-prevalence.md (USA section majorly extended with the Serpell/Powell re-assessment and a third DAP sub-study; New Zealand section added; top-of-file comparability note strengthened; Data Gaps and Sources Log updated)
+data/by-country/New-Zealand.md (Post-Adoption Problem Behaviours study resolved; Data Gaps updated)
+data-sources.md (Session 9 additions table)
+_PROJECT_STATE.md (this file — Session 9 log)
 ```
 
 ---

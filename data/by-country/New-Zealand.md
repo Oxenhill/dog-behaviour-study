@@ -21,7 +21,7 @@
 | Source | Citation | Status |
 |--------|----------|--------|
 | SPCA New Zealand Annual Reports | 2018-19 and 2019-20 editions located (spca.nz, direct PDF URLs captured) | Identified, not yet extracted |
-| Post-Adoption Problem Behaviours study | "Post-Adoption Problem Behaviours in Adolescent and Adult Dogs Rehomed through a New Zealand Animal Shelter," Animals (MDPI), doi:10.3390/ani8060093 | Identified -- this is directly relevant to the study's household-integration-success question (post-adoption behaviour outcomes specifically), not just intake reasons. Not yet extracted. |
+| Post-Adoption Problem Behaviours study | "Post-Adoption Problem Behaviours in Adolescent and Adult Dogs Rehomed through a New Zealand Animal Shelter," Animals (MDPI), doi:10.3390/ani8060093 | **EXTRACTED Session 9** -- a Session 2 top-priority target, finally pulled this session. 61 dogs tracked 1 week-6 months post-adoption (Auckland shelter, Nov 2015-Jul 2016): 70% had at least one reported problem behaviour (poor manners 46%, destruction 30%, high energy 28%, fear of strangers 25%, aggression to people/dogs 19% each), but 87% of adopters were not concerned or only mildly concerned. Full table and analysis in variables/behavioural-problem-prevalence.md -- directly relevant to this study's household-integration-success question. |
 | SPCA 2025 Dog Policy Recommendations | spca.nz PDF, addressed to Minister Hoggard | Identified -- likely contains SPCA's own framing of current dog-behaviour/welfare issues in NZ; not yet extracted |
 
 ## Behaviour Referral / Professional Data
@@ -36,11 +36,12 @@
 
 Breeding regulation and BSL for New Zealand not yet researched this session -- flagged as gaps in variables/breeding-regulation-and-ethics.md and variables/breed-legislation-timeline.md.
 
-## Data Gaps (Session 6 status -- updated)
-- Mair et al. 2019 findings -- STILL NOT EXTRACTED after a second blocked attempt (Session 6); recommend switching approach (nzmj.org.nz direct PDF or a mirror) rather than retrying PubMed again.
-- 2022 follow-up NZMJ study findings -- not extracted, not re-attempted this session.
-- SPCA shelter intake/surrender numbers and behaviour-reason breakdown -- not extracted, not attempted this session.
+## Data Gaps (Session 9 status -- updated)
+- Mair et al. 2019 findings -- STILL NOT EXTRACTED after a second blocked attempt (Session 6); not re-attempted Session 9. Recommend switching approach (nzmj.org.nz direct PDF or a mirror) rather than retrying PubMed again.
+- 2022 follow-up NZMJ study findings -- not extracted.
+- SPCA annual reports (2018-19, 2019-20 editions) and the SPCA 2025 Dog Policy Recommendations PDF -- still identified, not extracted; this is now the last remaining NZ shelter-data gap after the post-adoption study was resolved below.
 - NZ breeding regulation and BSL -- not researched.
 - ~~Leash-law / management-culture~~ **RESOLVED Session 6** -- see variables/management-practices-and-culture.md.
+- ~~Post-Adoption Problem Behaviours study~~ **RESOLVED Session 9** -- see updated Shelter Surrender section above and variables/behavioural-problem-prevalence.md. This closes out a target named as top-priority all the way back in Session 2.
 
 **Session 2 verdict on scope decision:** New Zealand has multiple strong, directly relevant, government/peer-review-quality sources identified (NZMJ x2, SPCA x2-3, an MDPI post-adoption-behaviour study) -- this is NOT a data-availability problem like Japan or Scandinavia's shelter gap. This is purely a this-session extraction shortfall caused by a tool limit. Recommend treating New Zealand as high-priority (not "drop" or "footnote-only") for the very next research session, ahead of further Canada or France work, since the sources are already in hand.
