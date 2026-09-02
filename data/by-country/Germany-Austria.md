@@ -18,7 +18,27 @@
 - Portal record: `daten.berlin.de/datensaetze/hundebiss-statistik-berlin-1559673` (also mirrored on the national GovData.de portal)
 - Methodology (as stated by the publisher): counts dogs that became "conspicuous toward people or other dogs through jumping or biting" ("Anspringen oder Beissen"), compiled from reports submitted to district offices (Bezirksaemter), broken down by breed.
 - **This is city-level (Berlin only), NOT a national German figure** -- comparable in scope to a single US city or Canadian province, not to the UK/Australia national hospitalisation rate. It also measures REPORTED incidents (any severity, including non-injurious jumping-up incidents), not hospital admissions -- so it sits at a LOWER, less severe rung of the severity ladder (methodology/data-dictionary.md) than UK/Australia W54 data, closer to the "self-report/any-severity" end.
-- **Not yet extracted this session:** the actual per-year incident counts (attempted the 2024 report page directly; got a 429 rate-limit response, not re-attempted per the efficiency rule). This is a firm, concrete, low-difficulty target for a future session -- the data is openly published as CSV, just needs a successful fetch, or the user could download it directly since it requires no special access.
+- **Session 11 update -- EXTRACTED:** the 2024 CSV was successfully pulled directly (`berlin.de/.../2025-08-14-biss-statistik-2024.csv`). **[quality: A, government primary source]**
+
+| Metric | Figure | Year |
+|--------|--------|------|
+| Total dog bite/aggression incidents recorded | 977 | 2024 |
+| Severe human injuries | 77 | 2024 |
+| Minor human injuries | 446 | 2024 |
+| "Dangerous lunges" at people (no contact/injury) | 97 | 2024 |
+| Dog-to-dog injury only (no human involved) | 357 | 2024 |
+
+**Breed breakdown (2024):**
+| Category | Incidents | Notes |
+|----------|-----------|-------|
+| Berlin Rasseliste "dangerous breeds" (Pit Bull Terrier, American Staffordshire Terrier, Bull Terrier) | 34 combined | The full legally-restricted category |
+| Other/mixed "dangerous" designations | 15 | -- |
+| German Shepherd | 47 | NOT on the dangerous-breed list |
+| Rottweiler | 42 | NOT on the dangerous-breed list |
+| Non-classified mixed breeds | 254 | Largest single category |
+| 200+ other individual breeds/mixes | Remainder | -- |
+
+**Significance -- directly relevant to the study's management-culture-over-breed-legislation thesis:** Berlin's entire legally-"dangerous"-listed breed category accounts for only ~3.5% of recorded incidents (34/977), while German Shepherds alone (47) and Rottweilers alone (42) -- neither breed restricted under Berlin's Rasseliste -- each individually exceed that total. This is a single-city, quantitative, breed-by-breed dataset consistent with three other pieces of evidence already in this study: France's bite-severity survey (no breed-specific risk factor, France.md), the Austrian 271-vet survey ranking breed lowest among rated aggression causes (see Session 10 addition below), and Denmark's BSL-repeal-adjacent null result (variables/management-practices-and-culture.md). **Caveat preserved: this remains city-level (Berlin only), not a national German rate**, and it measures reported incidents of any severity (including non-injurious lunges), not hospital admissions -- it sits at the lower, self-report end of the severity ladder (methodology/data-dictionary.md), not directly comparable rung-for-rung to the UK/Australia W54 hospitalisation data.
 
 **Austria-specific -- Session 7 update, EXTRACTED:**
 
@@ -61,7 +81,18 @@
 
 **Also identified, not extracted this session (secondary/lower-priority):** several non-authoritative aggregator articles (adoptiereintier.de, duunddastier.de, watson.de) citing a rough "~80,000 dogs enter German shelters annually, ~300,000 animals resident at any time" figure -- **[quality: C -- none of these are the publishing organisation itself; the figure could not be traced to Tierschutzbund's own published data this session]**. Logged as an unconfirmed indicative figure only, explicitly NOT to be used as if it were the Tierschutzbund's own confirmed number.
 
-**Austria shelter data: still a complete gap** -- no Austrian shelter/relinquishment source was located this session either.
+**Austria shelter data: national level still a complete gap; first REGIONAL data point found Session 11.** **[quality: C -- regional news source citing an Upper Austria animal welfare org; NOT a national figure]**
+
+Source: `ooe.orf.at/stories/3369565` ("Mehr Hunde und Katzen im Sommer abgegeben"), reporting on Pfotenhilfe OO (Upper Austria / Oberosterreich animal welfare organisation), 2024.
+| Metric | Figure | Period |
+|--------|--------|--------|
+| New dogs taken in | 40 | Since Jan 2024 |
+| Adult cats taken in | ~100 | Since Jan 2024 |
+| Baby/kitten cats taken in | 100+ | Since May 2024 |
+| Daily surrender requests received | 3-5 | Current (2024) |
+| Cited surrender drivers | Rising pet food/vet costs; animals purchased from "questionable/budget" breeders with resulting health issues; emotional or under-planned acquisition decisions | 2024 |
+
+**Caveat -- must be preserved:** this is REGIONAL (Upper Austria / Pfotenhilfe OO specifically), not a national Austrian figure, and does NOT resolve the national-level gap (see Data Gaps below). It is notable primarily as the first Austrian shelter-side data point of any kind located after four sessions of attempts, and for the striking gap between low actual dog intake (40) and much higher daily surrender interest (3-5/day), which suggests filtering/waitlisting or that most requesters don't follow through -- worth a mention alongside the other post-pandemic/cost-of-living surrender findings elsewhere in this study (UK, Netherlands, France, Germany).
 
 **Proxy indicator:** Germany plans stricter breeder controls limiting to 3 bitches with puppies at a time — indicates legislative awareness of welfare/relinquishment link.
 
@@ -102,10 +133,10 @@ Both Germany and Austria (and Switzerland) have banned e-collars and prong colla
 **Significance for study:** These are the countries with the most developed owner education requirements. However, the lack of published outcome data (bite rates, surrender rates) makes it impossible to currently quantify the effect of these policies. This is a major analytical limitation to flag in the discussion.
 
 ## Data Gaps (Session 7 status -- updated)
-- ~~Germany-specific bite incidence/hospitalisation rate: NOT FOUND~~ **PARTIALLY RESOLVED Session 7** -- Berlin's official open-data bite dataset (2016-2024, CSV) identified and confirmed to exist, but raw counts not yet extracted (429 rate-limit on the specific report page, not re-attempted per the efficiency rule). City-level (Berlin), not national -- a genuine national German rate remains a gap even once Berlin's numbers are pulled.
+- ~~Germany-specific bite incidence/hospitalisation rate: NOT FOUND~~ **RESOLVED (city-level) Session 11** -- Berlin's official open-data bite dataset for 2024 extracted in full (977 total incidents, severity and breed breakdown -- see above). City-level (Berlin), not national -- a genuine national German rate remains a gap; the 2016-2023 years of the same CSV series are also available for a future session if a multi-year trend is wanted.
 - ~~Germany national shelter intake/surrender data: NOT FOUND~~ **PARTIALLY RESOLVED Session 7** -- Deutscher Tierschutzbund's May 2024 national capacity survey (218 shelters) extracted, but it measures occupancy pressure and qualitative drivers, not a hard intake COUNT. A ~80,000/year figure exists in circulation but could not be traced to an authoritative source this session -- logged as unconfirmed, not usable without further verification.
 - Austria-specific bite data: **PARTIALLY RESOLVED Session 7** via the Graz University Hospital pediatric study (2014-2018) -- single-hospital-catchment, not national.
-- Austria-specific shelter/surrender data: **STILL NOT FOUND** -- complete gap remains after Session 7, not attempted Session 10.
+- Austria-specific shelter/surrender data: **PARTIALLY RESOLVED Session 11** -- a regional (Upper Austria, Pfotenhilfe OO) data point extracted (40 dogs taken in since Jan 2024, 3-5 daily surrender requests). A genuine NATIONAL Austrian shelter/surrender figure remains a complete gap.
 - **Session 10 addition (Core Metric 5, cross-referenced):** a 271-vet Austrian survey (Hermann 2023, Vetmeduni Vienna diploma thesis) gives a vet-reported view of behaviour-complaint frequency and, notably, ranks owner interaction/training/socialisation far above breed as a cause of aggression (4.75-4.80/5 vs 3.17/5) -- directly supportive of this study's management-culture thesis. Full detail in variables/behavioural-problem-prevalence.md. This is vet-CASELOAD data, not a dog-population prevalence rate, so it does not resolve the shelter/surrender gap above, but it does meaningfully add to Austria's otherwise thin behaviour-data picture (alongside the Graz pediatric bite study from Session 7 and the OKV training-uptake series in variables/dog-trainer-regulation.md).
 - Germany: no national (as opposed to Berlin-city) bite rate of any kind located.
 - Germany: no hard national shelter dog-intake count from an authoritative source (Tierschutzbund's own number, if one exists, was not located this session -- their public communications this session emphasised capacity/occupancy rather than intake totals).

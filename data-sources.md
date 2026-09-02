@@ -201,7 +201,7 @@
 ## Germany & Austria Sources -- Session 7 additions
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|
-| Germany, Berlin official dog-bite open-data (2016-2024, CSV, not yet extracted to raw counts) | Berlin Senate Administration for Justice and Consumer Protection, via daten.berlin.de open-data portal | https://daten.berlin.de/datensaetze/hundebiss-statistik-berlin-1559673 | A (city-level, not national) |
+| Germany, Berlin official dog-bite open-data (2016-2024, CSV; 2024 year EXTRACTED Session 11) | Berlin Senate Administration for Justice and Consumer Protection, via daten.berlin.de open-data portal | https://daten.berlin.de/datensaetze/hundebiss-statistik-berlin-1559673 | A (city-level, not national) |
 | Germany, national shelter-capacity survey | Deutscher Tierschutzbund (national animal-welfare federation) + Fressnapf, May 2024 trend survey of 218 shelters | https://www.tierschutzbund.de/ueber-uns/aktuelles/presse/meldung/tierheime-sind-ueberfuellt-nur-18-prozent-haben-noch-kapazitaeten/ | A |
 | Germany, national dog-tax (Hundesteuer) revenue | Deutscher Tierschutzbund press release | https://www.tierschutzbund.de/ueber-uns/aktuelles/presse/meldung/rekordeinnahmen-bei-hundesteuer/ | A (revenue data, not a behaviour/welfare metric itself) |
 | Austria, Graz University Hospital pediatric dog-bite study (2014-2018) | grosse-schuetzen-kleine.at (child-safety initiative), hosting the hospital research centre's own PDF report | https://grosse-schuetzen-kleine.at/wp-content/uploads/2019/10/Forschungszentrum-Hundebisse-Fokusreport-2019.pdf | A (single-hospital-catchment, not national) |
@@ -237,6 +237,14 @@
 | Denmark study, secondary discussion surfacing the representative-vs-convenience-sample methodological point | Vox Canis (French dog-behaviour blog) | https://blog.voxcanis.fr/prevalence-des-comportements-problematique-chez-les-chiens | B |
 
 **Not yet located this session:** a direct owner-survey behaviour-prevalence figure for France, Canada, or Norway/Sweden individually (beyond the qualitative Nordic study) -- searched, not found.
+
+## Germany & Austria Sources -- Session 11 additions
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Germany, Berlin 2024 dog-bite CSV, direct extraction (977 total incidents, severity + breed breakdown) | Berlin Senate Administration for Justice and Consumer Protection, direct CSV download | https://www.berlin.de/sen/verbraucherschutz/aufgaben/hundehaltung/hundebiss-statistik/hundebiss-statistik-2024/2025-08-14-biss-statistik-2024.csv | A (city-level, not national) |
+| Austria, Upper Austria (Pfotenhilfe OO) regional shelter-intake/surrender-request figures | ooe.orf.at regional news, reporting on Pfotenhilfe OO | https://ooe.orf.at/stories/3369565 | C (regional secondary source, not national) |
+
+**Not yet located this session:** Japan behaviour-prevalence paper (Konno/Ogata) re-attempted with a modified search, still fully blocked (ScienceDirect/ResearchGate, no accessible secondary summary). Australian direct general-population owner-survey (Kobelt et al., suburban Australia study) -- CORE.ac.uk PDF lead (fileserver-az.core.ac.uk/download/pdf/83974632.pdf) returned 404; ScienceDirect abstract page already known blocked from an earlier session. Both logged as dead ends for now, not to be retried without a genuinely new lead.
 
 ## Rejected Sources (with reason)
 

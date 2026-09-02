@@ -302,6 +302,16 @@ This is now the PRIMARY open research thread — higher priority than finishing 
 - **Cross-referenced:** the Austria vet-survey finding was added to data/by-country/Germany-Austria.md's Austria section.
 - **Next action:** the remaining named gaps for this metric (Japan extraction via a new route, a direct Australian owner-survey to complement the vet-clinic VetCompass data, France/Canada/Norway/Sweden direct owner surveys) are all now second-tier "if a lead appears" targets rather than obviously-findable leads -- Core Metric 5 has reasonable breadth across 7 of this study's ~14 countries at this point (USA, Finland, Denmark, Australia, UK, New Zealand, Austria, partial Norway/Sweden), which may be enough to support a genuine Phase 5 discussion of this metric alongside bites, even with gaps remaining, consistent with the project's standing "explanatory-variable breadth over exhaustive metric coverage" priority. Also still open from Session 7: Berlin bite-statistics actual counts, Austrian shelter/surrender data (still a complete gap after four attempts across sessions).
 
+## Session 11 Log
+
+- Date: September 2, 2026 (continuation)
+- **Focus:** the two remaining named gaps from Session 10's next-action list -- Berlin bite-statistics actual counts, Austrian shelter/surrender data.
+- **Germany, Berlin bite CSV RESOLVED (city-level):** the 2024 dataset was successfully extracted directly (977 total incidents; 77 severe / 446 minor human injuries; 97 no-contact lunges; 357 dog-to-dog only), including a full breed breakdown. Legally-"dangerous"-listed breeds account for only ~3.5% of incidents (34/977), while German Shepherds (47) and Rottweilers (42) -- neither restricted -- each individually exceed that total. This is a fourth independent strand of evidence for the management-culture-over-breed-legislation thesis (alongside France's bite-severity survey, Austria's OKV training-uptake series, and Austria's 271-vet survey). Remains city-level, not a national German rate.
+- **Austria shelter data PARTIALLY RESOLVED (regional only):** a first-ever Austrian shelter data point was found, via Pfotenhilfe OO (Upper Austria) -- 40 dogs taken in since January 2024 against 3-5 daily surrender requests, with cost-of-living and "budget breeder" health-issue factors cited. This is regional, not national -- the national Austria shelter-data gap remains open and must not be conflated with this regional figure.
+- **Mid-session interruption:** the device-bridge connection to the user's computer dropped partway through (repeated "connection relay unavailable" errors), after both findings above had already been extracted via WebFetch but before anything was written to the repo. Further research continued in the meantime (Japan re-attempt, Australia owner-survey lead) while file writes were blocked. The user restarted the Claude desktop app, which restored the connection; all pending findings were then written up in this session as normal, with no data lost -- checkpointed via a local scratchpad backup during the outage per the project's checkpoint-incrementally discipline.
+- **Attempted, still not resolved:** Japan (Konno/Ogata anxiety-disorders paper) re-attempted with a modified search query -- still fully blocked (ScienceDirect, ResearchGate, no accessible secondary summary), now attempted across at least 2 sessions; a direct Australian general-population owner-survey (Kobelt et al., "suburban Australia" study) -- a CORE.ac.uk PDF lead returned a 404, dead end for now.
+- **Next action:** Japan and the Australian direct owner-survey should not be retried again without a genuinely new lead. The national (as opposed to regional) Austrian shelter-data gap and the national (as opposed to Berlin-city) German bite-rate gap both remain open -- Robert Koch Institut / Destatis (Germany) and a national Austrian federation survey (Austria) remain the most promising unexplored avenues. Remaining Core Metric 5 backlog (Norway/Sweden/France/Canada/Netherlands direct owner-survey data; Mair et al. 2019 NZ bite study, still blocked after two attempts -- try nzmj.org.nz direct PDF next) and the entirely-unstarted veterinary-access.md and urban-vs-rural.md variable files remain open for a future session.
+
 ---
 
 ## Files Written This Session
@@ -424,6 +434,13 @@ variables/behavioural-problem-prevalence.md (Austria and Norway/Sweden/Denmark-q
 data/by-country/Germany-Austria.md (Austria vet-survey cross-reference added)
 data-sources.md (Session 10 additions table)
 _PROJECT_STATE.md (this file — Session 10 log)
+```
+
+### Session 11 (files edited, no new files)
+```
+data/by-country/Germany-Austria.md (Berlin 2024 bite CSV fully extracted with breed breakdown; Austria regional Pfotenhilfe OO shelter data added; Data Gaps section updated for both)
+data-sources.md (Session 11 additions table; Session 7 Berlin CSV row updated to reflect extraction)
+_PROJECT_STATE.md (this file — Session 11 log)
 ```
 
 ---
