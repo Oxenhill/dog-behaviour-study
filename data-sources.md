@@ -256,6 +256,15 @@
 ## Urban vs. Rural Variable -- Session 11 (new file, consolidation only)
 variables/urban-vs-rural.md started this session, consolidating already-logged AHRQ (USA), AIHW (Australia), NHS Digital (UK) sources plus the new Duncan-Sutherland et al. 2022 (New Zealand) deprivation/regional data. No new sources fetched for this file beyond what is already in this table -- see the file itself for the consolidated view and the cross-country pattern it identifies (rural/deprived areas consistently higher across all 4 countries with a breakdown).
 
+## Veterinary Access Variable -- Session 11 (new file)
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| USA, pet insurance penetration (5.99% of dogs) | NAPHIA (North American Pet Health Insurance Association), via Insurance Business magazine, 2025 | https://www.insurancebusinessmag.com/us/news/breaking-news/naphia-only-4-27-of-us-pets-insured-despite-decade-of-doubledigit-growth-580314.aspx | A |
+| Multi-country pet insurance penetration (Sweden 80%, UK 30%, Italy 29%) | The Insurance Emporium blog | https://www.theinsuranceemporium.co.uk/blog/global-pet-insurance-adoption-rates/ | C, no disclosed methodology |
+| Multi-country pet insurance penetration (Sweden 40%+, UK ~25%, Australia ~10%, Canada ~3%, Germany ~2%) | Insurnest blog | https://insurnest.com/blog/pet-insurance-mga-penetration-rates-by-country/ | C, no disclosed methodology |
+
+**Note:** the two multi-country blog sources disagree on Sweden's exact figure (80% vs 40%+) -- both logged, discrepancy not resolved, per the data-integrity rule. variables/veterinary-access.md also cross-references (not re-fetches) the already-logged Humane Canada 2021, Deutscher Tierschutzbund 2024, and Pfotenhilfe OO sources for a veterinary-cost-as-relinquishment-driver thread.
+
 ## Germany & Austria Sources -- Session 11 additional attempts
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|
