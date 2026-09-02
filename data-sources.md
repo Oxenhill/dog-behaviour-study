@@ -253,6 +253,14 @@
 
 **Not yet located this session:** a direct French-language behaviour-problem-prevalence owner survey -- search surfaced only shelter-abandonment statistics and general advice content, not a prevalence figure. Now treated as a genuine gap alongside Netherlands and Germany.
 
+## Broader Behavioural-Problem Prevalence Sources -- Session 11 additional finds (later in the same continued session)
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| USA, owner personality/psychological-status study (1,564 owners, mini-C-BARQ) | PLOS ONE 2018 | https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192846 | A |
+| France, C-BARQ factorial-structure validation study (IDENTIFIED, not extracted) | Besegher, Rebout, Bovet, Jeannin, Bedossa, Serpell, Hoummady -- ScienceDirect (blocked, not attempted directly), HAL mirror (403), SSRN preprint (429) | https://hal.science/hal-05249036v1/document ; https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5339493 | A (peer-reviewed, James Serpell co-author) -- BLOCKED on 2 of 2 attempted routes |
+
+**Genuinely new correction to the France gap:** unlike Netherlands/Germany (searched, nothing found), France now has a real, on-target, high-quality C-BARQ study identified -- it just could not be extracted this session. Named as the top France target for a future session.
+
 ## Urban vs. Rural Variable -- Session 11 (new file, consolidation only)
 variables/urban-vs-rural.md started this session, consolidating already-logged AHRQ (USA), AIHW (Australia), NHS Digital (UK) sources plus the new Duncan-Sutherland et al. 2022 (New Zealand) deprivation/regional data. No new sources fetched for this file beyond what is already in this table -- see the file itself for the consolidated view and the cross-country pattern it identifies (rural/deprived areas consistently higher across all 4 countries with a breakdown).
 
