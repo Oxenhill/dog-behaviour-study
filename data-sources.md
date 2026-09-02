@@ -307,6 +307,17 @@ variables/urban-vs-rural.md started this session, consolidating already-logged A
 
 **Also attempted this session (Germany national bite-rate gap):** Robert Koch Institut / Destatis search surfaced no direct national bite/injury statistics; a promising-looking Charite (Berlin) dissertation-style PDF at d-nb.info (German National Library) returned a 403 error on the one attempt made -- logged as a further blocked lead, not retried per the efficiency rule. The German national bite-rate gap remains open.
 
+## Broader Behavioural-Problem Prevalence Sources -- Session 11 further autonomous-continuation finds (C-BARQ published-articles list check)
+
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| C-BARQ published-articles master list (used to identify new country leads: France, Sweden, Canada, Germany, Japan, Netherlands, Portugal) | C-BARQ (University of Pennsylvania) official published-articles page | https://vetapps.vet.upenn.edu/cbarq/published-articles.cfm | A (primary institutional list) |
+| Sweden C-BARQ-based breed-comparison study (3,591 dogs, 20 breeds, 2000-2011) | Asp, H.E., Fikse, W.F., Nilsson, K. & Strandberg, E. (2015), Applied Animal Behaviour Science, "Breed differences in everyday behaviour of dogs"; also the underlying Eken Asp, H. (2015) doctoral thesis, SLU | https://pub.epsilon.slu.se/12597/1/EkenAsp_H_150909.pdf (thesis, directly fetchable); journal version at sciencedirect.com/science/article/abs/pii/S0168159115001240 (abstract only, not fetched) | A |
+| France C-BARQ validation study (Besegher et al.) -- RESOLVED-AS-BLOCKED, third route attempted and failed | ScienceDirect (journal of record) | https://www.sciencedirect.com/science/article/pii/S0168159125003144 | Blocked -- robots.txt-disallowed |
+| France C-BARQ validation study (Besegher et al.) -- HAL mirror, second URL attempted | HAL open-access repository | https://hal.science/hal-05249036v1/document | Blocked -- "Anubis" bot-protection access-denied page |
+
+**Not pursued further this session (named leads found via the C-BARQ list but not extracted, logged for a future session):** Sorbie, Cooke & Ventura 2025 (Applied Animal Behaviour Science, "mixed-methods investigation of northern Canadian community dog behavior") -- a genuinely new Canada lead distinct from the already-extracted von Rentzell et al. 2022 study; Hielscher-Zdzieblik et al. 2022 (Animals, Germany, dog age/breed and owner physical activity) -- likely tangential to this study's core prevalence/aggression focus but not yet checked; Van den Berg et al. 2006/2008 (Netherlands, golden retriever aggression genetics) -- narrow breed-specific genetics study, likely too narrow for this study's population-level scope but not yet formally assessed.
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
