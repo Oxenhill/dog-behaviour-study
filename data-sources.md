@@ -246,6 +246,13 @@
 
 **Not yet located this session:** Japan behaviour-prevalence paper (Konno/Ogata) re-attempted with a modified search, still fully blocked (ScienceDirect/ResearchGate, no accessible secondary summary). Australian direct general-population owner-survey (Kobelt et al., suburban Australia study) -- CORE.ac.uk PDF lead (fileserver-az.core.ac.uk/download/pdf/83974632.pdf) returned 404; ScienceDirect abstract page already known blocked from an earlier session. Both logged as dead ends for now, not to be retried without a genuinely new lead.
 
+## Germany & Austria Sources -- Session 11 additional attempts
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Austria, Tierschutz Austria facility admissions (single-site, not national) | OTS.at press release, Jan 2025 | https://www.ots.at/presseaussendung/OTS_20250128_OTS0034/rekordzahl-bei-tieraufnahmen-jedes-vierte-haustier-ausgesetzt | C (org press release, single facility) |
+
+**Blocked this session:** Destatis/gbe-bund.de official German hospital-diagnosis statistics (would give a national ICD-10 W54 count if accessible) -- both `gbe-bund.de/gbe/i?i=Diagnosedaten...` and a Destatis statistischer-bericht publication page returned 404. A national Austrian federation-level shelter survey (equivalent to Germany's Tierschutzbund Trendumfrage) was searched for but not found -- only single-site/regional Austrian sources located across two full sessions of attempts now.
+
 ## New Zealand Sources -- Session 11 addition
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|
