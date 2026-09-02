@@ -195,10 +195,28 @@ Unlike the owner-survey studies above, this is a VETERINARIAN-perspective survey
 - **Breed matters less than environment/owner behaviour:** professionals in this qualitative study explicitly said genetics play a role but environmental factors and owner behaviour "significantly influence outcomes regardless of breed" -- a fourth independent strand of evidence (alongside Austria's vet survey, France's bite-severity survey, and the Austrian OKV series) for the management-culture-over-breed thesis.
 - **Owner psychology:** anxious/stressed owners were observed by these professionals to more often have dogs with separation problems -- a owner-side variable not systematically tracked anywhere else in this study, flagged as a possible future addition.
 
+## Canada
+
+**Source: von Rentzell et al. 2022, PLOS ONE -- [quality: A, peer-reviewed] -- [Scope: household-only, convenience sample of British Columbia dog owners -- NOT a national representative sample]**
+
+Two online-survey studies of British Columbia dog owners, using the C-BARQ instrument (this study's priority instrument, named in the Session 8 scope-broadening note) alongside the Monash Dog Owner Relationship Scale and other attachment measures, comparing Canadian-sourced dogs against dogs imported from international breeders.
+
+| Metric | Figure | Period | Notes |
+|--------|--------|--------|-------|
+| Study 1 sample | 803 owners (745 Canadian dogs, 58 non-Canadian) | Jan 2020 | -- |
+| Study 2 sample | 878 owners (763 Canadian dogs, 115 non-Canadian) | Sep-Oct 2020 | -- |
+| "Difficult behaviour" factor, Canadian vs imported dogs | NO significant difference | 2020 | Direct C-BARQ-derived comparison |
+| "Excitability" factor, dogs from international breeders vs Canadian breeders | LOWER for internationally-bred dogs | 2020 | -- |
+
+**No overall prevalence percentage is reported** -- this study measures a comparative factor score (C-BARQ "difficult behaviour" and "excitability" factors), not a "% of dogs with a problem" figure, so it cannot be added to this file's comparability table above. It is included because it is a genuine C-BARQ application in this study's country scope (a first, alongside the priority instrument named in Session 8), and because of its own conclusion: the authors found dog-origin (Canadian-bred vs internationally-imported) had minimal effect on reported behaviour, and suggested "owner perceptions and attitudes may have a larger influence on the owner-dog relationship than dog characteristics." **This is a fifth independent strand of evidence for this study's management-culture-over-fixed-dog-characteristics thesis** -- structurally the same pattern as the breed-neutral findings from France, Austria (vet survey and OKV series), Germany (Berlin bite-breed data), and the Nordic qualitative study, but applied to import/origin status rather than breed. Directly relevant to this study's breeding-ethics/import-welfare variable (variables/breeding-regulation-and-ethics.md) as well as Core Metric 5.
+
+**Population scope:** convenience sample of BC dog owners recruited via online survey -- explicitly NOT representative of the general Canadian dog population (same sampling-method caveat flagged for other convenience-sample entries in this file, per the Session 10 three-axis comparability note).
+
 ## Attempted but not resolved this session (Session 9 status, carried forward)
 - **Japan:** a specific, promising, peer-reviewed lead was found ("Dogs predisposed to anxiety disorders and related factors in Japan") but could not be extracted -- ScienceDirect robots-blocked (not retried), ResearchGate 429-rate-limited, and a follow-up search for a secondary summary found none. Logged as identified-not-extracted, a concrete named target for a future session rather than a blank gap. Not re-attempted Session 10.
-- **Netherlands, Germany, Canada (bite-adjacent core metric):** searched Session 9 (both English and native-language queries for Germany), only narrow/non-general-population sources found. Canada re-searched Session 10 -- still only a qualitative "northern community dogs" study and a dog-TRAINER-characteristics survey (MDPI 2025, not a prevalence source), no national representative-sample figure. These three remain genuine gaps, not overlooked leads.
-- **France (Session 10):** searched -- found only articles reporting on OTHER countries' studies (Denmark's, misattributed/re-summarised) rather than a French-specific prevalence figure. Vox Canis's summary of the Danish study did surface a genuinely useful methodological point (see the updated comparability note above) but no new French data. France remains a gap for this specific metric, though NOT for bite/shelter data (see data/by-country/France.md, resolved Session 6).
+- **Netherlands, Germany (bite-adjacent core metric):** searched Session 9 (both English and native-language queries for Germany), only narrow/non-general-population sources found. These remain genuine gaps, not overlooked leads.
+- **Canada:** a genuine C-BARQ comparative study (von Rentzell et al. 2022, BC convenience sample) was found and extracted Session 11 -- see the new Canada section above. It does not give an overall prevalence percentage, so a true Canadian "% of dogs with a behaviour problem" figure remains a distinct, unfilled gap, but Canada is no longer a complete blank for this metric.
+- **France (Session 10):** searched -- found only articles reporting on OTHER countries' studies (Denmark's, misattributed/re-summarised) rather than a French-specific prevalence figure. Vox Canis's summary of the Danish study did surface a genuinely useful methodological point (see the updated comparability note above) but no new French data. France remains a gap for this specific metric, though NOT for bite/shelter data (see data/by-country/France.md, resolved Session 6). **Session 11:** a French-language search for a direct behaviour-problem-prevalence survey again surfaced only shelter-abandonment statistics (a national abandonment study, AVA) and general "understanding your dog's behaviour problems" advice/blog content, not a prevalence figure -- this now looks like a genuine gap rather than an under-searched one, consistent with Netherlands/Germany.
 
 ## Not yet researched at all (Session 11+ targets)
 - C-BARQ-specific published country comparisons beyond what Session 9's bibliography check found (South Korea, Mexico, Brazil, Argentina, Slovakia, Iran, and an in-review France paper -- Besegher et al. 2025 -- none in this study's core scope except the pending France paper).
@@ -210,7 +228,8 @@ Unlike the owner-survey studies above, this is a VETERINARIAN-perspective survey
 - Denmark's sample-size discrepancy (502 vs 5,001+) not resolved.
 - No time-series/trend data yet for any country in this file (all are single-point studies) -- unlike bite/BSL data, this metric currently has no before/after or year-over-year view anywhere in the dataset.
 - Japan: a specific promising lead identified, not extracted (see Attempted-but-not-resolved section above).
-- Netherlands, Germany, Canada, France: searched (Sessions 9-10), only narrow/non-general-population sources found -- see Attempted-but-not-resolved section above. These four now look like genuine, real data gaps rather than under-searched ones.
+- Netherlands, Germany, France: searched (Sessions 9-11), only narrow/non-general-population sources found -- see Attempted-but-not-resolved section above. These three now look like genuine, real data gaps rather than under-searched ones.
+- Canada: a comparative C-BARQ study now exists (Session 11, see Canada section) but gives no overall prevalence percentage -- a true Canadian prevalence figure remains a gap, though a lesser one than a complete blank.
 - Norway, Sweden: no DIRECT owner-survey prevalence figure found -- only the qualitative professional-perspective study above, which covers separation-related behaviour specifically, not a general prevalence rate.
 - Austria's entry is vet-reported case frequency, not a direct dog-population prevalence rate -- a genuine Austrian owner-survey prevalence figure remains a distinct, unfilled gap.
 - New Zealand's extracted figure is a shelter-adoption-cohort sample, not general-population -- a general New Zealand household prevalence figure remains a distinct, unfilled gap.
@@ -223,6 +242,7 @@ Unlike the owner-survey studies above, this is a VETERINARIAN-perspective survey
 - Salonen, Sulkama et al. 2020, Scientific Reports (Nature) -- [quality: A]
 - Meyer et al. 2023, Journal of Veterinary Behavior, via University of Copenhagen (animalethics.ku.dk) and companionanimalpsychology.com secondary summary -- [quality: A primary finding, B for the secondary-summary figures not confirmed against the primary text]
 - VetCompass Australia, via Craig et al., MDPI Animals 2021 -- [quality: A]
+- von Rentzell et al. 2022, PLOS ONE (British Columbia C-BARQ comparative study) -- [quality: A] (Session 11)
 - PDSA PAW Report 2024 -- [quality: A]
 - Post-Adoption Problem Behaviours..., MDPI Animals 2018, New Zealand -- [quality: A] (Session 9)
 - Hermann 2023 diploma thesis, University of Veterinary Medicine Vienna, via PHAIDRA repository -- [quality: A] (Session 10)

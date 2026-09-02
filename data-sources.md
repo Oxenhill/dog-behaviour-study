@@ -246,6 +246,13 @@
 
 **Not yet located this session:** Japan behaviour-prevalence paper (Konno/Ogata) re-attempted with a modified search, still fully blocked (ScienceDirect/ResearchGate, no accessible secondary summary). Australian direct general-population owner-survey (Kobelt et al., suburban Australia study) -- CORE.ac.uk PDF lead (fileserver-az.core.ac.uk/download/pdf/83974632.pdf) returned 404; ScienceDirect abstract page already known blocked from an earlier session. Both logged as dead ends for now, not to be retried without a genuinely new lead.
 
+## Broader Behavioural-Problem Prevalence Sources -- Session 11 additions
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Canada, C-BARQ comparative study (British Columbia, Canadian-bred vs internationally-imported dogs) | von Rentzell et al. 2022, PLOS ONE | https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0268885 | A (convenience sample, not national-representative) |
+
+**Not yet located this session:** a direct French-language behaviour-problem-prevalence owner survey -- search surfaced only shelter-abandonment statistics and general advice content, not a prevalence figure. Now treated as a genuine gap alongside Netherlands and Germany.
+
 ## Germany & Austria Sources -- Session 11 additional attempts
 | Topic | Source | URL / identifier | Quality |
 |-------|--------|-------------------|---------|
