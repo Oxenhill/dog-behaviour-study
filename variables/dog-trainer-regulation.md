@@ -1,0 +1,107 @@
+# Variable: Dog Trainer & Owner Regulation by Country
+
+> Source: PMC12897032 (comparative analysis); IACP tracker; perPETual article; country-specific sources
+> All data sourced and cited below
+
+---
+
+## Country-by-Country Summary
+
+### United States
+- No federal licensing for dog trainers
+- No national standard qualification
+- Voluntary certification bodies: CPDT-KA (Certification Council for Professional Dog Trainers), IAABC, KPA, APDT
+- No mandatory owner education for any breed
+- E-collars: No federal ban; 4 states have partial restrictions (RI, CT, HI); pending legislation in NY, NJ, MA, RI
+- Source: IACP tracker 2025; perPETual.care
+
+### United Kingdom
+- No mandatory regulation of dog trainers
+- Voluntary registers: ABTC (Animal Behaviour & Training Council) — government-recognised but not mandatory; APBC; IMDT; PPG UK; KCAI (Kennel Club Accredited Instructor)
+- ABTC is the recognised umbrella body but membership is not legally required to practise
+- No mandatory owner education
+- Dog training qualifications: Level 3/4 nationally recognised but not mandated to work
+- E-collars: Banned in Wales (2010); legal in England and Scotland (as of 2024)
+- Source: ABTC website; IMDT; various
+
+### Germany
+- No nationally standardised dog trainer qualification
+- Commercial trainers require Paragraph 11 permit (Tierschutzgesetz) — but no specific exam or minimum hours standard
+- The permit is the same for all animal businesses (daycare, grooming, breeding, training) — no behaviour-specific standard
+- **Lower Saxony only:** Sachkundenachweis mandatory for ALL first-time dog owners since 2013 (Section 3, NHundG). Covers dog behaviour, management, training, law, practical component
+- **NRW only:** Mandatory for dogs >20kg/40cm shoulder height or classified dangerous
+- Other states: vary; no mandatory owner education in most
+- E-collars: Banned nationally (Tierschutzgesetz)
+- Prong collars: Banned nationally
+- Dog tax (Hundesteuer): Mandatory annual registration tax
+- Source: PMC12897032; perPETual.care; alphazoo.de; worldcarepet.com; animal-lawyer.de
+
+### Austria
+- **Vienna:** 4-hour Sachkundenachweis mandatory for new dog owners since July 2019; Hundeführschein exam for listed breeds since 2010
+- **National (July 2026):** Austria introducing mandatory competency certification for all new dog owners nationally — first country to do this
+- Breeding: All breeding must be registered; Qualzucht (breeding causing suffering) banned
+- E-collars: Banned (Tierschutzgesetz)
+- Prong collars: Banned
+- Source: Tierschutzbund press release June 2026; Global Pet Sitter guide; luxury-vienna.com
+
+### Netherlands
+- No mandatory dog trainer licensing nationally
+- CNVR programme (government-funded Collect, Neuter, Vaccinate, Return) — not about training but about population management
+- Mandatory microchipping and municipal registration
+- E-collars: Pinch banned 2018; electronic banned 2022
+- BSL: Repealed 2009
+- Animal police force (dedicated government service)
+- Source: Multiple Netherlands stray dog policy sources; IACP tracker
+
+### Australia
+- No national mandatory trainer licensing
+- Voluntary bodies: DELTA Institute, PPSA, APDT Australia, KPA, IAABC Australia
+- Mandatory microchipping (state-by-state)
+- E-collars: Banned in ACT, NSW, QLD, SA, Tasmania, Victoria
+- Prong collars: Banned in same states
+- BSL: State-based (varies significantly)
+- Source: IACP tracker 2025
+
+### Japan
+- Limited formal regulation
+- Municipal dog owner education programmes emphasise community coexistence and public responsibility
+- No mandatory trainer licensing
+- Registration required (rabies vaccination certificate system since 1950s)
+- Source: PMC12897032
+
+### Scandinavia
+- Sweden, Finland, Denmark, Norway: All ban e-collars
+- Sweden and Finland: Also ban prong collars
+- Strong voluntary training culture; long positive training heritage
+- Denmark: BSL (multiple breeds)
+- Norway: Pit Bull ban
+- Sweden, Finland: No BSL
+- No mandatory trainer licensing in any Nordic country (as far as found)
+- Source: IACP tracker 2025
+
+---
+
+## Summary Table
+
+| Country | Trainer licensing | Owner education mandatory | E-collar ban | Prong ban | BSL |
+|---------|------------------|--------------------------|--------------|-----------|-----|
+| USA | None | None | Partial (4 states) | None nationally | State/local |
+| UK | None (voluntary) | None | Wales only | None | Yes (4 breeds + XL Bully 2024) |
+| Germany | Paragraph 11 (not specific) | Lower Saxony only | National | National | State-level |
+| Austria | None formally | Vienna 2019; National 2026 | National | National | State-level (listed breeds) |
+| Netherlands | None | None | Yes (2018/2022) | Partial | Repealed 2009 |
+| Australia | None | None | Multiple states | Multiple states | State-based |
+| Japan | None | None | No | No | Limited |
+| Sweden/Finland | None | None | Yes | Yes | No |
+| Denmark | None | None | Yes | ? | Yes (multiple breeds) |
+| Norway | None | None | Yes | ? | Yes (Pit Bull) |
+
+---
+
+## Significance for Study
+The trainer regulation variable is notable for what it DOES NOT show: no country in scope has truly standardised, mandatory trainer qualification. The most regulated end is:
+1. Austria (2026, owner competency nationally mandatory — most recent, outcomes unknown)
+2. Germany Lower Saxony (owner competency since 2013 — some outcomes data may exist)
+3. Germany NRW (breed/size-specific)
+
+**Gap in literature:** No published study has measured the effect of mandatory owner education (Sachkundenachweis) on bite rates or surrender rates in Lower Saxony compared to other German states. This would be a key piece of evidence for the study.
