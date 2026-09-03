@@ -348,6 +348,13 @@ variables/urban-vs-rural.md started this session, consolidating already-logged A
 | Italy C-BARQ validation study (803 owners, 13-factor structure) | Barnard, Serpell, Marinelli, Mongillo et al. 2023, Animals (MDPI) 13(7):1254 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10093636/ (fetched via direct device-side curl) | A |
 | Canada Northern community-dogs C-BARQ study (357 owners) | Sorbie, Cooke & Ventura 2025, Applied Animal Behaviour Science | https://awrn.co.uk/2025/08/15/understanding-the-behaviour-of-adopted-northern-canadian-community-dogs-through-a-mixed-methods-approach/ (fetched via direct device-side curl; ScienceDirect primary text, PII S0168159125000954, blocked by robots.txt as expected) | B (secondary-summary route) |
 
+## Italy Shelter/Surrender Sources -- Session 11 (further continuation)
+
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Italy national shelter-intake scale (~70,000 dogs/yr into public shelters, 2022) | LAV (Lega Anti Vivisezione), "Abbandono, randagismo e canili" | https://www.lav.it/scopri-cosa-facciamo/campagne/animali-familiari/abbandono-randagismo-canili (fetched via direct device-side curl) | B |
+| Italy general abandonment-scale figures (cross-check) | Kodami.it, citing LAV/Assalco-Zoomark/Euromonitor | https://www.kodami.it/la-piaga-degli-abbandoni-in-italia-quali-sono-i-numeri-e-cosa-si-puo-fare/ (fetched via direct device-side curl) | C (secondary aggregation of other sources' figures) |
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
