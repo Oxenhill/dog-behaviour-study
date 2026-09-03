@@ -335,6 +335,12 @@ variables/urban-vs-rural.md started this session, consolidating already-logged A
 | Italy "patentino" system explainer (corroborating source) | my-personaltrainer.it | https://www.my-personaltrainer.it/mypet/patentino-per-cani-quando-scatta-l-obbligo-e-perche-non-riguarda-solo-chi-ha-un-animale-aggressivo.html | C |
 | Ministero della Salute primary pages on patentino/training -- IDENTIFIED, blocked | salute.gov.it (two pages) | https://www.salute.gov.it/new/it/tema/animali-daffezione/formazione-i-proprietari-e-patentino/ and /new/it/faq/faq-formazione-proprietari-di-cani/ -- both blocked by a JavaScript/cookie bot-protection challenge on direct device-side curl | Not assessed, named lead for upgrading Italy's management-culture section to primary-source quality |
 
+## Italy BSL Timeline Reconciliation -- Session 11 (further continuation)
+
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Italy national breed-list ordinance timeline (2006 introduction, 2009 repeal, 2013/2024 renewals) plus a contemporaneous ENCI/veterinary-association breed-neutrality quote | Italian Wikipedia, "Lista delle razze canine pericolose" | https://it.wikipedia.org/wiki/Lista_delle_razze_canine_pericolose (fetched via direct device-side curl) | B (tertiary, but cites Gazzetta Ufficiale publications directly by number/date/signatory) |
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
