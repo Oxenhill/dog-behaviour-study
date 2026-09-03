@@ -341,6 +341,13 @@ variables/urban-vs-rural.md started this session, consolidating already-logged A
 |-------|--------|-------------------|---------|
 | Italy national breed-list ordinance timeline (2006 introduction, 2009 repeal, 2013/2024 renewals) plus a contemporaneous ENCI/veterinary-association breed-neutrality quote | Italian Wikipedia, "Lista delle razze canine pericolose" | https://it.wikipedia.org/wiki/Lista_delle_razze_canine_pericolose (fetched via direct device-side curl) | B (tertiary, but cites Gazzetta Ufficiale publications directly by number/date/signatory) |
 
+## Core Metric 5 (Behavioural Prevalence) -- Italy and Canada resolved, Session 11 (further continuation)
+
+| Topic | Source | URL / identifier | Quality |
+|-------|--------|-------------------|---------|
+| Italy C-BARQ validation study (803 owners, 13-factor structure) | Barnard, Serpell, Marinelli, Mongillo et al. 2023, Animals (MDPI) 13(7):1254 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10093636/ (fetched via direct device-side curl) | A |
+| Canada Northern community-dogs C-BARQ study (357 owners) | Sorbie, Cooke & Ventura 2025, Applied Animal Behaviour Science | https://awrn.co.uk/2025/08/15/understanding-the-behaviour-of-adopted-northern-canadian-community-dogs-through-a-mixed-methods-approach/ (fetched via direct device-side curl; ScienceDirect primary text, PII S0168159125000954, blocked by robots.txt as expected) | B (secondary-summary route) |
+
 ## Rejected Sources (with reason)
 
 | Source | Reason for rejection |
